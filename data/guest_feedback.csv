@@ -1,0 +1,2334 @@
+feedback_id,week,day,source,rating,topic,sentiment
+1,1,Mon,Instagram DM,5,Food quality,Positive
+2,1,Mon,Post-visit survey,4,Wait time,Positive
+3,1,Mon,Instagram DM,5,Wait time,Positive
+4,1,Mon,Google,5,Drinks,Positive
+5,1,Mon,Google,5,Ambience,Positive
+6,1,Mon,Post-visit survey,4,Food quality,Positive
+7,1,Mon,Post-visit survey,5,Food quality,Positive
+8,1,Mon,Google,4,Food quality,Positive
+9,1,Mon,Google,5,Drinks,Positive
+10,1,Mon,Post-visit survey,4,Value,Positive
+11,1,Mon,Post-visit survey,5,Ambience,Positive
+12,1,Mon,Post-visit survey,5,Food quality,Positive
+13,1,Mon,Resy,5,Ambience,Positive
+14,1,Mon,Post-visit survey,5,Drinks,Positive
+15,1,Mon,Resy,4,Food quality,Positive
+16,1,Mon,Post-visit survey,5,Food quality,Positive
+17,1,Mon,Google,4,Food quality,Positive
+18,1,Mon,Instagram DM,4,Food quality,Positive
+19,1,Mon,Post-visit survey,5,Wait time,Positive
+20,1,Mon,Resy,5,Food quality,Positive
+21,1,Mon,Post-visit survey,4,Ambience,Positive
+22,1,Tue,Resy,5,Food quality,Positive
+23,1,Tue,Post-visit survey,5,Food quality,Positive
+24,1,Tue,Instagram DM,4,Food quality,Positive
+25,1,Tue,Resy,5,Food quality,Positive
+26,1,Tue,Resy,5,Ambience,Positive
+27,1,Tue,Post-visit survey,4,Value,Positive
+28,1,Tue,Post-visit survey,5,Drinks,Positive
+29,1,Tue,Google,4,Drinks,Positive
+30,1,Tue,Resy,4,Drinks,Positive
+31,1,Tue,Post-visit survey,5,Ambience,Positive
+32,1,Tue,Post-visit survey,5,Drinks,Positive
+33,1,Tue,Google,3,Food quality,Neutral
+34,1,Tue,Resy,4,Drinks,Positive
+35,1,Wed,Post-visit survey,3,Drinks,Neutral
+36,1,Wed,Resy,5,Value,Positive
+37,1,Wed,Instagram DM,4,Ambience,Positive
+38,1,Wed,Resy,5,Ambience,Positive
+39,1,Wed,Resy,5,Wait time,Positive
+40,1,Wed,Google,5,Food quality,Positive
+41,1,Wed,Google,5,Drinks,Positive
+42,1,Wed,Post-visit survey,3,Ambience,Neutral
+43,1,Wed,Post-visit survey,5,Ambience,Positive
+44,1,Wed,Resy,3,Food quality,Neutral
+45,1,Wed,Google,4,Ambience,Positive
+46,1,Wed,Resy,5,Ambience,Positive
+47,1,Wed,Google,5,Food quality,Positive
+48,1,Wed,Resy,5,Ambience,Positive
+49,1,Wed,Google,4,Service speed,Positive
+50,1,Wed,Post-visit survey,5,Food quality,Positive
+51,1,Wed,Post-visit survey,5,Food quality,Positive
+52,1,Wed,Post-visit survey,5,Wait time,Positive
+53,1,Thu,Resy,4,Food quality,Positive
+54,1,Thu,Post-visit survey,3,Food quality,Neutral
+55,1,Thu,Post-visit survey,5,Ambience,Positive
+56,1,Thu,Google,5,Ambience,Positive
+57,1,Thu,Post-visit survey,4,Service speed,Positive
+58,1,Thu,Google,5,Drinks,Positive
+59,1,Thu,Google,5,Wait time,Positive
+60,1,Thu,Post-visit survey,4,Food quality,Positive
+61,1,Thu,Google,5,Food quality,Positive
+62,1,Thu,Post-visit survey,4,Food quality,Positive
+63,1,Thu,Post-visit survey,4,Ambience,Positive
+64,1,Thu,Resy,4,Value,Positive
+65,1,Thu,Google,5,Food quality,Positive
+66,1,Thu,Post-visit survey,4,Food quality,Positive
+67,1,Thu,Instagram DM,5,Service speed,Positive
+68,1,Fri,Resy,4,Value,Positive
+69,1,Fri,Post-visit survey,5,Drinks,Positive
+70,1,Fri,Instagram DM,3,Food quality,Neutral
+71,1,Fri,Post-visit survey,5,Ambience,Positive
+72,1,Fri,Google,4,Food quality,Positive
+73,1,Fri,Post-visit survey,4,Drinks,Positive
+74,1,Fri,Post-visit survey,5,Value,Positive
+75,1,Fri,Google,5,Food quality,Positive
+76,1,Fri,Post-visit survey,5,Food quality,Positive
+77,1,Fri,Post-visit survey,5,Wait time,Positive
+78,1,Fri,Instagram DM,5,Food quality,Positive
+79,1,Fri,Post-visit survey,4,Drinks,Positive
+80,1,Fri,Post-visit survey,4,Ambience,Positive
+81,1,Fri,Post-visit survey,5,Ambience,Positive
+82,1,Fri,Post-visit survey,4,Value,Positive
+83,1,Fri,Google,5,Food quality,Positive
+84,1,Fri,Instagram DM,5,Food quality,Positive
+85,1,Fri,Google,4,Service speed,Positive
+86,1,Sat,Google,3,Drinks,Neutral
+87,1,Sat,Post-visit survey,5,Wait time,Positive
+88,1,Sat,Post-visit survey,3,Value,Neutral
+89,1,Sat,Resy,4,Ambience,Positive
+90,1,Sat,Post-visit survey,5,Food quality,Positive
+91,1,Sat,Google,5,Food quality,Positive
+92,1,Sat,Post-visit survey,3,Value,Neutral
+93,1,Sat,Post-visit survey,4,Ambience,Positive
+94,1,Sat,Google,4,Drinks,Positive
+95,1,Sat,Post-visit survey,4,Service speed,Positive
+96,1,Sat,Google,4,Drinks,Positive
+97,1,Sat,Post-visit survey,5,Service speed,Positive
+98,1,Sat,Post-visit survey,4,Value,Positive
+99,1,Sat,Instagram DM,4,Service speed,Positive
+100,1,Sat,Resy,4,Ambience,Positive
+101,1,Sat,Post-visit survey,5,Drinks,Positive
+102,1,Sat,Resy,4,Food quality,Positive
+103,1,Sat,Google,3,Ambience,Neutral
+104,1,Sat,Post-visit survey,3,Value,Neutral
+105,1,Sun,Post-visit survey,2,Ambience,Negative
+106,1,Sun,Resy,4,Drinks,Positive
+107,1,Sun,Post-visit survey,3,Food quality,Neutral
+108,1,Sun,Google,3,Wait time,Neutral
+109,1,Sun,Post-visit survey,4,Ambience,Positive
+110,1,Sun,Post-visit survey,3,Ambience,Neutral
+111,1,Sun,Post-visit survey,3,Drinks,Neutral
+112,1,Sun,Resy,3,Service speed,Neutral
+113,1,Sun,Post-visit survey,3,Ambience,Neutral
+114,1,Sun,Post-visit survey,3,Service speed,Neutral
+115,1,Sun,Google,4,Food quality,Positive
+116,1,Sun,Post-visit survey,3,Service speed,Neutral
+117,1,Sun,Google,3,Food quality,Neutral
+118,1,Sun,Post-visit survey,3,Ambience,Neutral
+119,1,Sun,Google,3,Wait time,Neutral
+120,1,Sun,Resy,4,Wait time,Positive
+121,1,Sun,Post-visit survey,3,Wait time,Neutral
+122,1,Sun,Instagram DM,3,Service speed,Neutral
+123,1,Sun,Post-visit survey,3,Service speed,Neutral
+124,1,Sun,Post-visit survey,2,Service speed,Negative
+125,1,Sun,Google,3,Service speed,Neutral
+126,1,Sun,Post-visit survey,4,Drinks,Positive
+127,1,Sun,Post-visit survey,4,Wait time,Positive
+128,1,Sun,Post-visit survey,4,Service speed,Positive
+129,2,Mon,Google,5,Food quality,Positive
+130,2,Mon,Post-visit survey,4,Ambience,Positive
+131,2,Mon,Post-visit survey,4,Food quality,Positive
+132,2,Mon,Post-visit survey,4,Value,Positive
+133,2,Mon,Google,5,Service speed,Positive
+134,2,Mon,Post-visit survey,5,Wait time,Positive
+135,2,Mon,Post-visit survey,4,Value,Positive
+136,2,Mon,Instagram DM,5,Ambience,Positive
+137,2,Mon,Post-visit survey,5,Service speed,Positive
+138,2,Mon,Resy,5,Ambience,Positive
+139,2,Mon,Resy,4,Food quality,Positive
+140,2,Mon,Instagram DM,5,Ambience,Positive
+141,2,Mon,Google,5,Ambience,Positive
+142,2,Mon,Post-visit survey,5,Service speed,Positive
+143,2,Mon,Resy,4,Ambience,Positive
+144,2,Tue,Google,4,Service speed,Positive
+145,2,Tue,Post-visit survey,5,Ambience,Positive
+146,2,Tue,Resy,5,Ambience,Positive
+147,2,Tue,Post-visit survey,4,Food quality,Positive
+148,2,Tue,Post-visit survey,4,Value,Positive
+149,2,Tue,Post-visit survey,5,Wait time,Positive
+150,2,Tue,Google,5,Ambience,Positive
+151,2,Tue,Post-visit survey,5,Food quality,Positive
+152,2,Tue,Post-visit survey,4,Food quality,Positive
+153,2,Tue,Post-visit survey,5,Value,Positive
+154,2,Tue,Post-visit survey,5,Wait time,Positive
+155,2,Tue,Post-visit survey,5,Value,Positive
+156,2,Tue,Post-visit survey,4,Drinks,Positive
+157,2,Tue,Post-visit survey,4,Drinks,Positive
+158,2,Tue,Google,5,Ambience,Positive
+159,2,Tue,Post-visit survey,5,Ambience,Positive
+160,2,Tue,Google,5,Wait time,Positive
+161,2,Tue,Instagram DM,4,Ambience,Positive
+162,2,Wed,Resy,4,Drinks,Positive
+163,2,Wed,Google,5,Food quality,Positive
+164,2,Wed,Post-visit survey,5,Drinks,Positive
+165,2,Wed,Google,4,Food quality,Positive
+166,2,Wed,Google,5,Drinks,Positive
+167,2,Wed,Google,4,Ambience,Positive
+168,2,Wed,Post-visit survey,4,Food quality,Positive
+169,2,Wed,Instagram DM,5,Ambience,Positive
+170,2,Thu,Resy,5,Drinks,Positive
+171,2,Thu,Post-visit survey,5,Service speed,Positive
+172,2,Thu,Google,5,Drinks,Positive
+173,2,Thu,Resy,4,Ambience,Positive
+174,2,Thu,Resy,4,Food quality,Positive
+175,2,Thu,Google,5,Wait time,Positive
+176,2,Thu,Instagram DM,5,Drinks,Positive
+177,2,Thu,Google,5,Ambience,Positive
+178,2,Thu,Post-visit survey,4,Ambience,Positive
+179,2,Thu,Post-visit survey,5,Ambience,Positive
+180,2,Thu,Post-visit survey,4,Food quality,Positive
+181,2,Thu,Instagram DM,4,Food quality,Positive
+182,2,Thu,Google,5,Food quality,Positive
+183,2,Thu,Google,4,Value,Positive
+184,2,Thu,Google,5,Service speed,Positive
+185,2,Thu,Google,4,Ambience,Positive
+186,2,Fri,Post-visit survey,4,Food quality,Positive
+187,2,Fri,Resy,4,Drinks,Positive
+188,2,Fri,Post-visit survey,4,Ambience,Positive
+189,2,Fri,Resy,4,Drinks,Positive
+190,2,Fri,Resy,5,Service speed,Positive
+191,2,Fri,Post-visit survey,5,Wait time,Positive
+192,2,Fri,Google,5,Ambience,Positive
+193,2,Fri,Instagram DM,4,Ambience,Positive
+194,2,Fri,Resy,5,Drinks,Positive
+195,2,Fri,Post-visit survey,4,Value,Positive
+196,2,Fri,Post-visit survey,5,Ambience,Positive
+197,2,Fri,Post-visit survey,5,Drinks,Positive
+198,2,Fri,Post-visit survey,5,Food quality,Positive
+199,2,Fri,Post-visit survey,5,Food quality,Positive
+200,2,Fri,Post-visit survey,4,Food quality,Positive
+201,2,Fri,Post-visit survey,5,Food quality,Positive
+202,2,Fri,Post-visit survey,4,Food quality,Positive
+203,2,Fri,Post-visit survey,4,Service speed,Positive
+204,2,Sat,Post-visit survey,4,Wait time,Positive
+205,2,Sat,Resy,4,Food quality,Positive
+206,2,Sat,Resy,3,Food quality,Neutral
+207,2,Sat,Resy,4,Drinks,Positive
+208,2,Sat,Google,4,Ambience,Positive
+209,2,Sat,Post-visit survey,4,Ambience,Positive
+210,2,Sat,Post-visit survey,5,Wait time,Positive
+211,2,Sat,Post-visit survey,4,Ambience,Positive
+212,2,Sat,Post-visit survey,4,Service speed,Positive
+213,2,Sat,Post-visit survey,4,Drinks,Positive
+214,2,Sat,Post-visit survey,5,Wait time,Positive
+215,2,Sat,Resy,5,Wait time,Positive
+216,2,Sat,Post-visit survey,3,Ambience,Neutral
+217,2,Sat,Post-visit survey,4,Service speed,Positive
+218,2,Sat,Post-visit survey,5,Wait time,Positive
+219,2,Sat,Resy,4,Service speed,Positive
+220,2,Sat,Google,4,Wait time,Positive
+221,2,Sat,Post-visit survey,4,Wait time,Positive
+222,2,Sat,Post-visit survey,4,Service speed,Positive
+223,2,Sat,Google,5,Ambience,Positive
+224,2,Sat,Google,5,Ambience,Positive
+225,2,Sat,Post-visit survey,4,Service speed,Positive
+226,2,Sat,Resy,4,Service speed,Positive
+227,2,Sat,Resy,4,Drinks,Positive
+228,2,Sat,Post-visit survey,4,Wait time,Positive
+229,2,Sat,Post-visit survey,4,Wait time,Positive
+230,2,Sat,Resy,3,Ambience,Neutral
+231,2,Sat,Post-visit survey,3,Drinks,Neutral
+232,2,Sat,Post-visit survey,4,Drinks,Positive
+233,2,Sun,Post-visit survey,4,Value,Positive
+234,2,Sun,Instagram DM,5,Wait time,Positive
+235,2,Sun,Resy,4,Drinks,Positive
+236,2,Sun,Post-visit survey,5,Wait time,Positive
+237,2,Sun,Google,4,Ambience,Positive
+238,2,Sun,Google,4,Drinks,Positive
+239,2,Sun,Instagram DM,5,Service speed,Positive
+240,2,Sun,Resy,4,Food quality,Positive
+241,2,Sun,Post-visit survey,4,Service speed,Positive
+242,2,Sun,Instagram DM,5,Value,Positive
+243,2,Sun,Post-visit survey,4,Wait time,Positive
+244,2,Sun,Post-visit survey,4,Value,Positive
+245,2,Sun,Instagram DM,4,Service speed,Positive
+246,2,Sun,Google,4,Ambience,Positive
+247,2,Sun,Post-visit survey,4,Wait time,Positive
+248,2,Sun,Resy,4,Ambience,Positive
+249,2,Sun,Post-visit survey,4,Drinks,Positive
+250,2,Sun,Google,5,Drinks,Positive
+251,2,Sun,Google,5,Service speed,Positive
+252,2,Sun,Post-visit survey,5,Ambience,Positive
+253,2,Sun,Google,4,Ambience,Positive
+254,3,Mon,Post-visit survey,4,Drinks,Positive
+255,3,Mon,Post-visit survey,5,Ambience,Positive
+256,3,Mon,Resy,5,Ambience,Positive
+257,3,Mon,Google,4,Drinks,Positive
+258,3,Mon,Post-visit survey,4,Wait time,Positive
+259,3,Tue,Google,5,Ambience,Positive
+260,3,Tue,Post-visit survey,4,Food quality,Positive
+261,3,Tue,Post-visit survey,4,Food quality,Positive
+262,3,Tue,Google,3,Ambience,Neutral
+263,3,Tue,Instagram DM,5,Drinks,Positive
+264,3,Tue,Google,5,Drinks,Positive
+265,3,Tue,Resy,4,Ambience,Positive
+266,3,Tue,Post-visit survey,5,Food quality,Positive
+267,3,Tue,Post-visit survey,4,Ambience,Positive
+268,3,Tue,Instagram DM,5,Wait time,Positive
+269,3,Tue,Google,5,Value,Positive
+270,3,Tue,Resy,4,Ambience,Positive
+271,3,Tue,Google,5,Food quality,Positive
+272,3,Tue,Resy,5,Food quality,Positive
+273,3,Tue,Post-visit survey,4,Ambience,Positive
+274,3,Tue,Post-visit survey,4,Wait time,Positive
+275,3,Tue,Instagram DM,3,Value,Neutral
+276,3,Tue,Google,4,Ambience,Positive
+277,3,Tue,Resy,5,Food quality,Positive
+278,3,Tue,Post-visit survey,4,Food quality,Positive
+279,3,Wed,Google,4,Food quality,Positive
+280,3,Wed,Instagram DM,3,Ambience,Neutral
+281,3,Wed,Google,4,Service speed,Positive
+282,3,Wed,Post-visit survey,5,Service speed,Positive
+283,3,Wed,Post-visit survey,4,Food quality,Positive
+284,3,Wed,Post-visit survey,5,Food quality,Positive
+285,3,Wed,Google,4,Value,Positive
+286,3,Wed,Google,5,Drinks,Positive
+287,3,Wed,Post-visit survey,4,Food quality,Positive
+288,3,Wed,Post-visit survey,5,Ambience,Positive
+289,3,Wed,Google,4,Wait time,Positive
+290,3,Wed,Resy,4,Food quality,Positive
+291,3,Thu,Post-visit survey,5,Food quality,Positive
+292,3,Thu,Post-visit survey,4,Service speed,Positive
+293,3,Thu,Post-visit survey,4,Ambience,Positive
+294,3,Thu,Post-visit survey,5,Wait time,Positive
+295,3,Thu,Google,5,Value,Positive
+296,3,Thu,Resy,4,Food quality,Positive
+297,3,Thu,Post-visit survey,4,Food quality,Positive
+298,3,Thu,Resy,5,Drinks,Positive
+299,3,Thu,Instagram DM,4,Ambience,Positive
+300,3,Thu,Post-visit survey,4,Service speed,Positive
+301,3,Thu,Resy,4,Food quality,Positive
+302,3,Thu,Post-visit survey,4,Food quality,Positive
+303,3,Thu,Resy,5,Service speed,Positive
+304,3,Thu,Google,5,Food quality,Positive
+305,3,Thu,Google,4,Drinks,Positive
+306,3,Thu,Resy,4,Food quality,Positive
+307,3,Thu,Google,3,Ambience,Neutral
+308,3,Thu,Instagram DM,5,Service speed,Positive
+309,3,Thu,Resy,5,Value,Positive
+310,3,Thu,Instagram DM,4,Ambience,Positive
+311,3,Thu,Post-visit survey,5,Ambience,Positive
+312,3,Fri,Post-visit survey,5,Wait time,Positive
+313,3,Fri,Instagram DM,5,Food quality,Positive
+314,3,Fri,Instagram DM,4,Service speed,Positive
+315,3,Fri,Instagram DM,4,Drinks,Positive
+316,3,Fri,Post-visit survey,5,Drinks,Positive
+317,3,Fri,Post-visit survey,5,Food quality,Positive
+318,3,Fri,Post-visit survey,4,Service speed,Positive
+319,3,Fri,Google,5,Wait time,Positive
+320,3,Fri,Google,5,Drinks,Positive
+321,3,Fri,Google,4,Ambience,Positive
+322,3,Fri,Resy,4,Drinks,Positive
+323,3,Fri,Post-visit survey,5,Ambience,Positive
+324,3,Fri,Google,4,Wait time,Positive
+325,3,Fri,Post-visit survey,5,Ambience,Positive
+326,3,Fri,Google,4,Drinks,Positive
+327,3,Fri,Post-visit survey,5,Wait time,Positive
+328,3,Fri,Post-visit survey,5,Wait time,Positive
+329,3,Fri,Post-visit survey,5,Wait time,Positive
+330,3,Fri,Google,4,Food quality,Positive
+331,3,Fri,Google,4,Drinks,Positive
+332,3,Fri,Post-visit survey,4,Wait time,Positive
+333,3,Fri,Google,4,Ambience,Positive
+334,3,Fri,Resy,5,Ambience,Positive
+335,3,Fri,Google,5,Ambience,Positive
+336,3,Fri,Post-visit survey,4,Food quality,Positive
+337,3,Fri,Resy,4,Value,Positive
+338,3,Sat,Post-visit survey,4,Service speed,Positive
+339,3,Sat,Google,3,Food quality,Neutral
+340,3,Sat,Google,5,Value,Positive
+341,3,Sat,Post-visit survey,5,Ambience,Positive
+342,3,Sat,Google,4,Food quality,Positive
+343,3,Sat,Post-visit survey,4,Food quality,Positive
+344,3,Sat,Post-visit survey,5,Service speed,Positive
+345,3,Sat,Post-visit survey,5,Service speed,Positive
+346,3,Sat,Google,4,Drinks,Positive
+347,3,Sat,Google,3,Ambience,Neutral
+348,3,Sat,Google,4,Food quality,Positive
+349,3,Sat,Post-visit survey,4,Ambience,Positive
+350,3,Sat,Post-visit survey,5,Food quality,Positive
+351,3,Sat,Resy,3,Service speed,Neutral
+352,3,Sat,Post-visit survey,4,Value,Positive
+353,3,Sat,Post-visit survey,5,Wait time,Positive
+354,3,Sat,Post-visit survey,5,Drinks,Positive
+355,3,Sat,Google,5,Ambience,Positive
+356,3,Sat,Post-visit survey,4,Drinks,Positive
+357,3,Sun,Google,5,Food quality,Positive
+358,3,Sun,Google,5,Service speed,Positive
+359,3,Sun,Post-visit survey,2,Ambience,Negative
+360,3,Sun,Post-visit survey,3,Food quality,Neutral
+361,3,Sun,Post-visit survey,4,Service speed,Positive
+362,3,Sun,Post-visit survey,4,Food quality,Positive
+363,3,Sun,Post-visit survey,4,Drinks,Positive
+364,3,Sun,Post-visit survey,4,Service speed,Positive
+365,3,Sun,Post-visit survey,4,Ambience,Positive
+366,3,Sun,Post-visit survey,5,Food quality,Positive
+367,3,Sun,Instagram DM,4,Ambience,Positive
+368,3,Sun,Post-visit survey,4,Ambience,Positive
+369,3,Sun,Post-visit survey,3,Wait time,Neutral
+370,3,Sun,Instagram DM,4,Food quality,Positive
+371,3,Sun,Post-visit survey,3,Wait time,Neutral
+372,4,Mon,Instagram DM,5,Service speed,Positive
+373,4,Mon,Google,5,Service speed,Positive
+374,4,Mon,Instagram DM,4,Drinks,Positive
+375,4,Mon,Instagram DM,4,Drinks,Positive
+376,4,Mon,Resy,4,Food quality,Positive
+377,4,Mon,Post-visit survey,4,Ambience,Positive
+378,4,Mon,Post-visit survey,5,Wait time,Positive
+379,4,Mon,Resy,5,Food quality,Positive
+380,4,Mon,Resy,5,Drinks,Positive
+381,4,Mon,Google,4,Drinks,Positive
+382,4,Mon,Post-visit survey,5,Ambience,Positive
+383,4,Mon,Resy,5,Value,Positive
+384,4,Mon,Post-visit survey,5,Food quality,Positive
+385,4,Mon,Resy,5,Service speed,Positive
+386,4,Mon,Resy,4,Food quality,Positive
+387,4,Mon,Instagram DM,5,Ambience,Positive
+388,4,Tue,Post-visit survey,4,Wait time,Positive
+389,4,Tue,Google,5,Service speed,Positive
+390,4,Tue,Instagram DM,4,Ambience,Positive
+391,4,Tue,Google,5,Wait time,Positive
+392,4,Tue,Post-visit survey,5,Ambience,Positive
+393,4,Tue,Resy,5,Value,Positive
+394,4,Tue,Google,4,Food quality,Positive
+395,4,Tue,Post-visit survey,4,Drinks,Positive
+396,4,Tue,Post-visit survey,4,Wait time,Positive
+397,4,Tue,Google,4,Food quality,Positive
+398,4,Tue,Post-visit survey,3,Food quality,Neutral
+399,4,Tue,Instagram DM,5,Value,Positive
+400,4,Tue,Google,4,Drinks,Positive
+401,4,Tue,Resy,4,Service speed,Positive
+402,4,Tue,Post-visit survey,4,Wait time,Positive
+403,4,Wed,Post-visit survey,4,Service speed,Positive
+404,4,Wed,Resy,4,Wait time,Positive
+405,4,Wed,Resy,5,Ambience,Positive
+406,4,Wed,Google,4,Wait time,Positive
+407,4,Wed,Post-visit survey,3,Ambience,Neutral
+408,4,Wed,Post-visit survey,3,Wait time,Neutral
+409,4,Wed,Google,5,Ambience,Positive
+410,4,Wed,Post-visit survey,4,Wait time,Positive
+411,4,Wed,Resy,4,Drinks,Positive
+412,4,Wed,Resy,4,Service speed,Positive
+413,4,Wed,Google,4,Wait time,Positive
+414,4,Wed,Google,3,Ambience,Neutral
+415,4,Wed,Google,4,Food quality,Positive
+416,4,Wed,Post-visit survey,5,Wait time,Positive
+417,4,Wed,Post-visit survey,4,Wait time,Positive
+418,4,Wed,Post-visit survey,4,Food quality,Positive
+419,4,Wed,Google,4,Ambience,Positive
+420,4,Wed,Resy,4,Service speed,Positive
+421,4,Wed,Google,3,Wait time,Neutral
+422,4,Thu,Google,4,Ambience,Positive
+423,4,Thu,Post-visit survey,4,Wait time,Positive
+424,4,Thu,Google,3,Food quality,Neutral
+425,4,Thu,Google,4,Drinks,Positive
+426,4,Thu,Google,4,Value,Positive
+427,4,Thu,Post-visit survey,5,Service speed,Positive
+428,4,Thu,Google,5,Value,Positive
+429,4,Thu,Post-visit survey,4,Ambience,Positive
+430,4,Thu,Post-visit survey,4,Drinks,Positive
+431,4,Thu,Google,4,Ambience,Positive
+432,4,Thu,Resy,5,Wait time,Positive
+433,4,Thu,Google,5,Food quality,Positive
+434,4,Thu,Post-visit survey,5,Value,Positive
+435,4,Thu,Post-visit survey,4,Food quality,Positive
+436,4,Thu,Post-visit survey,5,Service speed,Positive
+437,4,Thu,Post-visit survey,5,Ambience,Positive
+438,4,Thu,Post-visit survey,5,Ambience,Positive
+439,4,Thu,Google,5,Value,Positive
+440,4,Thu,Post-visit survey,5,Drinks,Positive
+441,4,Thu,Google,4,Ambience,Positive
+442,4,Thu,Google,5,Food quality,Positive
+443,4,Thu,Post-visit survey,5,Service speed,Positive
+444,4,Fri,Resy,5,Food quality,Positive
+445,4,Fri,Google,4,Food quality,Positive
+446,4,Fri,Google,4,Service speed,Positive
+447,4,Fri,Resy,4,Value,Positive
+448,4,Fri,Post-visit survey,4,Drinks,Positive
+449,4,Fri,Google,3,Ambience,Neutral
+450,4,Fri,Post-visit survey,3,Food quality,Neutral
+451,4,Fri,Google,4,Ambience,Positive
+452,4,Fri,Post-visit survey,5,Drinks,Positive
+453,4,Fri,Post-visit survey,4,Value,Positive
+454,4,Fri,Post-visit survey,4,Ambience,Positive
+455,4,Fri,Google,4,Wait time,Positive
+456,4,Fri,Resy,4,Food quality,Positive
+457,4,Fri,Post-visit survey,4,Drinks,Positive
+458,4,Fri,Post-visit survey,4,Food quality,Positive
+459,4,Fri,Post-visit survey,5,Drinks,Positive
+460,4,Fri,Instagram DM,4,Food quality,Positive
+461,4,Fri,Post-visit survey,4,Wait time,Positive
+462,4,Fri,Post-visit survey,5,Food quality,Positive
+463,4,Sat,Google,4,Drinks,Positive
+464,4,Sat,Post-visit survey,3,Wait time,Neutral
+465,4,Sat,Post-visit survey,3,Wait time,Neutral
+466,4,Sat,Post-visit survey,4,Service speed,Positive
+467,4,Sat,Google,2,Value,Negative
+468,4,Sat,Resy,3,Service speed,Neutral
+469,4,Sat,Google,3,Food quality,Neutral
+470,4,Sat,Post-visit survey,3,Food quality,Neutral
+471,4,Sat,Post-visit survey,3,Ambience,Neutral
+472,4,Sat,Post-visit survey,4,Wait time,Positive
+473,4,Sat,Google,3,Drinks,Neutral
+474,4,Sat,Post-visit survey,2,Food quality,Negative
+475,4,Sat,Post-visit survey,3,Wait time,Neutral
+476,4,Sat,Resy,4,Food quality,Positive
+477,4,Sat,Post-visit survey,3,Food quality,Neutral
+478,4,Sat,Post-visit survey,2,Ambience,Negative
+479,4,Sat,Google,3,Service speed,Neutral
+480,4,Sat,Post-visit survey,5,Wait time,Positive
+481,4,Sat,Google,3,Food quality,Neutral
+482,4,Sat,Post-visit survey,3,Wait time,Neutral
+483,4,Sat,Post-visit survey,3,Food quality,Neutral
+484,4,Sat,Instagram DM,3,Wait time,Neutral
+485,4,Sat,Post-visit survey,4,Value,Positive
+486,4,Sat,Resy,4,Drinks,Positive
+487,4,Sun,Instagram DM,4,Ambience,Positive
+488,4,Sun,Post-visit survey,4,Value,Positive
+489,4,Sun,Post-visit survey,4,Food quality,Positive
+490,4,Sun,Post-visit survey,3,Ambience,Neutral
+491,4,Sun,Post-visit survey,5,Food quality,Positive
+492,4,Sun,Google,4,Service speed,Positive
+493,4,Sun,Instagram DM,3,Ambience,Neutral
+494,4,Sun,Post-visit survey,4,Food quality,Positive
+495,4,Sun,Resy,5,Ambience,Positive
+496,4,Sun,Google,4,Ambience,Positive
+497,4,Sun,Google,4,Drinks,Positive
+498,4,Sun,Resy,4,Drinks,Positive
+499,4,Sun,Resy,4,Food quality,Positive
+500,5,Mon,Instagram DM,5,Value,Positive
+501,5,Mon,Resy,5,Ambience,Positive
+502,5,Mon,Post-visit survey,4,Food quality,Positive
+503,5,Mon,Google,5,Ambience,Positive
+504,5,Mon,Google,5,Ambience,Positive
+505,5,Mon,Post-visit survey,4,Ambience,Positive
+506,5,Mon,Google,5,Drinks,Positive
+507,5,Mon,Google,5,Service speed,Positive
+508,5,Mon,Post-visit survey,4,Ambience,Positive
+509,5,Mon,Resy,4,Food quality,Positive
+510,5,Tue,Post-visit survey,4,Ambience,Positive
+511,5,Tue,Post-visit survey,3,Drinks,Neutral
+512,5,Tue,Post-visit survey,4,Drinks,Positive
+513,5,Tue,Post-visit survey,4,Value,Positive
+514,5,Tue,Post-visit survey,5,Ambience,Positive
+515,5,Tue,Google,5,Wait time,Positive
+516,5,Tue,Resy,3,Food quality,Neutral
+517,5,Tue,Post-visit survey,5,Ambience,Positive
+518,5,Tue,Google,5,Food quality,Positive
+519,5,Wed,Google,5,Food quality,Positive
+520,5,Wed,Resy,4,Wait time,Positive
+521,5,Wed,Post-visit survey,5,Value,Positive
+522,5,Wed,Google,5,Ambience,Positive
+523,5,Wed,Post-visit survey,5,Wait time,Positive
+524,5,Wed,Post-visit survey,5,Ambience,Positive
+525,5,Wed,Google,5,Drinks,Positive
+526,5,Wed,Post-visit survey,4,Food quality,Positive
+527,5,Wed,Post-visit survey,5,Food quality,Positive
+528,5,Wed,Google,4,Value,Positive
+529,5,Wed,Google,5,Food quality,Positive
+530,5,Wed,Resy,5,Value,Positive
+531,5,Wed,Post-visit survey,5,Drinks,Positive
+532,5,Wed,Post-visit survey,5,Food quality,Positive
+533,5,Wed,Google,5,Food quality,Positive
+534,5,Wed,Post-visit survey,5,Drinks,Positive
+535,5,Wed,Google,4,Drinks,Positive
+536,5,Wed,Post-visit survey,5,Service speed,Positive
+537,5,Wed,Post-visit survey,4,Drinks,Positive
+538,5,Wed,Google,5,Wait time,Positive
+539,5,Wed,Post-visit survey,4,Ambience,Positive
+540,5,Thu,Resy,4,Service speed,Positive
+541,5,Thu,Post-visit survey,4,Service speed,Positive
+542,5,Thu,Instagram DM,4,Food quality,Positive
+543,5,Thu,Resy,4,Food quality,Positive
+544,5,Thu,Google,4,Wait time,Positive
+545,5,Thu,Resy,4,Drinks,Positive
+546,5,Thu,Post-visit survey,4,Wait time,Positive
+547,5,Thu,Google,4,Value,Positive
+548,5,Thu,Post-visit survey,4,Drinks,Positive
+549,5,Thu,Post-visit survey,5,Wait time,Positive
+550,5,Thu,Google,4,Service speed,Positive
+551,5,Thu,Resy,5,Wait time,Positive
+552,5,Thu,Post-visit survey,4,Value,Positive
+553,5,Thu,Resy,4,Value,Positive
+554,5,Thu,Google,3,Service speed,Neutral
+555,5,Thu,Post-visit survey,5,Wait time,Positive
+556,5,Thu,Post-visit survey,5,Food quality,Positive
+557,5,Thu,Resy,4,Food quality,Positive
+558,5,Thu,Post-visit survey,5,Wait time,Positive
+559,5,Thu,Post-visit survey,5,Value,Positive
+560,5,Thu,Post-visit survey,4,Value,Positive
+561,5,Thu,Resy,5,Value,Positive
+562,5,Thu,Post-visit survey,4,Food quality,Positive
+563,5,Fri,Post-visit survey,4,Service speed,Positive
+564,5,Fri,Post-visit survey,5,Service speed,Positive
+565,5,Fri,Post-visit survey,4,Service speed,Positive
+566,5,Fri,Post-visit survey,4,Drinks,Positive
+567,5,Fri,Post-visit survey,3,Service speed,Neutral
+568,5,Fri,Post-visit survey,3,Ambience,Neutral
+569,5,Fri,Post-visit survey,4,Ambience,Positive
+570,5,Fri,Resy,5,Service speed,Positive
+571,5,Fri,Post-visit survey,5,Value,Positive
+572,5,Fri,Google,3,Ambience,Neutral
+573,5,Fri,Post-visit survey,4,Food quality,Positive
+574,5,Fri,Google,5,Food quality,Positive
+575,5,Fri,Post-visit survey,5,Value,Positive
+576,5,Fri,Google,4,Ambience,Positive
+577,5,Fri,Resy,4,Drinks,Positive
+578,5,Fri,Post-visit survey,4,Drinks,Positive
+579,5,Fri,Resy,3,Wait time,Neutral
+580,5,Fri,Google,4,Ambience,Positive
+581,5,Fri,Google,4,Ambience,Positive
+582,5,Fri,Google,2,Ambience,Negative
+583,5,Fri,Post-visit survey,3,Value,Neutral
+584,5,Fri,Post-visit survey,3,Ambience,Neutral
+585,5,Fri,Resy,3,Service speed,Neutral
+586,5,Fri,Google,4,Drinks,Positive
+587,5,Fri,Google,4,Food quality,Positive
+588,5,Fri,Resy,4,Ambience,Positive
+589,5,Fri,Post-visit survey,5,Service speed,Positive
+590,5,Fri,Post-visit survey,4,Food quality,Positive
+591,5,Fri,Google,4,Wait time,Positive
+592,5,Fri,Google,4,Wait time,Positive
+593,5,Fri,Post-visit survey,4,Value,Positive
+594,5,Sat,Post-visit survey,4,Ambience,Positive
+595,5,Sat,Post-visit survey,3,Value,Neutral
+596,5,Sat,Google,4,Wait time,Positive
+597,5,Sat,Google,4,Wait time,Positive
+598,5,Sat,Post-visit survey,3,Ambience,Neutral
+599,5,Sat,Post-visit survey,3,Ambience,Neutral
+600,5,Sat,Google,3,Food quality,Neutral
+601,5,Sat,Google,4,Drinks,Positive
+602,5,Sat,Google,5,Ambience,Positive
+603,5,Sat,Google,4,Ambience,Positive
+604,5,Sat,Post-visit survey,3,Food quality,Neutral
+605,5,Sat,Google,4,Wait time,Positive
+606,5,Sat,Resy,5,Drinks,Positive
+607,5,Sat,Post-visit survey,4,Wait time,Positive
+608,5,Sat,Post-visit survey,3,Service speed,Neutral
+609,5,Sat,Google,3,Drinks,Neutral
+610,5,Sat,Post-visit survey,3,Value,Neutral
+611,5,Sat,Google,4,Ambience,Positive
+612,5,Sat,Post-visit survey,4,Food quality,Positive
+613,5,Sat,Google,3,Food quality,Neutral
+614,5,Sat,Google,4,Service speed,Positive
+615,5,Sat,Post-visit survey,4,Service speed,Positive
+616,5,Sat,Google,4,Drinks,Positive
+617,5,Sat,Post-visit survey,2,Value,Negative
+618,5,Sat,Resy,3,Service speed,Neutral
+619,5,Sat,Instagram DM,3,Drinks,Neutral
+620,5,Sat,Google,3,Service speed,Neutral
+621,5,Sat,Google,4,Wait time,Positive
+622,5,Sun,Post-visit survey,4,Value,Positive
+623,5,Sun,Post-visit survey,2,Food quality,Negative
+624,5,Sun,Post-visit survey,2,Wait time,Negative
+625,5,Sun,Post-visit survey,3,Drinks,Neutral
+626,5,Sun,Google,3,Food quality,Neutral
+627,5,Sun,Google,2,Service speed,Negative
+628,5,Sun,Post-visit survey,3,Ambience,Neutral
+629,5,Sun,Post-visit survey,3,Drinks,Neutral
+630,5,Sun,Google,2,Service speed,Negative
+631,5,Sun,Google,3,Food quality,Neutral
+632,5,Sun,Post-visit survey,3,Wait time,Neutral
+633,5,Sun,Post-visit survey,2,Value,Negative
+634,5,Sun,Google,3,Service speed,Neutral
+635,5,Sun,Post-visit survey,3,Food quality,Neutral
+636,5,Sun,Post-visit survey,3,Wait time,Neutral
+637,5,Sun,Instagram DM,3,Wait time,Neutral
+638,5,Sun,Post-visit survey,3,Value,Neutral
+639,5,Sun,Post-visit survey,2,Wait time,Negative
+640,5,Sun,Google,2,Service speed,Negative
+641,5,Sun,Google,2,Wait time,Negative
+642,6,Mon,Google,5,Drinks,Positive
+643,6,Mon,Post-visit survey,5,Ambience,Positive
+644,6,Mon,Google,4,Food quality,Positive
+645,6,Mon,Google,5,Food quality,Positive
+646,6,Mon,Post-visit survey,4,Ambience,Positive
+647,6,Mon,Google,4,Ambience,Positive
+648,6,Mon,Post-visit survey,4,Drinks,Positive
+649,6,Mon,Google,5,Ambience,Positive
+650,6,Mon,Resy,3,Service speed,Neutral
+651,6,Mon,Resy,5,Ambience,Positive
+652,6,Mon,Google,5,Value,Positive
+653,6,Tue,Resy,5,Ambience,Positive
+654,6,Tue,Resy,5,Value,Positive
+655,6,Tue,Post-visit survey,5,Value,Positive
+656,6,Tue,Google,4,Service speed,Positive
+657,6,Tue,Post-visit survey,4,Value,Positive
+658,6,Tue,Post-visit survey,4,Drinks,Positive
+659,6,Tue,Post-visit survey,5,Drinks,Positive
+660,6,Tue,Resy,5,Ambience,Positive
+661,6,Tue,Post-visit survey,5,Drinks,Positive
+662,6,Tue,Instagram DM,5,Wait time,Positive
+663,6,Tue,Google,5,Ambience,Positive
+664,6,Wed,Post-visit survey,4,Food quality,Positive
+665,6,Wed,Google,4,Drinks,Positive
+666,6,Wed,Instagram DM,4,Food quality,Positive
+667,6,Wed,Google,5,Service speed,Positive
+668,6,Wed,Google,3,Service speed,Neutral
+669,6,Wed,Google,4,Drinks,Positive
+670,6,Wed,Instagram DM,4,Food quality,Positive
+671,6,Wed,Google,4,Food quality,Positive
+672,6,Wed,Google,4,Value,Positive
+673,6,Wed,Post-visit survey,4,Food quality,Positive
+674,6,Wed,Resy,5,Drinks,Positive
+675,6,Wed,Post-visit survey,4,Service speed,Positive
+676,6,Wed,Google,4,Food quality,Positive
+677,6,Wed,Google,5,Value,Positive
+678,6,Wed,Instagram DM,4,Food quality,Positive
+679,6,Thu,Instagram DM,4,Service speed,Positive
+680,6,Thu,Post-visit survey,5,Ambience,Positive
+681,6,Thu,Resy,5,Food quality,Positive
+682,6,Thu,Instagram DM,4,Ambience,Positive
+683,6,Thu,Post-visit survey,4,Ambience,Positive
+684,6,Thu,Post-visit survey,5,Ambience,Positive
+685,6,Thu,Post-visit survey,5,Food quality,Positive
+686,6,Thu,Post-visit survey,5,Food quality,Positive
+687,6,Thu,Instagram DM,4,Value,Positive
+688,6,Thu,Google,5,Drinks,Positive
+689,6,Thu,Resy,5,Wait time,Positive
+690,6,Thu,Post-visit survey,3,Food quality,Neutral
+691,6,Thu,Resy,5,Food quality,Positive
+692,6,Thu,Post-visit survey,5,Ambience,Positive
+693,6,Thu,Resy,4,Food quality,Positive
+694,6,Thu,Google,5,Value,Positive
+695,6,Thu,Google,4,Food quality,Positive
+696,6,Thu,Google,4,Drinks,Positive
+697,6,Thu,Resy,5,Drinks,Positive
+698,6,Thu,Resy,4,Drinks,Positive
+699,6,Thu,Google,5,Wait time,Positive
+700,6,Thu,Google,5,Value,Positive
+701,6,Thu,Resy,4,Food quality,Positive
+702,6,Fri,Google,4,Ambience,Positive
+703,6,Fri,Google,4,Service speed,Positive
+704,6,Fri,Resy,3,Service speed,Neutral
+705,6,Fri,Resy,3,Food quality,Neutral
+706,6,Fri,Resy,4,Wait time,Positive
+707,6,Fri,Post-visit survey,4,Wait time,Positive
+708,6,Fri,Instagram DM,3,Wait time,Neutral
+709,6,Fri,Google,4,Value,Positive
+710,6,Fri,Google,4,Drinks,Positive
+711,6,Fri,Post-visit survey,4,Food quality,Positive
+712,6,Fri,Resy,3,Value,Neutral
+713,6,Fri,Google,4,Wait time,Positive
+714,6,Fri,Post-visit survey,3,Service speed,Neutral
+715,6,Fri,Google,3,Wait time,Neutral
+716,6,Fri,Google,4,Service speed,Positive
+717,6,Fri,Resy,4,Ambience,Positive
+718,6,Fri,Google,4,Ambience,Positive
+719,6,Fri,Post-visit survey,4,Ambience,Positive
+720,6,Fri,Post-visit survey,5,Food quality,Positive
+721,6,Fri,Resy,4,Drinks,Positive
+722,6,Fri,Google,4,Food quality,Positive
+723,6,Fri,Google,4,Food quality,Positive
+724,6,Fri,Google,3,Ambience,Neutral
+725,6,Fri,Post-visit survey,4,Wait time,Positive
+726,6,Fri,Post-visit survey,4,Wait time,Positive
+727,6,Fri,Google,4,Wait time,Positive
+728,6,Fri,Resy,2,Food quality,Negative
+729,6,Fri,Google,4,Ambience,Positive
+730,6,Fri,Post-visit survey,4,Wait time,Positive
+731,6,Fri,Instagram DM,4,Wait time,Positive
+732,6,Fri,Post-visit survey,3,Drinks,Neutral
+733,6,Fri,Post-visit survey,3,Drinks,Neutral
+734,6,Sat,Post-visit survey,4,Food quality,Positive
+735,6,Sat,Post-visit survey,2,Service speed,Negative
+736,6,Sat,Resy,4,Ambience,Positive
+737,6,Sat,Google,3,Service speed,Neutral
+738,6,Sat,Resy,2,Ambience,Negative
+739,6,Sat,Google,4,Value,Positive
+740,6,Sat,Post-visit survey,2,Food quality,Negative
+741,6,Sat,Post-visit survey,3,Drinks,Neutral
+742,6,Sat,Resy,3,Service speed,Neutral
+743,6,Sat,Resy,4,Wait time,Positive
+744,6,Sat,Resy,4,Ambience,Positive
+745,6,Sat,Google,2,Service speed,Negative
+746,6,Sat,Google,5,Food quality,Positive
+747,6,Sat,Post-visit survey,4,Service speed,Positive
+748,6,Sat,Post-visit survey,4,Wait time,Positive
+749,6,Sat,Post-visit survey,3,Value,Neutral
+750,6,Sat,Post-visit survey,3,Food quality,Neutral
+751,6,Sat,Post-visit survey,3,Ambience,Neutral
+752,6,Sat,Resy,3,Drinks,Neutral
+753,6,Sat,Post-visit survey,2,Food quality,Negative
+754,6,Sat,Google,2,Food quality,Negative
+755,6,Sat,Post-visit survey,3,Service speed,Neutral
+756,6,Sat,Resy,3,Service speed,Neutral
+757,6,Sat,Google,5,Ambience,Positive
+758,6,Sat,Google,3,Ambience,Neutral
+759,6,Sat,Instagram DM,2,Wait time,Negative
+760,6,Sat,Post-visit survey,3,Service speed,Neutral
+761,6,Sat,Post-visit survey,2,Wait time,Negative
+762,6,Sat,Post-visit survey,4,Service speed,Positive
+763,6,Sat,Post-visit survey,3,Wait time,Neutral
+764,6,Sat,Google,3,Wait time,Neutral
+765,6,Sat,Instagram DM,3,Ambience,Neutral
+766,6,Sat,Post-visit survey,4,Wait time,Positive
+767,6,Sat,Instagram DM,3,Ambience,Neutral
+768,6,Sat,Post-visit survey,4,Ambience,Positive
+769,6,Sat,Post-visit survey,3,Service speed,Neutral
+770,6,Sat,Instagram DM,2,Food quality,Negative
+771,6,Sat,Post-visit survey,2,Wait time,Negative
+772,6,Sun,Post-visit survey,4,Value,Positive
+773,6,Sun,Post-visit survey,4,Wait time,Positive
+774,6,Sun,Post-visit survey,4,Food quality,Positive
+775,6,Sun,Post-visit survey,4,Food quality,Positive
+776,6,Sun,Post-visit survey,3,Wait time,Neutral
+777,6,Sun,Post-visit survey,3,Wait time,Neutral
+778,6,Sun,Post-visit survey,3,Food quality,Neutral
+779,6,Sun,Google,3,Drinks,Neutral
+780,6,Sun,Resy,4,Food quality,Positive
+781,6,Sun,Google,4,Service speed,Positive
+782,6,Sun,Resy,4,Wait time,Positive
+783,6,Sun,Google,4,Ambience,Positive
+784,6,Sun,Post-visit survey,4,Food quality,Positive
+785,6,Sun,Google,3,Ambience,Neutral
+786,7,Mon,Google,4,Food quality,Positive
+787,7,Mon,Post-visit survey,5,Ambience,Positive
+788,7,Mon,Google,4,Value,Positive
+789,7,Mon,Google,4,Food quality,Positive
+790,7,Mon,Google,4,Food quality,Positive
+791,7,Mon,Resy,4,Food quality,Positive
+792,7,Mon,Resy,5,Service speed,Positive
+793,7,Mon,Resy,5,Food quality,Positive
+794,7,Mon,Resy,5,Wait time,Positive
+795,7,Mon,Google,5,Food quality,Positive
+796,7,Mon,Google,5,Food quality,Positive
+797,7,Mon,Post-visit survey,5,Food quality,Positive
+798,7,Mon,Google,4,Food quality,Positive
+799,7,Mon,Resy,4,Ambience,Positive
+800,7,Mon,Google,4,Ambience,Positive
+801,7,Mon,Instagram DM,4,Ambience,Positive
+802,7,Mon,Post-visit survey,5,Drinks,Positive
+803,7,Mon,Post-visit survey,5,Value,Positive
+804,7,Mon,Google,4,Food quality,Positive
+805,7,Mon,Instagram DM,5,Drinks,Positive
+806,7,Tue,Resy,4,Food quality,Positive
+807,7,Tue,Google,4,Food quality,Positive
+808,7,Tue,Google,4,Ambience,Positive
+809,7,Tue,Post-visit survey,4,Ambience,Positive
+810,7,Tue,Resy,4,Food quality,Positive
+811,7,Tue,Post-visit survey,4,Wait time,Positive
+812,7,Tue,Post-visit survey,5,Drinks,Positive
+813,7,Tue,Post-visit survey,5,Food quality,Positive
+814,7,Tue,Post-visit survey,5,Food quality,Positive
+815,7,Tue,Post-visit survey,5,Value,Positive
+816,7,Tue,Resy,4,Food quality,Positive
+817,7,Tue,Post-visit survey,4,Wait time,Positive
+818,7,Tue,Google,4,Food quality,Positive
+819,7,Tue,Post-visit survey,5,Ambience,Positive
+820,7,Tue,Post-visit survey,4,Value,Positive
+821,7,Tue,Resy,4,Wait time,Positive
+822,7,Wed,Google,4,Ambience,Positive
+823,7,Wed,Post-visit survey,5,Wait time,Positive
+824,7,Wed,Resy,5,Value,Positive
+825,7,Wed,Google,4,Food quality,Positive
+826,7,Wed,Post-visit survey,4,Value,Positive
+827,7,Wed,Instagram DM,3,Food quality,Neutral
+828,7,Wed,Post-visit survey,4,Drinks,Positive
+829,7,Wed,Google,5,Value,Positive
+830,7,Wed,Google,4,Value,Positive
+831,7,Wed,Google,4,Value,Positive
+832,7,Wed,Google,5,Food quality,Positive
+833,7,Wed,Post-visit survey,4,Service speed,Positive
+834,7,Wed,Post-visit survey,5,Wait time,Positive
+835,7,Wed,Post-visit survey,4,Food quality,Positive
+836,7,Wed,Resy,4,Drinks,Positive
+837,7,Thu,Post-visit survey,4,Drinks,Positive
+838,7,Thu,Resy,4,Drinks,Positive
+839,7,Thu,Post-visit survey,4,Ambience,Positive
+840,7,Thu,Post-visit survey,4,Drinks,Positive
+841,7,Thu,Post-visit survey,5,Service speed,Positive
+842,7,Thu,Google,5,Drinks,Positive
+843,7,Thu,Instagram DM,5,Drinks,Positive
+844,7,Thu,Post-visit survey,5,Ambience,Positive
+845,7,Thu,Resy,4,Ambience,Positive
+846,7,Thu,Post-visit survey,5,Food quality,Positive
+847,7,Thu,Instagram DM,5,Ambience,Positive
+848,7,Thu,Google,5,Food quality,Positive
+849,7,Thu,Post-visit survey,4,Drinks,Positive
+850,7,Thu,Post-visit survey,4,Food quality,Positive
+851,7,Fri,Post-visit survey,3,Wait time,Neutral
+852,7,Fri,Resy,4,Value,Positive
+853,7,Fri,Post-visit survey,4,Food quality,Positive
+854,7,Fri,Post-visit survey,4,Ambience,Positive
+855,7,Fri,Google,4,Wait time,Positive
+856,7,Fri,Post-visit survey,4,Wait time,Positive
+857,7,Fri,Post-visit survey,4,Wait time,Positive
+858,7,Fri,Google,4,Wait time,Positive
+859,7,Fri,Google,4,Wait time,Positive
+860,7,Fri,Post-visit survey,4,Service speed,Positive
+861,7,Fri,Post-visit survey,5,Wait time,Positive
+862,7,Fri,Post-visit survey,3,Wait time,Neutral
+863,7,Fri,Resy,4,Wait time,Positive
+864,7,Fri,Post-visit survey,3,Wait time,Neutral
+865,7,Fri,Post-visit survey,3,Food quality,Neutral
+866,7,Fri,Google,4,Ambience,Positive
+867,7,Fri,Post-visit survey,4,Ambience,Positive
+868,7,Fri,Post-visit survey,4,Ambience,Positive
+869,7,Fri,Instagram DM,3,Ambience,Neutral
+870,7,Fri,Post-visit survey,4,Ambience,Positive
+871,7,Fri,Post-visit survey,3,Wait time,Neutral
+872,7,Fri,Instagram DM,3,Drinks,Neutral
+873,7,Fri,Google,4,Service speed,Positive
+874,7,Fri,Google,3,Ambience,Neutral
+875,7,Fri,Post-visit survey,2,Wait time,Negative
+876,7,Fri,Google,3,Food quality,Neutral
+877,7,Fri,Google,4,Ambience,Positive
+878,7,Fri,Google,4,Wait time,Positive
+879,7,Fri,Google,4,Wait time,Positive
+880,7,Fri,Google,4,Ambience,Positive
+881,7,Fri,Post-visit survey,4,Value,Positive
+882,7,Fri,Instagram DM,4,Food quality,Positive
+883,7,Fri,Resy,4,Food quality,Positive
+884,7,Sat,Google,4,Service speed,Positive
+885,7,Sat,Google,4,Service speed,Positive
+886,7,Sat,Resy,3,Wait time,Neutral
+887,7,Sat,Instagram DM,4,Value,Positive
+888,7,Sat,Google,4,Ambience,Positive
+889,7,Sat,Google,3,Food quality,Neutral
+890,7,Sat,Post-visit survey,3,Drinks,Neutral
+891,7,Sat,Post-visit survey,3,Wait time,Neutral
+892,7,Sat,Post-visit survey,3,Drinks,Neutral
+893,7,Sat,Google,3,Ambience,Neutral
+894,7,Sat,Google,4,Wait time,Positive
+895,7,Sat,Google,3,Ambience,Neutral
+896,7,Sat,Resy,3,Ambience,Neutral
+897,7,Sat,Post-visit survey,3,Wait time,Neutral
+898,7,Sat,Post-visit survey,3,Wait time,Neutral
+899,7,Sat,Post-visit survey,2,Service speed,Negative
+900,7,Sat,Google,4,Wait time,Positive
+901,7,Sat,Post-visit survey,3,Value,Neutral
+902,7,Sat,Resy,3,Wait time,Neutral
+903,7,Sat,Post-visit survey,3,Wait time,Neutral
+904,7,Sat,Google,2,Drinks,Negative
+905,7,Sat,Google,3,Service speed,Neutral
+906,7,Sat,Resy,4,Wait time,Positive
+907,7,Sun,Instagram DM,4,Wait time,Positive
+908,7,Sun,Resy,4,Drinks,Positive
+909,7,Sun,Google,4,Ambience,Positive
+910,7,Sun,Post-visit survey,3,Food quality,Neutral
+911,7,Sun,Google,3,Ambience,Neutral
+912,7,Sun,Instagram DM,3,Food quality,Neutral
+913,7,Sun,Post-visit survey,2,Food quality,Negative
+914,7,Sun,Google,3,Wait time,Neutral
+915,7,Sun,Post-visit survey,4,Food quality,Positive
+916,7,Sun,Post-visit survey,3,Ambience,Neutral
+917,7,Sun,Post-visit survey,4,Service speed,Positive
+918,7,Sun,Post-visit survey,3,Ambience,Neutral
+919,7,Sun,Google,4,Wait time,Positive
+920,7,Sun,Resy,4,Wait time,Positive
+921,7,Sun,Post-visit survey,3,Wait time,Neutral
+922,7,Sun,Google,2,Value,Negative
+923,7,Sun,Post-visit survey,3,Food quality,Neutral
+924,7,Sun,Post-visit survey,3,Wait time,Neutral
+925,7,Sun,Post-visit survey,3,Service speed,Neutral
+926,7,Sun,Resy,3,Value,Neutral
+927,7,Sun,Google,3,Ambience,Neutral
+928,7,Sun,Post-visit survey,4,Service speed,Positive
+929,7,Sun,Post-visit survey,4,Service speed,Positive
+930,7,Sun,Post-visit survey,3,Food quality,Neutral
+931,7,Sun,Resy,3,Drinks,Neutral
+932,7,Sun,Google,3,Wait time,Neutral
+933,8,Mon,Post-visit survey,4,Service speed,Positive
+934,8,Mon,Post-visit survey,4,Value,Positive
+935,8,Mon,Google,5,Wait time,Positive
+936,8,Mon,Post-visit survey,5,Food quality,Positive
+937,8,Mon,Google,5,Food quality,Positive
+938,8,Mon,Post-visit survey,5,Ambience,Positive
+939,8,Mon,Google,5,Service speed,Positive
+940,8,Mon,Resy,5,Food quality,Positive
+941,8,Mon,Post-visit survey,3,Food quality,Neutral
+942,8,Mon,Post-visit survey,4,Ambience,Positive
+943,8,Tue,Resy,4,Food quality,Positive
+944,8,Tue,Instagram DM,5,Wait time,Positive
+945,8,Tue,Resy,4,Service speed,Positive
+946,8,Tue,Resy,4,Drinks,Positive
+947,8,Tue,Google,5,Value,Positive
+948,8,Tue,Post-visit survey,5,Food quality,Positive
+949,8,Tue,Post-visit survey,5,Drinks,Positive
+950,8,Tue,Google,4,Ambience,Positive
+951,8,Tue,Resy,3,Wait time,Neutral
+952,8,Tue,Post-visit survey,4,Food quality,Positive
+953,8,Tue,Instagram DM,4,Service speed,Positive
+954,8,Tue,Google,5,Ambience,Positive
+955,8,Wed,Google,4,Food quality,Positive
+956,8,Wed,Google,5,Ambience,Positive
+957,8,Wed,Google,4,Service speed,Positive
+958,8,Wed,Google,3,Ambience,Neutral
+959,8,Wed,Post-visit survey,4,Ambience,Positive
+960,8,Wed,Google,4,Value,Positive
+961,8,Wed,Post-visit survey,3,Value,Neutral
+962,8,Wed,Post-visit survey,4,Food quality,Positive
+963,8,Wed,Google,3,Wait time,Neutral
+964,8,Wed,Post-visit survey,4,Ambience,Positive
+965,8,Wed,Post-visit survey,4,Service speed,Positive
+966,8,Thu,Post-visit survey,5,Food quality,Positive
+967,8,Thu,Post-visit survey,4,Ambience,Positive
+968,8,Thu,Post-visit survey,4,Food quality,Positive
+969,8,Thu,Post-visit survey,4,Wait time,Positive
+970,8,Thu,Post-visit survey,4,Drinks,Positive
+971,8,Thu,Google,4,Wait time,Positive
+972,8,Thu,Google,5,Value,Positive
+973,8,Thu,Post-visit survey,4,Food quality,Positive
+974,8,Thu,Google,5,Drinks,Positive
+975,8,Thu,Post-visit survey,4,Food quality,Positive
+976,8,Thu,Post-visit survey,4,Food quality,Positive
+977,8,Thu,Google,4,Drinks,Positive
+978,8,Thu,Google,4,Ambience,Positive
+979,8,Thu,Resy,3,Service speed,Neutral
+980,8,Thu,Post-visit survey,5,Ambience,Positive
+981,8,Thu,Resy,4,Food quality,Positive
+982,8,Thu,Google,4,Ambience,Positive
+983,8,Thu,Post-visit survey,4,Drinks,Positive
+984,8,Thu,Post-visit survey,4,Food quality,Positive
+985,8,Thu,Google,5,Food quality,Positive
+986,8,Thu,Post-visit survey,5,Wait time,Positive
+987,8,Thu,Google,5,Food quality,Positive
+988,8,Thu,Resy,4,Service speed,Positive
+989,8,Fri,Post-visit survey,4,Service speed,Positive
+990,8,Fri,Post-visit survey,4,Wait time,Positive
+991,8,Fri,Post-visit survey,4,Wait time,Positive
+992,8,Fri,Google,3,Service speed,Neutral
+993,8,Fri,Post-visit survey,4,Food quality,Positive
+994,8,Fri,Resy,4,Value,Positive
+995,8,Fri,Post-visit survey,4,Food quality,Positive
+996,8,Fri,Post-visit survey,5,Ambience,Positive
+997,8,Fri,Resy,3,Service speed,Neutral
+998,8,Fri,Post-visit survey,4,Service speed,Positive
+999,8,Fri,Google,3,Value,Neutral
+1000,8,Fri,Post-visit survey,3,Food quality,Neutral
+1001,8,Fri,Google,3,Food quality,Neutral
+1002,8,Fri,Post-visit survey,4,Service speed,Positive
+1003,8,Fri,Post-visit survey,4,Wait time,Positive
+1004,8,Fri,Google,4,Ambience,Positive
+1005,8,Fri,Post-visit survey,4,Drinks,Positive
+1006,8,Fri,Google,3,Drinks,Neutral
+1007,8,Fri,Resy,4,Ambience,Positive
+1008,8,Fri,Instagram DM,3,Wait time,Neutral
+1009,8,Fri,Google,3,Food quality,Neutral
+1010,8,Fri,Resy,4,Service speed,Positive
+1011,8,Fri,Post-visit survey,5,Value,Positive
+1012,8,Fri,Post-visit survey,3,Food quality,Neutral
+1013,8,Sat,Google,3,Wait time,Neutral
+1014,8,Sat,Resy,4,Ambience,Positive
+1015,8,Sat,Google,4,Value,Positive
+1016,8,Sat,Post-visit survey,3,Service speed,Neutral
+1017,8,Sat,Google,3,Service speed,Neutral
+1018,8,Sat,Resy,3,Wait time,Neutral
+1019,8,Sat,Post-visit survey,3,Service speed,Neutral
+1020,8,Sat,Post-visit survey,3,Service speed,Neutral
+1021,8,Sat,Post-visit survey,3,Ambience,Neutral
+1022,8,Sat,Post-visit survey,3,Food quality,Neutral
+1023,8,Sat,Post-visit survey,4,Ambience,Positive
+1024,8,Sat,Google,3,Service speed,Neutral
+1025,8,Sat,Post-visit survey,3,Service speed,Neutral
+1026,8,Sat,Post-visit survey,3,Food quality,Neutral
+1027,8,Sat,Google,3,Wait time,Neutral
+1028,8,Sat,Post-visit survey,3,Wait time,Neutral
+1029,8,Sat,Post-visit survey,3,Ambience,Neutral
+1030,8,Sat,Post-visit survey,3,Service speed,Neutral
+1031,8,Sat,Resy,3,Wait time,Neutral
+1032,8,Sat,Resy,4,Wait time,Positive
+1033,8,Sat,Post-visit survey,3,Wait time,Neutral
+1034,8,Sat,Post-visit survey,3,Service speed,Neutral
+1035,8,Sat,Post-visit survey,3,Wait time,Neutral
+1036,8,Sat,Google,3,Food quality,Neutral
+1037,8,Sat,Resy,3,Food quality,Neutral
+1038,8,Sat,Post-visit survey,3,Service speed,Neutral
+1039,8,Sat,Post-visit survey,3,Food quality,Neutral
+1040,8,Sat,Google,3,Value,Neutral
+1041,8,Sat,Post-visit survey,3,Drinks,Neutral
+1042,8,Sat,Instagram DM,3,Wait time,Neutral
+1043,8,Sat,Post-visit survey,4,Drinks,Positive
+1044,8,Sat,Post-visit survey,3,Wait time,Neutral
+1045,8,Sun,Post-visit survey,3,Service speed,Neutral
+1046,8,Sun,Google,2,Ambience,Negative
+1047,8,Sun,Post-visit survey,3,Wait time,Neutral
+1048,8,Sun,Instagram DM,3,Wait time,Neutral
+1049,8,Sun,Google,3,Wait time,Neutral
+1050,8,Sun,Google,2,Ambience,Negative
+1051,8,Sun,Google,2,Wait time,Negative
+1052,8,Sun,Post-visit survey,4,Service speed,Positive
+1053,8,Sun,Google,2,Drinks,Negative
+1054,8,Sun,Resy,2,Service speed,Negative
+1055,8,Sun,Google,3,Food quality,Neutral
+1056,8,Sun,Post-visit survey,4,Ambience,Positive
+1057,8,Sun,Instagram DM,4,Wait time,Positive
+1058,8,Sun,Post-visit survey,3,Wait time,Neutral
+1059,8,Sun,Resy,3,Wait time,Neutral
+1060,9,Mon,Google,4,Food quality,Positive
+1061,9,Mon,Post-visit survey,5,Wait time,Positive
+1062,9,Mon,Instagram DM,5,Wait time,Positive
+1063,9,Mon,Post-visit survey,4,Value,Positive
+1064,9,Mon,Google,5,Food quality,Positive
+1065,9,Mon,Resy,5,Food quality,Positive
+1066,9,Mon,Post-visit survey,4,Value,Positive
+1067,9,Mon,Post-visit survey,4,Wait time,Positive
+1068,9,Mon,Resy,4,Wait time,Positive
+1069,9,Mon,Post-visit survey,4,Wait time,Positive
+1070,9,Mon,Google,4,Ambience,Positive
+1071,9,Mon,Instagram DM,4,Food quality,Positive
+1072,9,Mon,Google,4,Food quality,Positive
+1073,9,Mon,Resy,4,Ambience,Positive
+1074,9,Mon,Resy,4,Value,Positive
+1075,9,Mon,Instagram DM,4,Ambience,Positive
+1076,9,Mon,Resy,5,Ambience,Positive
+1077,9,Mon,Post-visit survey,4,Ambience,Positive
+1078,9,Mon,Google,4,Wait time,Positive
+1079,9,Mon,Resy,4,Food quality,Positive
+1080,9,Tue,Resy,5,Wait time,Positive
+1081,9,Tue,Post-visit survey,4,Wait time,Positive
+1082,9,Tue,Post-visit survey,4,Drinks,Positive
+1083,9,Tue,Google,5,Value,Positive
+1084,9,Tue,Post-visit survey,4,Value,Positive
+1085,9,Tue,Post-visit survey,4,Ambience,Positive
+1086,9,Tue,Post-visit survey,4,Ambience,Positive
+1087,9,Tue,Resy,3,Ambience,Neutral
+1088,9,Tue,Resy,4,Drinks,Positive
+1089,9,Tue,Google,5,Food quality,Positive
+1090,9,Tue,Post-visit survey,5,Service speed,Positive
+1091,9,Tue,Resy,4,Food quality,Positive
+1092,9,Tue,Resy,4,Ambience,Positive
+1093,9,Tue,Resy,4,Food quality,Positive
+1094,9,Tue,Google,4,Drinks,Positive
+1095,9,Tue,Google,5,Drinks,Positive
+1096,9,Tue,Instagram DM,5,Wait time,Positive
+1097,9,Tue,Google,4,Food quality,Positive
+1098,9,Tue,Google,4,Food quality,Positive
+1099,9,Tue,Post-visit survey,4,Service speed,Positive
+1100,9,Tue,Post-visit survey,4,Ambience,Positive
+1101,9,Tue,Post-visit survey,4,Ambience,Positive
+1102,9,Tue,Post-visit survey,5,Food quality,Positive
+1103,9,Tue,Google,4,Drinks,Positive
+1104,9,Tue,Resy,4,Wait time,Positive
+1105,9,Tue,Google,4,Service speed,Positive
+1106,9,Tue,Google,4,Ambience,Positive
+1107,9,Tue,Post-visit survey,4,Food quality,Positive
+1108,9,Tue,Post-visit survey,4,Service speed,Positive
+1109,9,Tue,Resy,4,Food quality,Positive
+1110,9,Tue,Post-visit survey,5,Service speed,Positive
+1111,9,Tue,Google,4,Wait time,Positive
+1112,9,Wed,Post-visit survey,4,Value,Positive
+1113,9,Wed,Google,4,Drinks,Positive
+1114,9,Wed,Instagram DM,5,Drinks,Positive
+1115,9,Wed,Google,4,Service speed,Positive
+1116,9,Wed,Google,4,Value,Positive
+1117,9,Wed,Post-visit survey,4,Ambience,Positive
+1118,9,Wed,Google,5,Food quality,Positive
+1119,9,Wed,Resy,5,Ambience,Positive
+1120,9,Wed,Google,4,Service speed,Positive
+1121,9,Wed,Google,4,Service speed,Positive
+1122,9,Wed,Post-visit survey,4,Service speed,Positive
+1123,9,Wed,Google,3,Wait time,Neutral
+1124,9,Wed,Post-visit survey,4,Service speed,Positive
+1125,9,Wed,Post-visit survey,4,Service speed,Positive
+1126,9,Wed,Resy,5,Food quality,Positive
+1127,9,Wed,Google,3,Service speed,Neutral
+1128,9,Wed,Post-visit survey,4,Value,Positive
+1129,9,Wed,Resy,4,Drinks,Positive
+1130,9,Wed,Google,4,Ambience,Positive
+1131,9,Wed,Post-visit survey,4,Wait time,Positive
+1132,9,Thu,Google,5,Food quality,Positive
+1133,9,Thu,Google,5,Food quality,Positive
+1134,9,Thu,Post-visit survey,4,Food quality,Positive
+1135,9,Thu,Google,5,Wait time,Positive
+1136,9,Thu,Instagram DM,5,Food quality,Positive
+1137,9,Thu,Post-visit survey,4,Service speed,Positive
+1138,9,Thu,Google,4,Drinks,Positive
+1139,9,Thu,Google,3,Wait time,Neutral
+1140,9,Thu,Google,4,Drinks,Positive
+1141,9,Thu,Post-visit survey,5,Wait time,Positive
+1142,9,Thu,Post-visit survey,4,Food quality,Positive
+1143,9,Thu,Resy,5,Food quality,Positive
+1144,9,Thu,Post-visit survey,4,Food quality,Positive
+1145,9,Thu,Instagram DM,5,Drinks,Positive
+1146,9,Thu,Post-visit survey,4,Value,Positive
+1147,9,Thu,Resy,4,Wait time,Positive
+1148,9,Thu,Post-visit survey,4,Drinks,Positive
+1149,9,Thu,Post-visit survey,4,Service speed,Positive
+1150,9,Thu,Post-visit survey,3,Food quality,Neutral
+1151,9,Thu,Post-visit survey,4,Service speed,Positive
+1152,9,Thu,Google,4,Value,Positive
+1153,9,Fri,Instagram DM,4,Ambience,Positive
+1154,9,Fri,Instagram DM,5,Food quality,Positive
+1155,9,Fri,Google,4,Ambience,Positive
+1156,9,Fri,Post-visit survey,5,Service speed,Positive
+1157,9,Fri,Post-visit survey,4,Drinks,Positive
+1158,9,Fri,Resy,5,Wait time,Positive
+1159,9,Fri,Post-visit survey,3,Service speed,Neutral
+1160,9,Fri,Post-visit survey,3,Service speed,Neutral
+1161,9,Fri,Post-visit survey,4,Value,Positive
+1162,9,Fri,Post-visit survey,4,Value,Positive
+1163,9,Fri,Post-visit survey,3,Wait time,Neutral
+1164,9,Fri,Google,4,Drinks,Positive
+1165,9,Fri,Google,4,Value,Positive
+1166,9,Fri,Google,4,Value,Positive
+1167,9,Fri,Instagram DM,4,Ambience,Positive
+1168,9,Fri,Post-visit survey,5,Food quality,Positive
+1169,9,Fri,Resy,4,Wait time,Positive
+1170,9,Fri,Google,5,Drinks,Positive
+1171,9,Fri,Google,4,Wait time,Positive
+1172,9,Fri,Post-visit survey,4,Wait time,Positive
+1173,9,Fri,Google,4,Value,Positive
+1174,9,Fri,Post-visit survey,4,Food quality,Positive
+1175,9,Fri,Google,3,Drinks,Neutral
+1176,9,Fri,Instagram DM,3,Value,Neutral
+1177,9,Fri,Resy,5,Food quality,Positive
+1178,9,Fri,Post-visit survey,5,Ambience,Positive
+1179,9,Fri,Resy,5,Wait time,Positive
+1180,9,Fri,Google,4,Ambience,Positive
+1181,9,Fri,Google,5,Drinks,Positive
+1182,9,Fri,Resy,5,Wait time,Positive
+1183,9,Sat,Google,2,Service speed,Negative
+1184,9,Sat,Resy,2,Service speed,Negative
+1185,9,Sat,Google,3,Service speed,Neutral
+1186,9,Sat,Resy,3,Wait time,Neutral
+1187,9,Sat,Post-visit survey,3,Service speed,Neutral
+1188,9,Sat,Resy,3,Drinks,Neutral
+1189,9,Sat,Google,3,Wait time,Neutral
+1190,9,Sat,Post-visit survey,4,Service speed,Positive
+1191,9,Sat,Google,3,Value,Neutral
+1192,9,Sat,Google,4,Food quality,Positive
+1193,9,Sat,Google,3,Food quality,Neutral
+1194,9,Sat,Google,2,Wait time,Negative
+1195,9,Sat,Google,2,Ambience,Negative
+1196,9,Sat,Post-visit survey,3,Drinks,Neutral
+1197,9,Sat,Post-visit survey,2,Drinks,Negative
+1198,9,Sat,Post-visit survey,3,Food quality,Neutral
+1199,9,Sat,Google,2,Wait time,Negative
+1200,9,Sat,Instagram DM,3,Wait time,Neutral
+1201,9,Sat,Instagram DM,2,Service speed,Negative
+1202,9,Sat,Instagram DM,3,Service speed,Neutral
+1203,9,Sat,Google,2,Food quality,Negative
+1204,9,Sat,Post-visit survey,3,Wait time,Neutral
+1205,9,Sat,Google,4,Wait time,Positive
+1206,9,Sat,Post-visit survey,3,Ambience,Neutral
+1207,9,Sat,Post-visit survey,3,Value,Neutral
+1208,9,Sat,Resy,3,Wait time,Neutral
+1209,9,Sat,Post-visit survey,4,Ambience,Positive
+1210,9,Sat,Post-visit survey,3,Service speed,Neutral
+1211,9,Sat,Google,3,Food quality,Neutral
+1212,9,Sat,Google,4,Wait time,Positive
+1213,9,Sat,Resy,4,Ambience,Positive
+1214,9,Sat,Post-visit survey,2,Service speed,Negative
+1215,9,Sat,Instagram DM,3,Wait time,Neutral
+1216,9,Sat,Post-visit survey,3,Wait time,Neutral
+1217,9,Sun,Resy,3,Value,Neutral
+1218,9,Sun,Post-visit survey,3,Wait time,Neutral
+1219,9,Sun,Instagram DM,3,Ambience,Neutral
+1220,9,Sun,Post-visit survey,4,Service speed,Positive
+1221,9,Sun,Resy,4,Food quality,Positive
+1222,9,Sun,Google,3,Service speed,Neutral
+1223,9,Sun,Post-visit survey,3,Drinks,Neutral
+1224,9,Sun,Post-visit survey,4,Food quality,Positive
+1225,9,Sun,Google,3,Service speed,Neutral
+1226,9,Sun,Google,3,Value,Neutral
+1227,9,Sun,Instagram DM,4,Value,Positive
+1228,9,Sun,Google,4,Food quality,Positive
+1229,9,Sun,Post-visit survey,3,Drinks,Neutral
+1230,9,Sun,Google,3,Service speed,Neutral
+1231,9,Sun,Post-visit survey,3,Wait time,Neutral
+1232,9,Sun,Post-visit survey,3,Service speed,Neutral
+1233,9,Sun,Resy,4,Wait time,Positive
+1234,9,Sun,Google,2,Drinks,Negative
+1235,9,Sun,Post-visit survey,3,Service speed,Neutral
+1236,9,Sun,Post-visit survey,3,Food quality,Neutral
+1237,9,Sun,Post-visit survey,4,Food quality,Positive
+1238,9,Sun,Post-visit survey,4,Service speed,Positive
+1239,9,Sun,Instagram DM,3,Wait time,Neutral
+1240,9,Sun,Resy,4,Ambience,Positive
+1241,9,Sun,Post-visit survey,4,Wait time,Positive
+1242,9,Sun,Google,4,Service speed,Positive
+1243,9,Sun,Instagram DM,3,Drinks,Neutral
+1244,9,Sun,Post-visit survey,3,Ambience,Neutral
+1245,9,Sun,Resy,3,Service speed,Neutral
+1246,9,Sun,Post-visit survey,3,Wait time,Neutral
+1247,9,Sun,Post-visit survey,4,Ambience,Positive
+1248,10,Mon,Instagram DM,4,Wait time,Positive
+1249,10,Mon,Post-visit survey,4,Drinks,Positive
+1250,10,Mon,Google,5,Food quality,Positive
+1251,10,Mon,Post-visit survey,5,Food quality,Positive
+1252,10,Mon,Instagram DM,5,Ambience,Positive
+1253,10,Mon,Google,5,Ambience,Positive
+1254,10,Mon,Resy,5,Service speed,Positive
+1255,10,Mon,Google,5,Value,Positive
+1256,10,Mon,Post-visit survey,5,Food quality,Positive
+1257,10,Mon,Post-visit survey,4,Food quality,Positive
+1258,10,Tue,Google,5,Ambience,Positive
+1259,10,Tue,Post-visit survey,4,Ambience,Positive
+1260,10,Tue,Post-visit survey,3,Value,Neutral
+1261,10,Tue,Post-visit survey,4,Food quality,Positive
+1262,10,Tue,Google,4,Ambience,Positive
+1263,10,Tue,Post-visit survey,4,Food quality,Positive
+1264,10,Tue,Post-visit survey,4,Food quality,Positive
+1265,10,Tue,Google,3,Ambience,Neutral
+1266,10,Tue,Post-visit survey,5,Food quality,Positive
+1267,10,Tue,Post-visit survey,3,Ambience,Neutral
+1268,10,Tue,Post-visit survey,4,Drinks,Positive
+1269,10,Tue,Post-visit survey,5,Wait time,Positive
+1270,10,Tue,Instagram DM,4,Service speed,Positive
+1271,10,Tue,Post-visit survey,4,Ambience,Positive
+1272,10,Tue,Resy,3,Wait time,Neutral
+1273,10,Tue,Post-visit survey,4,Service speed,Positive
+1274,10,Tue,Instagram DM,3,Food quality,Neutral
+1275,10,Tue,Google,5,Wait time,Positive
+1276,10,Wed,Resy,3,Food quality,Neutral
+1277,10,Wed,Google,4,Wait time,Positive
+1278,10,Wed,Google,4,Drinks,Positive
+1279,10,Wed,Post-visit survey,3,Food quality,Neutral
+1280,10,Wed,Post-visit survey,3,Ambience,Neutral
+1281,10,Wed,Resy,4,Service speed,Positive
+1282,10,Wed,Resy,2,Service speed,Negative
+1283,10,Thu,Post-visit survey,4,Wait time,Positive
+1284,10,Thu,Post-visit survey,4,Food quality,Positive
+1285,10,Thu,Resy,5,Ambience,Positive
+1286,10,Thu,Resy,4,Ambience,Positive
+1287,10,Thu,Resy,4,Wait time,Positive
+1288,10,Thu,Resy,4,Service speed,Positive
+1289,10,Thu,Instagram DM,4,Value,Positive
+1290,10,Thu,Resy,4,Drinks,Positive
+1291,10,Thu,Google,4,Food quality,Positive
+1292,10,Thu,Google,4,Food quality,Positive
+1293,10,Thu,Post-visit survey,5,Wait time,Positive
+1294,10,Thu,Post-visit survey,4,Wait time,Positive
+1295,10,Thu,Google,4,Service speed,Positive
+1296,10,Thu,Post-visit survey,5,Value,Positive
+1297,10,Thu,Post-visit survey,4,Food quality,Positive
+1298,10,Thu,Post-visit survey,4,Food quality,Positive
+1299,10,Thu,Post-visit survey,4,Ambience,Positive
+1300,10,Thu,Google,4,Drinks,Positive
+1301,10,Thu,Post-visit survey,5,Service speed,Positive
+1302,10,Thu,Resy,4,Food quality,Positive
+1303,10,Thu,Post-visit survey,3,Service speed,Neutral
+1304,10,Fri,Instagram DM,3,Service speed,Neutral
+1305,10,Fri,Post-visit survey,4,Ambience,Positive
+1306,10,Fri,Resy,2,Value,Negative
+1307,10,Fri,Post-visit survey,3,Service speed,Neutral
+1308,10,Fri,Post-visit survey,3,Food quality,Neutral
+1309,10,Fri,Google,2,Value,Negative
+1310,10,Fri,Instagram DM,4,Wait time,Positive
+1311,10,Fri,Post-visit survey,3,Wait time,Neutral
+1312,10,Fri,Resy,4,Wait time,Positive
+1313,10,Fri,Google,2,Wait time,Negative
+1314,10,Fri,Google,3,Wait time,Neutral
+1315,10,Fri,Post-visit survey,3,Ambience,Neutral
+1316,10,Fri,Post-visit survey,3,Ambience,Neutral
+1317,10,Fri,Post-visit survey,3,Food quality,Neutral
+1318,10,Fri,Post-visit survey,3,Service speed,Neutral
+1319,10,Fri,Post-visit survey,3,Ambience,Neutral
+1320,10,Fri,Instagram DM,3,Service speed,Neutral
+1321,10,Fri,Instagram DM,3,Ambience,Neutral
+1322,10,Fri,Instagram DM,3,Wait time,Neutral
+1323,10,Fri,Instagram DM,3,Wait time,Neutral
+1324,10,Fri,Post-visit survey,2,Wait time,Negative
+1325,10,Fri,Post-visit survey,2,Service speed,Negative
+1326,10,Fri,Post-visit survey,2,Ambience,Negative
+1327,10,Fri,Google,3,Wait time,Neutral
+1328,10,Fri,Post-visit survey,4,Wait time,Positive
+1329,10,Fri,Google,3,Service speed,Neutral
+1330,10,Fri,Post-visit survey,3,Value,Neutral
+1331,10,Sat,Google,3,Wait time,Neutral
+1332,10,Sat,Post-visit survey,3,Ambience,Neutral
+1333,10,Sat,Resy,3,Wait time,Neutral
+1334,10,Sat,Post-visit survey,3,Ambience,Neutral
+1335,10,Sat,Post-visit survey,3,Drinks,Neutral
+1336,10,Sat,Resy,4,Drinks,Positive
+1337,10,Sat,Google,3,Drinks,Neutral
+1338,10,Sat,Resy,3,Wait time,Neutral
+1339,10,Sat,Post-visit survey,3,Wait time,Neutral
+1340,10,Sat,Post-visit survey,4,Wait time,Positive
+1341,10,Sat,Google,4,Ambience,Positive
+1342,10,Sat,Post-visit survey,3,Service speed,Neutral
+1343,10,Sat,Post-visit survey,4,Service speed,Positive
+1344,10,Sat,Post-visit survey,3,Service speed,Neutral
+1345,10,Sat,Post-visit survey,3,Value,Neutral
+1346,10,Sat,Resy,2,Service speed,Negative
+1347,10,Sat,Google,3,Wait time,Neutral
+1348,10,Sat,Post-visit survey,2,Wait time,Negative
+1349,10,Sat,Google,3,Drinks,Neutral
+1350,10,Sat,Post-visit survey,3,Food quality,Neutral
+1351,10,Sat,Resy,3,Service speed,Neutral
+1352,10,Sat,Post-visit survey,3,Wait time,Neutral
+1353,10,Sat,Google,2,Food quality,Negative
+1354,10,Sat,Post-visit survey,2,Food quality,Negative
+1355,10,Sat,Post-visit survey,3,Service speed,Neutral
+1356,10,Sun,Post-visit survey,3,Service speed,Neutral
+1357,10,Sun,Post-visit survey,3,Service speed,Neutral
+1358,10,Sun,Post-visit survey,3,Wait time,Neutral
+1359,10,Sun,Resy,3,Service speed,Neutral
+1360,10,Sun,Post-visit survey,3,Ambience,Neutral
+1361,10,Sun,Resy,3,Wait time,Neutral
+1362,10,Sun,Post-visit survey,4,Ambience,Positive
+1363,10,Sun,Post-visit survey,2,Wait time,Negative
+1364,10,Sun,Google,3,Wait time,Neutral
+1365,10,Sun,Google,3,Wait time,Neutral
+1366,10,Sun,Google,2,Wait time,Negative
+1367,10,Sun,Instagram DM,3,Ambience,Neutral
+1368,10,Sun,Google,3,Food quality,Neutral
+1369,10,Sun,Post-visit survey,3,Food quality,Neutral
+1370,10,Sun,Google,3,Food quality,Neutral
+1371,10,Sun,Post-visit survey,3,Ambience,Neutral
+1372,10,Sun,Resy,4,Wait time,Positive
+1373,10,Sun,Resy,2,Food quality,Negative
+1374,10,Sun,Google,3,Food quality,Neutral
+1375,10,Sun,Google,3,Wait time,Neutral
+1376,10,Sun,Post-visit survey,3,Service speed,Neutral
+1377,10,Sun,Resy,3,Food quality,Neutral
+1378,10,Sun,Post-visit survey,3,Wait time,Neutral
+1379,10,Sun,Post-visit survey,3,Food quality,Neutral
+1380,11,Mon,Resy,5,Ambience,Positive
+1381,11,Mon,Post-visit survey,5,Ambience,Positive
+1382,11,Mon,Google,4,Ambience,Positive
+1383,11,Mon,Google,5,Food quality,Positive
+1384,11,Mon,Post-visit survey,5,Food quality,Positive
+1385,11,Mon,Post-visit survey,4,Ambience,Positive
+1386,11,Mon,Instagram DM,4,Drinks,Positive
+1387,11,Mon,Resy,5,Ambience,Positive
+1388,11,Mon,Resy,5,Drinks,Positive
+1389,11,Mon,Post-visit survey,5,Value,Positive
+1390,11,Mon,Resy,5,Food quality,Positive
+1391,11,Mon,Google,5,Food quality,Positive
+1392,11,Mon,Google,4,Value,Positive
+1393,11,Mon,Post-visit survey,4,Drinks,Positive
+1394,11,Mon,Google,5,Drinks,Positive
+1395,11,Mon,Post-visit survey,4,Food quality,Positive
+1396,11,Mon,Post-visit survey,4,Food quality,Positive
+1397,11,Mon,Google,5,Food quality,Positive
+1398,11,Mon,Post-visit survey,5,Ambience,Positive
+1399,11,Mon,Resy,4,Ambience,Positive
+1400,11,Mon,Google,3,Food quality,Neutral
+1401,11,Mon,Google,4,Wait time,Positive
+1402,11,Mon,Google,4,Value,Positive
+1403,11,Mon,Google,4,Wait time,Positive
+1404,11,Mon,Post-visit survey,5,Food quality,Positive
+1405,11,Tue,Google,5,Food quality,Positive
+1406,11,Tue,Resy,4,Food quality,Positive
+1407,11,Tue,Post-visit survey,5,Ambience,Positive
+1408,11,Tue,Post-visit survey,5,Food quality,Positive
+1409,11,Tue,Post-visit survey,5,Value,Positive
+1410,11,Tue,Resy,4,Drinks,Positive
+1411,11,Tue,Google,5,Value,Positive
+1412,11,Tue,Post-visit survey,4,Service speed,Positive
+1413,11,Tue,Post-visit survey,3,Ambience,Neutral
+1414,11,Tue,Instagram DM,3,Food quality,Neutral
+1415,11,Tue,Post-visit survey,4,Food quality,Positive
+1416,11,Tue,Resy,5,Food quality,Positive
+1417,11,Tue,Post-visit survey,5,Food quality,Positive
+1418,11,Tue,Google,5,Service speed,Positive
+1419,11,Tue,Post-visit survey,4,Food quality,Positive
+1420,11,Tue,Post-visit survey,5,Value,Positive
+1421,11,Wed,Google,5,Ambience,Positive
+1422,11,Wed,Post-visit survey,4,Ambience,Positive
+1423,11,Wed,Instagram DM,5,Drinks,Positive
+1424,11,Wed,Resy,5,Drinks,Positive
+1425,11,Wed,Google,4,Service speed,Positive
+1426,11,Wed,Instagram DM,5,Drinks,Positive
+1427,11,Wed,Post-visit survey,5,Ambience,Positive
+1428,11,Wed,Post-visit survey,5,Wait time,Positive
+1429,11,Wed,Post-visit survey,4,Food quality,Positive
+1430,11,Wed,Resy,5,Ambience,Positive
+1431,11,Wed,Google,5,Ambience,Positive
+1432,11,Wed,Post-visit survey,4,Food quality,Positive
+1433,11,Wed,Post-visit survey,5,Ambience,Positive
+1434,11,Wed,Post-visit survey,4,Food quality,Positive
+1435,11,Wed,Instagram DM,4,Ambience,Positive
+1436,11,Wed,Google,5,Value,Positive
+1437,11,Wed,Google,5,Food quality,Positive
+1438,11,Wed,Instagram DM,5,Ambience,Positive
+1439,11,Wed,Google,5,Food quality,Positive
+1440,11,Wed,Post-visit survey,4,Food quality,Positive
+1441,11,Wed,Resy,5,Ambience,Positive
+1442,11,Wed,Resy,4,Ambience,Positive
+1443,11,Wed,Google,5,Ambience,Positive
+1444,11,Thu,Post-visit survey,4,Food quality,Positive
+1445,11,Thu,Post-visit survey,5,Food quality,Positive
+1446,11,Thu,Instagram DM,4,Ambience,Positive
+1447,11,Thu,Resy,5,Ambience,Positive
+1448,11,Thu,Google,5,Value,Positive
+1449,11,Thu,Post-visit survey,5,Ambience,Positive
+1450,11,Thu,Resy,4,Service speed,Positive
+1451,11,Thu,Resy,5,Drinks,Positive
+1452,11,Thu,Post-visit survey,5,Ambience,Positive
+1453,11,Thu,Google,5,Wait time,Positive
+1454,11,Thu,Resy,4,Food quality,Positive
+1455,11,Thu,Post-visit survey,4,Ambience,Positive
+1456,11,Thu,Resy,4,Service speed,Positive
+1457,11,Thu,Instagram DM,5,Value,Positive
+1458,11,Fri,Post-visit survey,5,Food quality,Positive
+1459,11,Fri,Google,5,Service speed,Positive
+1460,11,Fri,Resy,4,Food quality,Positive
+1461,11,Fri,Google,5,Value,Positive
+1462,11,Fri,Resy,5,Food quality,Positive
+1463,11,Fri,Post-visit survey,5,Service speed,Positive
+1464,11,Fri,Google,4,Wait time,Positive
+1465,11,Fri,Google,4,Ambience,Positive
+1466,11,Fri,Resy,4,Ambience,Positive
+1467,11,Fri,Post-visit survey,5,Drinks,Positive
+1468,11,Fri,Instagram DM,5,Wait time,Positive
+1469,11,Fri,Post-visit survey,5,Wait time,Positive
+1470,11,Fri,Google,4,Drinks,Positive
+1471,11,Fri,Post-visit survey,4,Drinks,Positive
+1472,11,Fri,Google,5,Wait time,Positive
+1473,11,Fri,Google,4,Ambience,Positive
+1474,11,Fri,Resy,5,Ambience,Positive
+1475,11,Fri,Instagram DM,4,Food quality,Positive
+1476,11,Fri,Post-visit survey,4,Food quality,Positive
+1477,11,Fri,Post-visit survey,5,Wait time,Positive
+1478,11,Fri,Google,4,Drinks,Positive
+1479,11,Fri,Post-visit survey,5,Ambience,Positive
+1480,11,Fri,Post-visit survey,5,Ambience,Positive
+1481,11,Fri,Resy,5,Ambience,Positive
+1482,11,Fri,Google,4,Service speed,Positive
+1483,11,Fri,Post-visit survey,5,Service speed,Positive
+1484,11,Fri,Post-visit survey,4,Service speed,Positive
+1485,11,Fri,Instagram DM,5,Value,Positive
+1486,11,Fri,Post-visit survey,5,Drinks,Positive
+1487,11,Fri,Google,5,Ambience,Positive
+1488,11,Fri,Resy,4,Ambience,Positive
+1489,11,Sat,Resy,4,Ambience,Positive
+1490,11,Sat,Google,5,Drinks,Positive
+1491,11,Sat,Google,4,Drinks,Positive
+1492,11,Sat,Post-visit survey,4,Ambience,Positive
+1493,11,Sat,Resy,5,Food quality,Positive
+1494,11,Sat,Google,4,Ambience,Positive
+1495,11,Sat,Post-visit survey,5,Food quality,Positive
+1496,11,Sat,Resy,5,Drinks,Positive
+1497,11,Sat,Resy,4,Drinks,Positive
+1498,11,Sat,Instagram DM,5,Food quality,Positive
+1499,11,Sat,Post-visit survey,3,Food quality,Neutral
+1500,11,Sat,Google,5,Drinks,Positive
+1501,11,Sat,Resy,5,Ambience,Positive
+1502,11,Sat,Instagram DM,4,Food quality,Positive
+1503,11,Sat,Google,5,Service speed,Positive
+1504,11,Sat,Google,4,Food quality,Positive
+1505,11,Sat,Post-visit survey,4,Food quality,Positive
+1506,11,Sat,Post-visit survey,4,Ambience,Positive
+1507,11,Sat,Instagram DM,4,Food quality,Positive
+1508,11,Sat,Google,4,Food quality,Positive
+1509,11,Sat,Instagram DM,5,Value,Positive
+1510,11,Sat,Post-visit survey,4,Food quality,Positive
+1511,11,Sat,Post-visit survey,5,Ambience,Positive
+1512,11,Sat,Google,5,Food quality,Positive
+1513,11,Sat,Google,4,Wait time,Positive
+1514,11,Sat,Google,5,Drinks,Positive
+1515,11,Sat,Resy,4,Food quality,Positive
+1516,11,Sat,Google,5,Wait time,Positive
+1517,11,Sat,Post-visit survey,4,Drinks,Positive
+1518,11,Sat,Google,5,Drinks,Positive
+1519,11,Sat,Post-visit survey,5,Ambience,Positive
+1520,11,Sat,Post-visit survey,5,Food quality,Positive
+1521,11,Sat,Post-visit survey,5,Drinks,Positive
+1522,11,Sat,Post-visit survey,4,Food quality,Positive
+1523,11,Sat,Post-visit survey,5,Value,Positive
+1524,11,Sun,Post-visit survey,5,Value,Positive
+1525,11,Sun,Google,5,Ambience,Positive
+1526,11,Sun,Instagram DM,4,Ambience,Positive
+1527,11,Sun,Resy,4,Wait time,Positive
+1528,11,Sun,Post-visit survey,5,Service speed,Positive
+1529,11,Sun,Google,4,Service speed,Positive
+1530,11,Sun,Post-visit survey,4,Food quality,Positive
+1531,11,Sun,Google,5,Food quality,Positive
+1532,11,Sun,Google,4,Service speed,Positive
+1533,11,Sun,Post-visit survey,5,Ambience,Positive
+1534,11,Sun,Instagram DM,4,Food quality,Positive
+1535,11,Sun,Post-visit survey,5,Food quality,Positive
+1536,11,Sun,Resy,4,Food quality,Positive
+1537,11,Sun,Resy,4,Ambience,Positive
+1538,11,Sun,Resy,4,Food quality,Positive
+1539,11,Sun,Post-visit survey,4,Drinks,Positive
+1540,11,Sun,Post-visit survey,3,Wait time,Neutral
+1541,11,Sun,Post-visit survey,4,Service speed,Positive
+1542,11,Sun,Google,4,Ambience,Positive
+1543,11,Sun,Post-visit survey,5,Value,Positive
+1544,11,Sun,Instagram DM,5,Food quality,Positive
+1545,11,Sun,Resy,4,Food quality,Positive
+1546,11,Sun,Resy,4,Ambience,Positive
+1547,11,Sun,Google,5,Drinks,Positive
+1548,11,Sun,Post-visit survey,4,Food quality,Positive
+1549,11,Sun,Instagram DM,5,Drinks,Positive
+1550,11,Sun,Google,4,Ambience,Positive
+1551,11,Sun,Google,4,Value,Positive
+1552,11,Sun,Post-visit survey,5,Ambience,Positive
+1553,11,Sun,Resy,5,Drinks,Positive
+1554,11,Sun,Post-visit survey,5,Drinks,Positive
+1555,12,Mon,Google,4,Food quality,Positive
+1556,12,Mon,Google,4,Food quality,Positive
+1557,12,Mon,Post-visit survey,4,Food quality,Positive
+1558,12,Mon,Instagram DM,4,Food quality,Positive
+1559,12,Mon,Google,5,Ambience,Positive
+1560,12,Mon,Post-visit survey,5,Ambience,Positive
+1561,12,Mon,Post-visit survey,5,Wait time,Positive
+1562,12,Mon,Instagram DM,4,Drinks,Positive
+1563,12,Mon,Post-visit survey,5,Food quality,Positive
+1564,12,Mon,Google,5,Wait time,Positive
+1565,12,Mon,Google,5,Wait time,Positive
+1566,12,Mon,Post-visit survey,5,Drinks,Positive
+1567,12,Mon,Post-visit survey,5,Food quality,Positive
+1568,12,Mon,Post-visit survey,5,Food quality,Positive
+1569,12,Mon,Google,4,Wait time,Positive
+1570,12,Mon,Post-visit survey,4,Ambience,Positive
+1571,12,Mon,Post-visit survey,4,Ambience,Positive
+1572,12,Tue,Google,5,Food quality,Positive
+1573,12,Tue,Post-visit survey,5,Food quality,Positive
+1574,12,Tue,Post-visit survey,5,Ambience,Positive
+1575,12,Tue,Google,5,Drinks,Positive
+1576,12,Tue,Post-visit survey,3,Drinks,Neutral
+1577,12,Tue,Post-visit survey,4,Wait time,Positive
+1578,12,Tue,Post-visit survey,5,Drinks,Positive
+1579,12,Tue,Instagram DM,5,Food quality,Positive
+1580,12,Tue,Google,5,Drinks,Positive
+1581,12,Tue,Post-visit survey,5,Ambience,Positive
+1582,12,Tue,Post-visit survey,5,Wait time,Positive
+1583,12,Tue,Google,5,Value,Positive
+1584,12,Tue,Post-visit survey,4,Food quality,Positive
+1585,12,Tue,Google,4,Wait time,Positive
+1586,12,Tue,Instagram DM,5,Ambience,Positive
+1587,12,Tue,Resy,5,Food quality,Positive
+1588,12,Tue,Post-visit survey,5,Value,Positive
+1589,12,Tue,Post-visit survey,5,Drinks,Positive
+1590,12,Tue,Resy,5,Ambience,Positive
+1591,12,Wed,Resy,5,Food quality,Positive
+1592,12,Wed,Post-visit survey,5,Food quality,Positive
+1593,12,Wed,Resy,5,Drinks,Positive
+1594,12,Wed,Google,5,Food quality,Positive
+1595,12,Wed,Post-visit survey,5,Ambience,Positive
+1596,12,Wed,Resy,5,Wait time,Positive
+1597,12,Wed,Post-visit survey,3,Food quality,Neutral
+1598,12,Wed,Google,5,Drinks,Positive
+1599,12,Wed,Resy,5,Value,Positive
+1600,12,Wed,Post-visit survey,5,Food quality,Positive
+1601,12,Wed,Resy,5,Service speed,Positive
+1602,12,Wed,Post-visit survey,5,Food quality,Positive
+1603,12,Wed,Post-visit survey,5,Food quality,Positive
+1604,12,Wed,Post-visit survey,4,Food quality,Positive
+1605,12,Wed,Resy,5,Ambience,Positive
+1606,12,Wed,Resy,5,Value,Positive
+1607,12,Wed,Resy,5,Food quality,Positive
+1608,12,Wed,Resy,4,Drinks,Positive
+1609,12,Wed,Post-visit survey,5,Value,Positive
+1610,12,Wed,Post-visit survey,5,Food quality,Positive
+1611,12,Wed,Instagram DM,4,Ambience,Positive
+1612,12,Thu,Google,5,Ambience,Positive
+1613,12,Thu,Google,5,Drinks,Positive
+1614,12,Thu,Google,5,Food quality,Positive
+1615,12,Thu,Post-visit survey,5,Service speed,Positive
+1616,12,Thu,Google,5,Food quality,Positive
+1617,12,Thu,Post-visit survey,4,Value,Positive
+1618,12,Thu,Resy,5,Food quality,Positive
+1619,12,Thu,Google,4,Ambience,Positive
+1620,12,Thu,Post-visit survey,5,Ambience,Positive
+1621,12,Thu,Google,4,Food quality,Positive
+1622,12,Thu,Resy,5,Drinks,Positive
+1623,12,Thu,Post-visit survey,3,Ambience,Neutral
+1624,12,Thu,Resy,4,Food quality,Positive
+1625,12,Thu,Post-visit survey,4,Ambience,Positive
+1626,12,Thu,Google,4,Wait time,Positive
+1627,12,Thu,Post-visit survey,5,Ambience,Positive
+1628,12,Thu,Google,5,Ambience,Positive
+1629,12,Thu,Post-visit survey,5,Ambience,Positive
+1630,12,Fri,Resy,4,Service speed,Positive
+1631,12,Fri,Google,5,Ambience,Positive
+1632,12,Fri,Post-visit survey,5,Food quality,Positive
+1633,12,Fri,Post-visit survey,5,Drinks,Positive
+1634,12,Fri,Post-visit survey,4,Drinks,Positive
+1635,12,Fri,Post-visit survey,5,Food quality,Positive
+1636,12,Fri,Google,4,Food quality,Positive
+1637,12,Fri,Instagram DM,5,Ambience,Positive
+1638,12,Fri,Post-visit survey,5,Ambience,Positive
+1639,12,Fri,Post-visit survey,5,Value,Positive
+1640,12,Fri,Post-visit survey,5,Ambience,Positive
+1641,12,Fri,Google,5,Wait time,Positive
+1642,12,Fri,Post-visit survey,4,Food quality,Positive
+1643,12,Fri,Instagram DM,5,Food quality,Positive
+1644,12,Fri,Google,4,Value,Positive
+1645,12,Fri,Post-visit survey,5,Food quality,Positive
+1646,12,Fri,Resy,4,Food quality,Positive
+1647,12,Fri,Google,5,Service speed,Positive
+1648,12,Fri,Post-visit survey,5,Food quality,Positive
+1649,12,Fri,Resy,4,Drinks,Positive
+1650,12,Fri,Post-visit survey,4,Ambience,Positive
+1651,12,Fri,Resy,4,Drinks,Positive
+1652,12,Sat,Post-visit survey,4,Ambience,Positive
+1653,12,Sat,Google,5,Value,Positive
+1654,12,Sat,Post-visit survey,5,Food quality,Positive
+1655,12,Sat,Instagram DM,4,Service speed,Positive
+1656,12,Sat,Google,3,Ambience,Neutral
+1657,12,Sat,Post-visit survey,4,Food quality,Positive
+1658,12,Sat,Post-visit survey,5,Value,Positive
+1659,12,Sat,Post-visit survey,5,Drinks,Positive
+1660,12,Sat,Post-visit survey,5,Ambience,Positive
+1661,12,Sat,Post-visit survey,4,Drinks,Positive
+1662,12,Sat,Resy,5,Value,Positive
+1663,12,Sat,Google,5,Drinks,Positive
+1664,12,Sat,Post-visit survey,5,Food quality,Positive
+1665,12,Sat,Post-visit survey,5,Food quality,Positive
+1666,12,Sat,Post-visit survey,5,Drinks,Positive
+1667,12,Sat,Resy,5,Food quality,Positive
+1668,12,Sat,Post-visit survey,4,Drinks,Positive
+1669,12,Sat,Post-visit survey,4,Wait time,Positive
+1670,12,Sat,Google,5,Service speed,Positive
+1671,12,Sat,Post-visit survey,4,Wait time,Positive
+1672,12,Sat,Post-visit survey,5,Value,Positive
+1673,12,Sat,Post-visit survey,5,Food quality,Positive
+1674,12,Sat,Post-visit survey,4,Drinks,Positive
+1675,12,Sat,Resy,5,Value,Positive
+1676,12,Sat,Google,5,Drinks,Positive
+1677,12,Sat,Post-visit survey,5,Value,Positive
+1678,12,Sat,Instagram DM,4,Service speed,Positive
+1679,12,Sat,Google,5,Drinks,Positive
+1680,12,Sat,Resy,5,Food quality,Positive
+1681,12,Sat,Google,4,Ambience,Positive
+1682,12,Sun,Google,5,Ambience,Positive
+1683,12,Sun,Post-visit survey,4,Food quality,Positive
+1684,12,Sun,Post-visit survey,5,Drinks,Positive
+1685,12,Sun,Resy,5,Ambience,Positive
+1686,12,Sun,Post-visit survey,4,Ambience,Positive
+1687,12,Sun,Google,5,Ambience,Positive
+1688,12,Sun,Resy,4,Wait time,Positive
+1689,12,Sun,Post-visit survey,4,Ambience,Positive
+1690,12,Sun,Post-visit survey,5,Ambience,Positive
+1691,12,Sun,Resy,4,Ambience,Positive
+1692,12,Sun,Post-visit survey,5,Ambience,Positive
+1693,12,Sun,Google,4,Food quality,Positive
+1694,12,Sun,Google,4,Food quality,Positive
+1695,12,Sun,Google,4,Food quality,Positive
+1696,12,Sun,Post-visit survey,5,Value,Positive
+1697,12,Sun,Google,4,Food quality,Positive
+1698,12,Sun,Post-visit survey,5,Ambience,Positive
+1699,12,Sun,Instagram DM,5,Drinks,Positive
+1700,12,Sun,Post-visit survey,5,Drinks,Positive
+1701,12,Sun,Google,4,Drinks,Positive
+1702,12,Sun,Google,4,Ambience,Positive
+1703,12,Sun,Post-visit survey,5,Food quality,Positive
+1704,12,Sun,Instagram DM,4,Drinks,Positive
+1705,13,Mon,Post-visit survey,4,Service speed,Positive
+1706,13,Mon,Google,5,Drinks,Positive
+1707,13,Mon,Post-visit survey,4,Value,Positive
+1708,13,Mon,Instagram DM,4,Value,Positive
+1709,13,Mon,Google,5,Ambience,Positive
+1710,13,Mon,Post-visit survey,5,Food quality,Positive
+1711,13,Mon,Post-visit survey,4,Value,Positive
+1712,13,Mon,Post-visit survey,4,Ambience,Positive
+1713,13,Tue,Instagram DM,5,Drinks,Positive
+1714,13,Tue,Post-visit survey,5,Food quality,Positive
+1715,13,Tue,Google,4,Drinks,Positive
+1716,13,Tue,Post-visit survey,5,Food quality,Positive
+1717,13,Tue,Google,4,Food quality,Positive
+1718,13,Tue,Google,5,Ambience,Positive
+1719,13,Tue,Post-visit survey,4,Drinks,Positive
+1720,13,Tue,Post-visit survey,5,Ambience,Positive
+1721,13,Tue,Instagram DM,4,Food quality,Positive
+1722,13,Tue,Post-visit survey,5,Ambience,Positive
+1723,13,Tue,Post-visit survey,5,Drinks,Positive
+1724,13,Tue,Google,4,Ambience,Positive
+1725,13,Tue,Post-visit survey,4,Service speed,Positive
+1726,13,Tue,Post-visit survey,4,Food quality,Positive
+1727,13,Tue,Resy,4,Food quality,Positive
+1728,13,Tue,Post-visit survey,5,Value,Positive
+1729,13,Tue,Post-visit survey,5,Food quality,Positive
+1730,13,Tue,Instagram DM,4,Ambience,Positive
+1731,13,Tue,Google,5,Food quality,Positive
+1732,13,Tue,Post-visit survey,5,Service speed,Positive
+1733,13,Tue,Post-visit survey,5,Service speed,Positive
+1734,13,Tue,Post-visit survey,5,Ambience,Positive
+1735,13,Tue,Instagram DM,5,Ambience,Positive
+1736,13,Wed,Resy,4,Ambience,Positive
+1737,13,Wed,Resy,4,Ambience,Positive
+1738,13,Wed,Google,5,Food quality,Positive
+1739,13,Wed,Google,5,Ambience,Positive
+1740,13,Wed,Post-visit survey,5,Ambience,Positive
+1741,13,Wed,Post-visit survey,5,Service speed,Positive
+1742,13,Wed,Post-visit survey,4,Service speed,Positive
+1743,13,Wed,Resy,5,Food quality,Positive
+1744,13,Wed,Google,4,Food quality,Positive
+1745,13,Wed,Google,5,Value,Positive
+1746,13,Wed,Google,5,Wait time,Positive
+1747,13,Wed,Post-visit survey,5,Ambience,Positive
+1748,13,Wed,Post-visit survey,5,Drinks,Positive
+1749,13,Wed,Google,5,Wait time,Positive
+1750,13,Thu,Resy,4,Food quality,Positive
+1751,13,Thu,Google,4,Value,Positive
+1752,13,Thu,Post-visit survey,5,Wait time,Positive
+1753,13,Thu,Google,4,Ambience,Positive
+1754,13,Thu,Instagram DM,4,Food quality,Positive
+1755,13,Thu,Post-visit survey,4,Food quality,Positive
+1756,13,Thu,Post-visit survey,4,Food quality,Positive
+1757,13,Thu,Resy,4,Ambience,Positive
+1758,13,Thu,Google,5,Service speed,Positive
+1759,13,Thu,Resy,3,Ambience,Neutral
+1760,13,Thu,Post-visit survey,5,Wait time,Positive
+1761,13,Thu,Google,5,Wait time,Positive
+1762,13,Thu,Resy,5,Drinks,Positive
+1763,13,Thu,Resy,4,Ambience,Positive
+1764,13,Thu,Google,4,Drinks,Positive
+1765,13,Thu,Google,5,Ambience,Positive
+1766,13,Thu,Google,4,Wait time,Positive
+1767,13,Thu,Resy,3,Value,Neutral
+1768,13,Thu,Google,5,Food quality,Positive
+1769,13,Thu,Google,4,Ambience,Positive
+1770,13,Fri,Google,4,Drinks,Positive
+1771,13,Fri,Post-visit survey,4,Food quality,Positive
+1772,13,Fri,Google,5,Service speed,Positive
+1773,13,Fri,Google,5,Ambience,Positive
+1774,13,Fri,Google,5,Value,Positive
+1775,13,Fri,Post-visit survey,4,Wait time,Positive
+1776,13,Fri,Post-visit survey,5,Drinks,Positive
+1777,13,Fri,Post-visit survey,5,Ambience,Positive
+1778,13,Fri,Resy,5,Ambience,Positive
+1779,13,Fri,Post-visit survey,5,Drinks,Positive
+1780,13,Fri,Resy,4,Ambience,Positive
+1781,13,Fri,Google,3,Value,Neutral
+1782,13,Fri,Post-visit survey,5,Value,Positive
+1783,13,Fri,Post-visit survey,5,Value,Positive
+1784,13,Fri,Resy,5,Food quality,Positive
+1785,13,Fri,Google,5,Drinks,Positive
+1786,13,Fri,Resy,5,Food quality,Positive
+1787,13,Fri,Google,4,Food quality,Positive
+1788,13,Fri,Post-visit survey,4,Ambience,Positive
+1789,13,Fri,Resy,4,Food quality,Positive
+1790,13,Fri,Resy,4,Food quality,Positive
+1791,13,Fri,Post-visit survey,4,Service speed,Positive
+1792,13,Fri,Resy,4,Wait time,Positive
+1793,13,Fri,Post-visit survey,4,Ambience,Positive
+1794,13,Fri,Post-visit survey,5,Ambience,Positive
+1795,13,Fri,Post-visit survey,5,Service speed,Positive
+1796,13,Fri,Post-visit survey,5,Drinks,Positive
+1797,13,Fri,Instagram DM,4,Drinks,Positive
+1798,13,Fri,Google,4,Ambience,Positive
+1799,13,Fri,Post-visit survey,5,Ambience,Positive
+1800,13,Fri,Post-visit survey,3,Food quality,Neutral
+1801,13,Fri,Google,4,Service speed,Positive
+1802,13,Fri,Post-visit survey,3,Ambience,Neutral
+1803,13,Fri,Post-visit survey,5,Food quality,Positive
+1804,13,Fri,Resy,4,Ambience,Positive
+1805,13,Fri,Google,5,Food quality,Positive
+1806,13,Fri,Resy,5,Food quality,Positive
+1807,13,Fri,Post-visit survey,5,Value,Positive
+1808,13,Fri,Resy,3,Ambience,Neutral
+1809,13,Fri,Post-visit survey,5,Ambience,Positive
+1810,13,Fri,Post-visit survey,5,Drinks,Positive
+1811,13,Fri,Google,5,Drinks,Positive
+1812,13,Fri,Google,3,Food quality,Neutral
+1813,13,Fri,Resy,4,Ambience,Positive
+1814,13,Sat,Resy,5,Food quality,Positive
+1815,13,Sat,Post-visit survey,5,Drinks,Positive
+1816,13,Sat,Google,3,Drinks,Neutral
+1817,13,Sat,Google,5,Food quality,Positive
+1818,13,Sat,Post-visit survey,4,Ambience,Positive
+1819,13,Sat,Google,5,Service speed,Positive
+1820,13,Sat,Resy,4,Ambience,Positive
+1821,13,Sat,Resy,5,Drinks,Positive
+1822,13,Sat,Post-visit survey,5,Service speed,Positive
+1823,13,Sat,Post-visit survey,4,Ambience,Positive
+1824,13,Sat,Post-visit survey,5,Ambience,Positive
+1825,13,Sat,Post-visit survey,4,Food quality,Positive
+1826,13,Sat,Google,4,Ambience,Positive
+1827,13,Sat,Post-visit survey,5,Food quality,Positive
+1828,13,Sat,Post-visit survey,5,Food quality,Positive
+1829,13,Sat,Post-visit survey,4,Ambience,Positive
+1830,13,Sat,Post-visit survey,4,Food quality,Positive
+1831,13,Sat,Post-visit survey,5,Service speed,Positive
+1832,13,Sat,Resy,5,Value,Positive
+1833,13,Sat,Post-visit survey,4,Value,Positive
+1834,13,Sat,Post-visit survey,5,Food quality,Positive
+1835,13,Sat,Google,5,Drinks,Positive
+1836,13,Sat,Google,4,Value,Positive
+1837,13,Sat,Resy,5,Ambience,Positive
+1838,13,Sat,Instagram DM,5,Food quality,Positive
+1839,13,Sat,Post-visit survey,4,Ambience,Positive
+1840,13,Sat,Resy,4,Food quality,Positive
+1841,13,Sat,Post-visit survey,4,Drinks,Positive
+1842,13,Sat,Post-visit survey,5,Service speed,Positive
+1843,13,Sat,Post-visit survey,5,Ambience,Positive
+1844,13,Sat,Resy,5,Food quality,Positive
+1845,13,Sat,Google,4,Wait time,Positive
+1846,13,Sat,Instagram DM,4,Ambience,Positive
+1847,13,Sat,Resy,5,Food quality,Positive
+1848,13,Sat,Post-visit survey,5,Food quality,Positive
+1849,13,Sat,Resy,4,Ambience,Positive
+1850,13,Sat,Google,4,Ambience,Positive
+1851,13,Sun,Resy,4,Value,Positive
+1852,13,Sun,Google,4,Ambience,Positive
+1853,13,Sun,Post-visit survey,5,Drinks,Positive
+1854,13,Sun,Resy,5,Food quality,Positive
+1855,13,Sun,Post-visit survey,5,Wait time,Positive
+1856,13,Sun,Post-visit survey,4,Ambience,Positive
+1857,13,Sun,Google,4,Food quality,Positive
+1858,13,Sun,Resy,5,Food quality,Positive
+1859,13,Sun,Post-visit survey,5,Food quality,Positive
+1860,13,Sun,Post-visit survey,4,Ambience,Positive
+1861,13,Sun,Post-visit survey,4,Food quality,Positive
+1862,13,Sun,Google,5,Ambience,Positive
+1863,13,Sun,Resy,4,Drinks,Positive
+1864,13,Sun,Resy,4,Wait time,Positive
+1865,13,Sun,Post-visit survey,5,Food quality,Positive
+1866,13,Sun,Resy,5,Food quality,Positive
+1867,13,Sun,Resy,5,Food quality,Positive
+1868,13,Sun,Google,4,Food quality,Positive
+1869,13,Sun,Post-visit survey,4,Value,Positive
+1870,13,Sun,Post-visit survey,4,Drinks,Positive
+1871,13,Sun,Google,4,Food quality,Positive
+1872,13,Sun,Resy,4,Service speed,Positive
+1873,13,Sun,Post-visit survey,5,Drinks,Positive
+1874,13,Sun,Post-visit survey,5,Value,Positive
+1875,13,Sun,Resy,5,Food quality,Positive
+1876,13,Sun,Post-visit survey,4,Ambience,Positive
+1877,13,Sun,Google,5,Food quality,Positive
+1878,13,Sun,Post-visit survey,4,Ambience,Positive
+1879,13,Sun,Post-visit survey,4,Ambience,Positive
+1880,13,Sun,Instagram DM,5,Ambience,Positive
+1881,13,Sun,Instagram DM,4,Service speed,Positive
+1882,13,Sun,Google,5,Wait time,Positive
+1883,14,Mon,Post-visit survey,5,Ambience,Positive
+1884,14,Mon,Google,4,Ambience,Positive
+1885,14,Mon,Post-visit survey,4,Food quality,Positive
+1886,14,Mon,Post-visit survey,5,Food quality,Positive
+1887,14,Mon,Post-visit survey,5,Food quality,Positive
+1888,14,Mon,Google,5,Service speed,Positive
+1889,14,Mon,Post-visit survey,5,Drinks,Positive
+1890,14,Mon,Resy,5,Service speed,Positive
+1891,14,Mon,Resy,5,Value,Positive
+1892,14,Mon,Google,5,Food quality,Positive
+1893,14,Mon,Post-visit survey,5,Value,Positive
+1894,14,Mon,Instagram DM,5,Value,Positive
+1895,14,Mon,Instagram DM,5,Drinks,Positive
+1896,14,Mon,Post-visit survey,4,Ambience,Positive
+1897,14,Mon,Google,5,Drinks,Positive
+1898,14,Mon,Google,4,Ambience,Positive
+1899,14,Mon,Post-visit survey,5,Wait time,Positive
+1900,14,Mon,Resy,5,Value,Positive
+1901,14,Mon,Post-visit survey,4,Value,Positive
+1902,14,Mon,Post-visit survey,4,Ambience,Positive
+1903,14,Tue,Post-visit survey,5,Food quality,Positive
+1904,14,Tue,Google,4,Drinks,Positive
+1905,14,Tue,Resy,5,Drinks,Positive
+1906,14,Tue,Post-visit survey,5,Food quality,Positive
+1907,14,Tue,Post-visit survey,5,Service speed,Positive
+1908,14,Tue,Post-visit survey,5,Service speed,Positive
+1909,14,Tue,Instagram DM,5,Service speed,Positive
+1910,14,Tue,Google,4,Wait time,Positive
+1911,14,Tue,Post-visit survey,4,Value,Positive
+1912,14,Tue,Google,5,Ambience,Positive
+1913,14,Tue,Post-visit survey,4,Wait time,Positive
+1914,14,Tue,Post-visit survey,5,Wait time,Positive
+1915,14,Wed,Google,5,Value,Positive
+1916,14,Wed,Post-visit survey,5,Service speed,Positive
+1917,14,Wed,Post-visit survey,5,Ambience,Positive
+1918,14,Wed,Google,5,Ambience,Positive
+1919,14,Wed,Post-visit survey,4,Food quality,Positive
+1920,14,Wed,Resy,5,Drinks,Positive
+1921,14,Wed,Post-visit survey,4,Value,Positive
+1922,14,Wed,Instagram DM,5,Ambience,Positive
+1923,14,Wed,Google,5,Ambience,Positive
+1924,14,Wed,Resy,5,Food quality,Positive
+1925,14,Wed,Google,4,Value,Positive
+1926,14,Wed,Google,5,Food quality,Positive
+1927,14,Wed,Google,4,Ambience,Positive
+1928,14,Wed,Google,4,Ambience,Positive
+1929,14,Wed,Google,4,Ambience,Positive
+1930,14,Wed,Resy,5,Ambience,Positive
+1931,14,Wed,Instagram DM,5,Ambience,Positive
+1932,14,Wed,Post-visit survey,4,Value,Positive
+1933,14,Wed,Post-visit survey,5,Food quality,Positive
+1934,14,Wed,Instagram DM,5,Food quality,Positive
+1935,14,Wed,Google,5,Value,Positive
+1936,14,Wed,Post-visit survey,4,Wait time,Positive
+1937,14,Wed,Google,4,Ambience,Positive
+1938,14,Thu,Resy,5,Wait time,Positive
+1939,14,Thu,Resy,4,Ambience,Positive
+1940,14,Thu,Google,4,Service speed,Positive
+1941,14,Thu,Post-visit survey,4,Ambience,Positive
+1942,14,Thu,Google,5,Value,Positive
+1943,14,Thu,Resy,4,Drinks,Positive
+1944,14,Thu,Post-visit survey,5,Ambience,Positive
+1945,14,Thu,Post-visit survey,5,Ambience,Positive
+1946,14,Thu,Google,4,Ambience,Positive
+1947,14,Thu,Post-visit survey,4,Ambience,Positive
+1948,14,Thu,Post-visit survey,4,Food quality,Positive
+1949,14,Thu,Post-visit survey,5,Food quality,Positive
+1950,14,Thu,Post-visit survey,4,Food quality,Positive
+1951,14,Thu,Instagram DM,5,Drinks,Positive
+1952,14,Thu,Post-visit survey,4,Drinks,Positive
+1953,14,Thu,Instagram DM,5,Food quality,Positive
+1954,14,Thu,Google,4,Ambience,Positive
+1955,14,Thu,Instagram DM,4,Service speed,Positive
+1956,14,Fri,Google,5,Wait time,Positive
+1957,14,Fri,Post-visit survey,4,Food quality,Positive
+1958,14,Fri,Google,5,Ambience,Positive
+1959,14,Fri,Post-visit survey,4,Food quality,Positive
+1960,14,Fri,Google,5,Ambience,Positive
+1961,14,Fri,Google,4,Food quality,Positive
+1962,14,Fri,Google,3,Food quality,Neutral
+1963,14,Fri,Post-visit survey,5,Value,Positive
+1964,14,Fri,Post-visit survey,5,Wait time,Positive
+1965,14,Fri,Resy,5,Food quality,Positive
+1966,14,Fri,Post-visit survey,5,Ambience,Positive
+1967,14,Fri,Post-visit survey,5,Food quality,Positive
+1968,14,Fri,Post-visit survey,5,Food quality,Positive
+1969,14,Fri,Resy,4,Value,Positive
+1970,14,Fri,Resy,5,Ambience,Positive
+1971,14,Fri,Post-visit survey,4,Drinks,Positive
+1972,14,Fri,Post-visit survey,5,Food quality,Positive
+1973,14,Fri,Post-visit survey,5,Value,Positive
+1974,14,Fri,Resy,4,Service speed,Positive
+1975,14,Fri,Post-visit survey,5,Wait time,Positive
+1976,14,Fri,Post-visit survey,3,Wait time,Neutral
+1977,14,Fri,Resy,4,Service speed,Positive
+1978,14,Fri,Post-visit survey,5,Drinks,Positive
+1979,14,Fri,Post-visit survey,4,Drinks,Positive
+1980,14,Fri,Google,4,Ambience,Positive
+1981,14,Fri,Post-visit survey,4,Drinks,Positive
+1982,14,Fri,Instagram DM,5,Service speed,Positive
+1983,14,Fri,Instagram DM,5,Drinks,Positive
+1984,14,Fri,Google,5,Drinks,Positive
+1985,14,Fri,Resy,5,Value,Positive
+1986,14,Fri,Resy,4,Wait time,Positive
+1987,14,Sat,Post-visit survey,4,Value,Positive
+1988,14,Sat,Instagram DM,5,Food quality,Positive
+1989,14,Sat,Post-visit survey,5,Drinks,Positive
+1990,14,Sat,Post-visit survey,5,Wait time,Positive
+1991,14,Sat,Post-visit survey,5,Drinks,Positive
+1992,14,Sat,Google,4,Value,Positive
+1993,14,Sat,Post-visit survey,4,Food quality,Positive
+1994,14,Sat,Resy,5,Food quality,Positive
+1995,14,Sat,Post-visit survey,4,Ambience,Positive
+1996,14,Sat,Resy,4,Food quality,Positive
+1997,14,Sat,Post-visit survey,3,Service speed,Neutral
+1998,14,Sat,Google,5,Ambience,Positive
+1999,14,Sat,Google,5,Drinks,Positive
+2000,14,Sat,Google,5,Wait time,Positive
+2001,14,Sat,Post-visit survey,4,Wait time,Positive
+2002,14,Sat,Post-visit survey,4,Drinks,Positive
+2003,14,Sat,Instagram DM,5,Food quality,Positive
+2004,14,Sat,Post-visit survey,5,Food quality,Positive
+2005,14,Sat,Resy,5,Food quality,Positive
+2006,14,Sat,Resy,5,Food quality,Positive
+2007,14,Sat,Resy,3,Drinks,Neutral
+2008,14,Sat,Post-visit survey,5,Value,Positive
+2009,14,Sat,Resy,4,Value,Positive
+2010,14,Sat,Google,5,Food quality,Positive
+2011,14,Sat,Post-visit survey,5,Value,Positive
+2012,14,Sat,Google,4,Drinks,Positive
+2013,14,Sat,Post-visit survey,5,Food quality,Positive
+2014,14,Sat,Post-visit survey,5,Ambience,Positive
+2015,14,Sat,Post-visit survey,5,Ambience,Positive
+2016,14,Sat,Google,5,Food quality,Positive
+2017,14,Sat,Instagram DM,5,Drinks,Positive
+2018,14,Sat,Google,4,Ambience,Positive
+2019,14,Sat,Post-visit survey,5,Food quality,Positive
+2020,14,Sat,Post-visit survey,5,Food quality,Positive
+2021,14,Sat,Google,5,Food quality,Positive
+2022,14,Sun,Post-visit survey,5,Ambience,Positive
+2023,14,Sun,Post-visit survey,4,Ambience,Positive
+2024,14,Sun,Google,4,Food quality,Positive
+2025,14,Sun,Post-visit survey,5,Food quality,Positive
+2026,14,Sun,Post-visit survey,5,Drinks,Positive
+2027,14,Sun,Google,4,Food quality,Positive
+2028,14,Sun,Resy,3,Food quality,Neutral
+2029,14,Sun,Post-visit survey,4,Food quality,Positive
+2030,14,Sun,Post-visit survey,4,Service speed,Positive
+2031,14,Sun,Resy,5,Food quality,Positive
+2032,14,Sun,Post-visit survey,5,Ambience,Positive
+2033,14,Sun,Resy,5,Wait time,Positive
+2034,14,Sun,Google,4,Drinks,Positive
+2035,14,Sun,Resy,5,Food quality,Positive
+2036,14,Sun,Post-visit survey,5,Service speed,Positive
+2037,14,Sun,Post-visit survey,5,Drinks,Positive
+2038,14,Sun,Google,3,Ambience,Neutral
+2039,14,Sun,Post-visit survey,4,Ambience,Positive
+2040,14,Sun,Post-visit survey,5,Ambience,Positive
+2041,14,Sun,Post-visit survey,3,Ambience,Neutral
+2042,14,Sun,Post-visit survey,4,Food quality,Positive
+2043,14,Sun,Google,4,Service speed,Positive
+2044,15,Mon,Google,5,Food quality,Positive
+2045,15,Mon,Post-visit survey,4,Ambience,Positive
+2046,15,Mon,Resy,4,Drinks,Positive
+2047,15,Mon,Google,5,Food quality,Positive
+2048,15,Mon,Post-visit survey,5,Drinks,Positive
+2049,15,Mon,Post-visit survey,5,Drinks,Positive
+2050,15,Mon,Google,4,Ambience,Positive
+2051,15,Mon,Post-visit survey,5,Drinks,Positive
+2052,15,Mon,Google,5,Value,Positive
+2053,15,Mon,Post-visit survey,4,Food quality,Positive
+2054,15,Tue,Post-visit survey,5,Ambience,Positive
+2055,15,Tue,Google,4,Food quality,Positive
+2056,15,Tue,Google,5,Food quality,Positive
+2057,15,Tue,Google,4,Ambience,Positive
+2058,15,Tue,Google,5,Drinks,Positive
+2059,15,Tue,Post-visit survey,5,Food quality,Positive
+2060,15,Tue,Resy,5,Ambience,Positive
+2061,15,Tue,Resy,4,Food quality,Positive
+2062,15,Tue,Post-visit survey,5,Ambience,Positive
+2063,15,Tue,Instagram DM,4,Ambience,Positive
+2064,15,Tue,Google,5,Value,Positive
+2065,15,Tue,Resy,5,Wait time,Positive
+2066,15,Tue,Post-visit survey,5,Ambience,Positive
+2067,15,Tue,Google,4,Food quality,Positive
+2068,15,Tue,Resy,5,Value,Positive
+2069,15,Tue,Resy,5,Food quality,Positive
+2070,15,Tue,Post-visit survey,5,Ambience,Positive
+2071,15,Tue,Post-visit survey,5,Ambience,Positive
+2072,15,Wed,Post-visit survey,5,Wait time,Positive
+2073,15,Wed,Resy,5,Food quality,Positive
+2074,15,Wed,Post-visit survey,5,Ambience,Positive
+2075,15,Wed,Post-visit survey,4,Food quality,Positive
+2076,15,Wed,Google,5,Food quality,Positive
+2077,15,Wed,Post-visit survey,4,Food quality,Positive
+2078,15,Wed,Post-visit survey,4,Wait time,Positive
+2079,15,Wed,Google,5,Value,Positive
+2080,15,Wed,Post-visit survey,5,Drinks,Positive
+2081,15,Wed,Google,4,Wait time,Positive
+2082,15,Wed,Instagram DM,4,Service speed,Positive
+2083,15,Wed,Google,4,Drinks,Positive
+2084,15,Wed,Google,4,Food quality,Positive
+2085,15,Wed,Google,4,Ambience,Positive
+2086,15,Wed,Resy,5,Wait time,Positive
+2087,15,Wed,Resy,4,Food quality,Positive
+2088,15,Wed,Google,4,Ambience,Positive
+2089,15,Wed,Google,5,Food quality,Positive
+2090,15,Wed,Post-visit survey,5,Food quality,Positive
+2091,15,Wed,Instagram DM,5,Food quality,Positive
+2092,15,Thu,Post-visit survey,5,Drinks,Positive
+2093,15,Thu,Post-visit survey,5,Ambience,Positive
+2094,15,Thu,Resy,4,Food quality,Positive
+2095,15,Thu,Google,4,Food quality,Positive
+2096,15,Thu,Post-visit survey,4,Wait time,Positive
+2097,15,Thu,Post-visit survey,3,Food quality,Neutral
+2098,15,Thu,Post-visit survey,4,Service speed,Positive
+2099,15,Thu,Google,4,Ambience,Positive
+2100,15,Thu,Post-visit survey,4,Ambience,Positive
+2101,15,Thu,Post-visit survey,4,Food quality,Positive
+2102,15,Thu,Google,5,Food quality,Positive
+2103,15,Thu,Google,4,Food quality,Positive
+2104,15,Thu,Post-visit survey,5,Food quality,Positive
+2105,15,Thu,Google,4,Service speed,Positive
+2106,15,Thu,Google,4,Value,Positive
+2107,15,Thu,Google,4,Value,Positive
+2108,15,Thu,Post-visit survey,4,Ambience,Positive
+2109,15,Thu,Google,5,Ambience,Positive
+2110,15,Thu,Post-visit survey,5,Value,Positive
+2111,15,Thu,Resy,4,Ambience,Positive
+2112,15,Thu,Resy,4,Food quality,Positive
+2113,15,Thu,Post-visit survey,4,Food quality,Positive
+2114,15,Fri,Resy,5,Food quality,Positive
+2115,15,Fri,Post-visit survey,5,Food quality,Positive
+2116,15,Fri,Post-visit survey,4,Service speed,Positive
+2117,15,Fri,Post-visit survey,4,Ambience,Positive
+2118,15,Fri,Google,5,Value,Positive
+2119,15,Fri,Resy,5,Food quality,Positive
+2120,15,Fri,Instagram DM,4,Value,Positive
+2121,15,Fri,Resy,5,Food quality,Positive
+2122,15,Fri,Resy,4,Ambience,Positive
+2123,15,Fri,Post-visit survey,5,Ambience,Positive
+2124,15,Fri,Post-visit survey,5,Food quality,Positive
+2125,15,Fri,Post-visit survey,5,Ambience,Positive
+2126,15,Fri,Post-visit survey,4,Service speed,Positive
+2127,15,Fri,Post-visit survey,5,Food quality,Positive
+2128,15,Fri,Instagram DM,4,Drinks,Positive
+2129,15,Fri,Google,5,Food quality,Positive
+2130,15,Fri,Google,4,Service speed,Positive
+2131,15,Fri,Post-visit survey,5,Wait time,Positive
+2132,15,Fri,Resy,5,Wait time,Positive
+2133,15,Fri,Google,3,Ambience,Neutral
+2134,15,Fri,Post-visit survey,5,Ambience,Positive
+2135,15,Fri,Google,5,Drinks,Positive
+2136,15,Fri,Instagram DM,5,Food quality,Positive
+2137,15,Fri,Post-visit survey,4,Drinks,Positive
+2138,15,Fri,Instagram DM,5,Food quality,Positive
+2139,15,Fri,Google,4,Drinks,Positive
+2140,15,Fri,Post-visit survey,5,Ambience,Positive
+2141,15,Fri,Google,5,Food quality,Positive
+2142,15,Fri,Resy,5,Food quality,Positive
+2143,15,Fri,Google,4,Food quality,Positive
+2144,15,Fri,Google,5,Ambience,Positive
+2145,15,Sat,Resy,5,Value,Positive
+2146,15,Sat,Resy,5,Food quality,Positive
+2147,15,Sat,Post-visit survey,4,Wait time,Positive
+2148,15,Sat,Post-visit survey,5,Service speed,Positive
+2149,15,Sat,Google,5,Drinks,Positive
+2150,15,Sat,Google,5,Drinks,Positive
+2151,15,Sat,Google,4,Ambience,Positive
+2152,15,Sat,Post-visit survey,4,Value,Positive
+2153,15,Sat,Post-visit survey,5,Drinks,Positive
+2154,15,Sat,Google,4,Food quality,Positive
+2155,15,Sat,Post-visit survey,5,Food quality,Positive
+2156,15,Sat,Post-visit survey,5,Service speed,Positive
+2157,15,Sat,Google,5,Service speed,Positive
+2158,15,Sat,Google,5,Food quality,Positive
+2159,15,Sat,Resy,3,Drinks,Neutral
+2160,15,Sat,Post-visit survey,5,Wait time,Positive
+2161,15,Sat,Post-visit survey,5,Drinks,Positive
+2162,15,Sat,Google,5,Ambience,Positive
+2163,15,Sat,Post-visit survey,4,Food quality,Positive
+2164,15,Sat,Post-visit survey,4,Ambience,Positive
+2165,15,Sat,Post-visit survey,4,Value,Positive
+2166,15,Sat,Google,5,Drinks,Positive
+2167,15,Sat,Google,4,Food quality,Positive
+2168,15,Sat,Google,4,Drinks,Positive
+2169,15,Sat,Post-visit survey,4,Service speed,Positive
+2170,15,Sat,Post-visit survey,4,Drinks,Positive
+2171,15,Sat,Post-visit survey,5,Food quality,Positive
+2172,15,Sat,Google,5,Value,Positive
+2173,15,Sat,Resy,4,Service speed,Positive
+2174,15,Sun,Google,4,Value,Positive
+2175,15,Sun,Resy,4,Drinks,Positive
+2176,15,Sun,Post-visit survey,4,Service speed,Positive
+2177,15,Sun,Google,4,Value,Positive
+2178,15,Sun,Post-visit survey,5,Food quality,Positive
+2179,15,Sun,Google,5,Food quality,Positive
+2180,15,Sun,Google,4,Value,Positive
+2181,15,Sun,Post-visit survey,5,Ambience,Positive
+2182,15,Sun,Google,4,Food quality,Positive
+2183,15,Sun,Post-visit survey,4,Wait time,Positive
+2184,15,Sun,Resy,3,Drinks,Neutral
+2185,15,Sun,Post-visit survey,4,Drinks,Positive
+2186,15,Sun,Post-visit survey,5,Food quality,Positive
+2187,15,Sun,Google,4,Ambience,Positive
+2188,15,Sun,Post-visit survey,5,Ambience,Positive
+2189,16,Mon,Resy,4,Drinks,Positive
+2190,16,Mon,Post-visit survey,5,Drinks,Positive
+2191,16,Mon,Post-visit survey,3,Value,Neutral
+2192,16,Mon,Google,5,Wait time,Positive
+2193,16,Mon,Google,3,Service speed,Neutral
+2194,16,Mon,Post-visit survey,5,Value,Positive
+2195,16,Mon,Resy,5,Drinks,Positive
+2196,16,Mon,Post-visit survey,4,Ambience,Positive
+2197,16,Mon,Resy,4,Ambience,Positive
+2198,16,Mon,Post-visit survey,5,Food quality,Positive
+2199,16,Mon,Post-visit survey,5,Drinks,Positive
+2200,16,Mon,Post-visit survey,4,Drinks,Positive
+2201,16,Mon,Post-visit survey,4,Ambience,Positive
+2202,16,Mon,Instagram DM,5,Service speed,Positive
+2203,16,Mon,Resy,4,Drinks,Positive
+2204,16,Mon,Post-visit survey,4,Drinks,Positive
+2205,16,Tue,Google,5,Drinks,Positive
+2206,16,Tue,Google,4,Food quality,Positive
+2207,16,Tue,Post-visit survey,4,Ambience,Positive
+2208,16,Tue,Post-visit survey,5,Food quality,Positive
+2209,16,Tue,Post-visit survey,5,Food quality,Positive
+2210,16,Tue,Post-visit survey,5,Ambience,Positive
+2211,16,Tue,Post-visit survey,5,Wait time,Positive
+2212,16,Tue,Resy,5,Wait time,Positive
+2213,16,Tue,Google,5,Ambience,Positive
+2214,16,Tue,Resy,4,Ambience,Positive
+2215,16,Tue,Resy,4,Value,Positive
+2216,16,Tue,Post-visit survey,4,Ambience,Positive
+2217,16,Tue,Resy,4,Value,Positive
+2218,16,Tue,Post-visit survey,5,Drinks,Positive
+2219,16,Tue,Google,5,Ambience,Positive
+2220,16,Tue,Post-visit survey,5,Ambience,Positive
+2221,16,Tue,Post-visit survey,4,Food quality,Positive
+2222,16,Tue,Post-visit survey,4,Ambience,Positive
+2223,16,Tue,Post-visit survey,4,Wait time,Positive
+2224,16,Tue,Resy,4,Wait time,Positive
+2225,16,Tue,Resy,4,Wait time,Positive
+2226,16,Tue,Resy,4,Value,Positive
+2227,16,Tue,Resy,4,Ambience,Positive
+2228,16,Wed,Post-visit survey,5,Food quality,Positive
+2229,16,Wed,Google,5,Food quality,Positive
+2230,16,Wed,Post-visit survey,5,Value,Positive
+2231,16,Wed,Instagram DM,5,Ambience,Positive
+2232,16,Wed,Post-visit survey,5,Food quality,Positive
+2233,16,Wed,Instagram DM,5,Value,Positive
+2234,16,Wed,Post-visit survey,5,Ambience,Positive
+2235,16,Wed,Post-visit survey,5,Value,Positive
+2236,16,Wed,Post-visit survey,4,Ambience,Positive
+2237,16,Wed,Post-visit survey,5,Drinks,Positive
+2238,16,Wed,Resy,5,Service speed,Positive
+2239,16,Wed,Google,4,Drinks,Positive
+2240,16,Wed,Google,4,Ambience,Positive
+2241,16,Thu,Google,5,Wait time,Positive
+2242,16,Thu,Post-visit survey,4,Food quality,Positive
+2243,16,Thu,Post-visit survey,5,Drinks,Positive
+2244,16,Thu,Post-visit survey,4,Drinks,Positive
+2245,16,Thu,Post-visit survey,5,Ambience,Positive
+2246,16,Thu,Post-visit survey,4,Drinks,Positive
+2247,16,Thu,Google,4,Food quality,Positive
+2248,16,Thu,Google,5,Ambience,Positive
+2249,16,Thu,Google,4,Food quality,Positive
+2250,16,Thu,Google,4,Food quality,Positive
+2251,16,Thu,Google,4,Ambience,Positive
+2252,16,Thu,Resy,5,Value,Positive
+2253,16,Thu,Google,4,Food quality,Positive
+2254,16,Thu,Post-visit survey,4,Value,Positive
+2255,16,Thu,Post-visit survey,4,Wait time,Positive
+2256,16,Fri,Post-visit survey,5,Drinks,Positive
+2257,16,Fri,Post-visit survey,4,Food quality,Positive
+2258,16,Fri,Google,4,Wait time,Positive
+2259,16,Fri,Resy,4,Food quality,Positive
+2260,16,Fri,Post-visit survey,4,Food quality,Positive
+2261,16,Fri,Post-visit survey,4,Food quality,Positive
+2262,16,Fri,Post-visit survey,5,Wait time,Positive
+2263,16,Fri,Resy,5,Food quality,Positive
+2264,16,Fri,Google,4,Food quality,Positive
+2265,16,Fri,Resy,5,Service speed,Positive
+2266,16,Fri,Google,4,Food quality,Positive
+2267,16,Fri,Resy,4,Ambience,Positive
+2268,16,Fri,Post-visit survey,5,Service speed,Positive
+2269,16,Fri,Google,5,Food quality,Positive
+2270,16,Fri,Post-visit survey,4,Food quality,Positive
+2271,16,Fri,Post-visit survey,4,Wait time,Positive
+2272,16,Fri,Post-visit survey,4,Food quality,Positive
+2273,16,Fri,Post-visit survey,5,Drinks,Positive
+2274,16,Fri,Post-visit survey,4,Drinks,Positive
+2275,16,Fri,Post-visit survey,4,Ambience,Positive
+2276,16,Fri,Google,4,Service speed,Positive
+2277,16,Fri,Post-visit survey,5,Food quality,Positive
+2278,16,Fri,Google,5,Ambience,Positive
+2279,16,Fri,Post-visit survey,5,Food quality,Positive
+2280,16,Fri,Resy,5,Food quality,Positive
+2281,16,Fri,Google,4,Food quality,Positive
+2282,16,Fri,Resy,5,Food quality,Positive
+2283,16,Sat,Resy,5,Food quality,Positive
+2284,16,Sat,Post-visit survey,5,Drinks,Positive
+2285,16,Sat,Google,5,Ambience,Positive
+2286,16,Sat,Post-visit survey,4,Service speed,Positive
+2287,16,Sat,Resy,5,Food quality,Positive
+2288,16,Sat,Post-visit survey,4,Food quality,Positive
+2289,16,Sat,Resy,4,Ambience,Positive
+2290,16,Sat,Resy,5,Drinks,Positive
+2291,16,Sat,Resy,5,Ambience,Positive
+2292,16,Sat,Resy,5,Ambience,Positive
+2293,16,Sat,Instagram DM,4,Value,Positive
+2294,16,Sat,Google,5,Value,Positive
+2295,16,Sat,Resy,5,Ambience,Positive
+2296,16,Sat,Resy,5,Service speed,Positive
+2297,16,Sat,Google,5,Drinks,Positive
+2298,16,Sat,Google,5,Drinks,Positive
+2299,16,Sat,Google,4,Wait time,Positive
+2300,16,Sat,Post-visit survey,5,Wait time,Positive
+2301,16,Sat,Resy,5,Food quality,Positive
+2302,16,Sat,Post-visit survey,4,Ambience,Positive
+2303,16,Sat,Instagram DM,5,Food quality,Positive
+2304,16,Sat,Google,5,Ambience,Positive
+2305,16,Sat,Post-visit survey,5,Food quality,Positive
+2306,16,Sat,Post-visit survey,4,Ambience,Positive
+2307,16,Sat,Google,4,Ambience,Positive
+2308,16,Sat,Post-visit survey,5,Food quality,Positive
+2309,16,Sat,Post-visit survey,5,Food quality,Positive
+2310,16,Sat,Google,5,Food quality,Positive
+2311,16,Sat,Post-visit survey,4,Food quality,Positive
+2312,16,Sat,Post-visit survey,4,Ambience,Positive
+2313,16,Sat,Resy,5,Food quality,Positive
+2314,16,Sat,Resy,4,Service speed,Positive
+2315,16,Sun,Post-visit survey,4,Wait time,Positive
+2316,16,Sun,Resy,4,Food quality,Positive
+2317,16,Sun,Post-visit survey,4,Ambience,Positive
+2318,16,Sun,Google,4,Value,Positive
+2319,16,Sun,Post-visit survey,5,Drinks,Positive
+2320,16,Sun,Resy,4,Food quality,Positive
+2321,16,Sun,Resy,5,Ambience,Positive
+2322,16,Sun,Post-visit survey,4,Wait time,Positive
+2323,16,Sun,Google,5,Value,Positive
+2324,16,Sun,Google,5,Ambience,Positive
+2325,16,Sun,Resy,5,Food quality,Positive
+2326,16,Sun,Instagram DM,5,Wait time,Positive
+2327,16,Sun,Post-visit survey,5,Food quality,Positive
+2328,16,Sun,Post-visit survey,5,Ambience,Positive
+2329,16,Sun,Resy,4,Wait time,Positive
+2330,16,Sun,Post-visit survey,5,Ambience,Positive
+2331,16,Sun,Instagram DM,4,Service speed,Positive
+2332,16,Sun,Post-visit survey,5,Food quality,Positive
+2333,16,Sun,Post-visit survey,3,Ambience,Neutral

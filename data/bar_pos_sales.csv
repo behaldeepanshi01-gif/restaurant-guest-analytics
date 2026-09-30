@@ -1,0 +1,1121 @@
+week,day,item,category,units,pos_unit_price,pos_revenue
+1,Mon,House Old Fashioned,Spirits,15,17,255
+1,Mon,Mango Chili Margarita,Spirits,11,16,176
+1,Mon,Cardamom Gin & Tonic,Spirits,15,16,240
+1,Mon,Whiskey (pour),Spirits,15,15,225
+1,Mon,Tequila (pour),Spirits,9,14,126
+1,Mon,Espresso Martini,Spirits,16,18,288
+1,Mon,House Red (glass),Wine,7,15,105
+1,Mon,House White (glass),Wine,11,14,154
+1,Mon,Lager,Beer,11,9,99
+1,Mon,Mango Lassi,Zero-proof,6,9,54
+1,Tue,House Old Fashioned,Spirits,14,17,238
+1,Tue,Mango Chili Margarita,Spirits,20,16,320
+1,Tue,Cardamom Gin & Tonic,Spirits,13,16,208
+1,Tue,Whiskey (pour),Spirits,14,15,210
+1,Tue,Tequila (pour),Spirits,13,14,182
+1,Tue,Espresso Martini,Spirits,11,18,198
+1,Tue,House Red (glass),Wine,9,15,135
+1,Tue,House White (glass),Wine,14,14,196
+1,Tue,Lager,Beer,15,9,135
+1,Tue,Mango Lassi,Zero-proof,8,9,72
+1,Wed,House Old Fashioned,Spirits,11,17,187
+1,Wed,Mango Chili Margarita,Spirits,17,16,272
+1,Wed,Cardamom Gin & Tonic,Spirits,14,16,224
+1,Wed,Whiskey (pour),Spirits,12,15,180
+1,Wed,Tequila (pour),Spirits,6,14,84
+1,Wed,Espresso Martini,Spirits,15,18,270
+1,Wed,House Red (glass),Wine,19,15,285
+1,Wed,House White (glass),Wine,12,14,168
+1,Wed,Lager,Beer,11,9,99
+1,Wed,Mango Lassi,Zero-proof,8,9,72
+1,Thu,House Old Fashioned,Spirits,31,17,527
+1,Thu,Mango Chili Margarita,Spirits,36,16,576
+1,Thu,Cardamom Gin & Tonic,Spirits,27,16,432
+1,Thu,Whiskey (pour),Spirits,20,15,300
+1,Thu,Tequila (pour),Spirits,10,14,140
+1,Thu,Espresso Martini,Spirits,17,18,306
+1,Thu,House Red (glass),Wine,26,15,390
+1,Thu,House White (glass),Wine,12,14,168
+1,Thu,Lager,Beer,18,9,162
+1,Thu,Mango Lassi,Zero-proof,8,9,72
+1,Fri,House Old Fashioned,Spirits,31,17,527
+1,Fri,Mango Chili Margarita,Spirits,38,16,608
+1,Fri,Cardamom Gin & Tonic,Spirits,39,16,624
+1,Fri,Whiskey (pour),Spirits,21,15,315
+1,Fri,Tequila (pour),Spirits,16,14,224
+1,Fri,Espresso Martini,Spirits,17,18,306
+1,Fri,House Red (glass),Wine,28,15,420
+1,Fri,House White (glass),Wine,26,14,364
+1,Fri,Lager,Beer,18,9,162
+1,Fri,Mango Lassi,Zero-proof,14,9,126
+1,Sat,House Old Fashioned,Spirits,33,17,561
+1,Sat,Mango Chili Margarita,Spirits,51,16,816
+1,Sat,Cardamom Gin & Tonic,Spirits,24,16,384
+1,Sat,Whiskey (pour),Spirits,22,15,330
+1,Sat,Tequila (pour),Spirits,23,14,322
+1,Sat,Espresso Martini,Spirits,23,18,414
+1,Sat,House Red (glass),Wine,26,15,390
+1,Sat,House White (glass),Wine,22,14,308
+1,Sat,Lager,Beer,22,9,198
+1,Sat,Mango Lassi,Zero-proof,20,9,180
+1,Sun,House Old Fashioned,Spirits,23,17,391
+1,Sun,Mango Chili Margarita,Spirits,35,16,560
+1,Sun,Cardamom Gin & Tonic,Spirits,33,16,528
+1,Sun,Whiskey (pour),Spirits,11,15,165
+1,Sun,Tequila (pour),Spirits,18,14,252
+1,Sun,Espresso Martini,Spirits,11,18,198
+1,Sun,House Red (glass),Wine,14,15,210
+1,Sun,House White (glass),Wine,25,14,350
+1,Sun,Lager,Beer,14,9,126
+1,Sun,Mango Lassi,Zero-proof,7,9,63
+2,Mon,House Old Fashioned,Spirits,11,17,187
+2,Mon,Mango Chili Margarita,Spirits,24,16,384
+2,Mon,Cardamom Gin & Tonic,Spirits,17,16,272
+2,Mon,Whiskey (pour),Spirits,10,15,150
+2,Mon,Tequila (pour),Spirits,6,14,84
+2,Mon,Espresso Martini,Spirits,14,18,252
+2,Mon,House Red (glass),Wine,24,15,360
+2,Mon,House White (glass),Wine,15,14,210
+2,Mon,Lager,Beer,10,9,90
+2,Mon,Mango Lassi,Zero-proof,9,9,81
+2,Tue,House Old Fashioned,Spirits,15,17,255
+2,Tue,Mango Chili Margarita,Spirits,20,16,320
+2,Tue,Cardamom Gin & Tonic,Spirits,14,16,224
+2,Tue,Whiskey (pour),Spirits,19,15,285
+2,Tue,Tequila (pour),Spirits,15,14,210
+2,Tue,Espresso Martini,Spirits,15,18,270
+2,Tue,House Red (glass),Wine,11,15,165
+2,Tue,House White (glass),Wine,6,14,84
+2,Tue,Lager,Beer,11,9,99
+2,Tue,Mango Lassi,Zero-proof,6,9,54
+2,Wed,House Old Fashioned,Spirits,20,17,340
+2,Wed,Mango Chili Margarita,Spirits,18,16,288
+2,Wed,Cardamom Gin & Tonic,Spirits,15,16,240
+2,Wed,Whiskey (pour),Spirits,13,15,195
+2,Wed,Tequila (pour),Spirits,10,14,140
+2,Wed,Espresso Martini,Spirits,9,18,162
+2,Wed,House Red (glass),Wine,7,15,105
+2,Wed,House White (glass),Wine,17,14,238
+2,Wed,Lager,Beer,6,9,54
+2,Wed,Mango Lassi,Zero-proof,5,9,45
+2,Thu,House Old Fashioned,Spirits,21,17,357
+2,Thu,Mango Chili Margarita,Spirits,25,16,400
+2,Thu,Cardamom Gin & Tonic,Spirits,15,16,240
+2,Thu,Whiskey (pour),Spirits,16,15,240
+2,Thu,Tequila (pour),Spirits,7,14,98
+2,Thu,Espresso Martini,Spirits,16,18,288
+2,Thu,House Red (glass),Wine,19,15,285
+2,Thu,House White (glass),Wine,14,14,196
+2,Thu,Lager,Beer,20,9,180
+2,Thu,Mango Lassi,Zero-proof,8,9,72
+2,Fri,House Old Fashioned,Spirits,29,17,493
+2,Fri,Mango Chili Margarita,Spirits,45,16,720
+2,Fri,Cardamom Gin & Tonic,Spirits,21,16,336
+2,Fri,Whiskey (pour),Spirits,21,15,315
+2,Fri,Tequila (pour),Spirits,22,14,308
+2,Fri,Espresso Martini,Spirits,18,18,324
+2,Fri,House Red (glass),Wine,29,15,435
+2,Fri,House White (glass),Wine,25,14,350
+2,Fri,Lager,Beer,17,9,153
+2,Fri,Mango Lassi,Zero-proof,13,9,117
+2,Sat,House Old Fashioned,Spirits,36,17,612
+2,Sat,Mango Chili Margarita,Spirits,44,16,704
+2,Sat,Cardamom Gin & Tonic,Spirits,32,16,512
+2,Sat,Whiskey (pour),Spirits,31,15,465
+2,Sat,Tequila (pour),Spirits,20,14,280
+2,Sat,Espresso Martini,Spirits,17,18,306
+2,Sat,House Red (glass),Wine,35,15,525
+2,Sat,House White (glass),Wine,30,14,420
+2,Sat,Lager,Beer,20,9,180
+2,Sat,Mango Lassi,Zero-proof,10,9,90
+2,Sun,House Old Fashioned,Spirits,22,17,374
+2,Sun,Mango Chili Margarita,Spirits,39,16,624
+2,Sun,Cardamom Gin & Tonic,Spirits,23,16,368
+2,Sun,Whiskey (pour),Spirits,14,15,210
+2,Sun,Tequila (pour),Spirits,7,14,98
+2,Sun,Espresso Martini,Spirits,15,18,270
+2,Sun,House Red (glass),Wine,21,15,315
+2,Sun,House White (glass),Wine,17,14,238
+2,Sun,Lager,Beer,12,9,108
+2,Sun,Mango Lassi,Zero-proof,5,9,45
+3,Mon,House Old Fashioned,Spirits,18,17,306
+3,Mon,Mango Chili Margarita,Spirits,17,16,272
+3,Mon,Cardamom Gin & Tonic,Spirits,16,16,256
+3,Mon,Whiskey (pour),Spirits,10,15,150
+3,Mon,Tequila (pour),Spirits,8,14,112
+3,Mon,Espresso Martini,Spirits,10,18,180
+3,Mon,House Red (glass),Wine,7,15,105
+3,Mon,House White (glass),Wine,11,14,154
+3,Mon,Lager,Beer,3,9,27
+3,Mon,Mango Lassi,Zero-proof,4,9,36
+3,Tue,House Old Fashioned,Spirits,18,17,306
+3,Tue,Mango Chili Margarita,Spirits,25,16,400
+3,Tue,Cardamom Gin & Tonic,Spirits,16,16,256
+3,Tue,Whiskey (pour),Spirits,16,15,240
+3,Tue,Tequila (pour),Spirits,7,14,98
+3,Tue,Espresso Martini,Spirits,9,18,162
+3,Tue,House Red (glass),Wine,13,15,195
+3,Tue,House White (glass),Wine,11,14,154
+3,Tue,Lager,Beer,15,9,135
+3,Tue,Mango Lassi,Zero-proof,7,9,63
+3,Wed,House Old Fashioned,Spirits,29,17,493
+3,Wed,Mango Chili Margarita,Spirits,28,16,448
+3,Wed,Cardamom Gin & Tonic,Spirits,19,16,304
+3,Wed,Whiskey (pour),Spirits,16,15,240
+3,Wed,Tequila (pour),Spirits,11,14,154
+3,Wed,Espresso Martini,Spirits,10,18,180
+3,Wed,House Red (glass),Wine,15,15,225
+3,Wed,House White (glass),Wine,17,14,238
+3,Wed,Lager,Beer,11,9,99
+3,Wed,Mango Lassi,Zero-proof,6,9,54
+3,Thu,House Old Fashioned,Spirits,22,17,374
+3,Thu,Mango Chili Margarita,Spirits,36,16,576
+3,Thu,Cardamom Gin & Tonic,Spirits,23,16,368
+3,Thu,Whiskey (pour),Spirits,24,15,360
+3,Thu,Tequila (pour),Spirits,13,14,182
+3,Thu,Espresso Martini,Spirits,13,18,234
+3,Thu,House Red (glass),Wine,16,15,240
+3,Thu,House White (glass),Wine,16,14,224
+3,Thu,Lager,Beer,12,9,108
+3,Thu,Mango Lassi,Zero-proof,14,9,126
+3,Fri,House Old Fashioned,Spirits,39,17,663
+3,Fri,Mango Chili Margarita,Spirits,35,16,560
+3,Fri,Cardamom Gin & Tonic,Spirits,28,16,448
+3,Fri,Whiskey (pour),Spirits,28,15,420
+3,Fri,Tequila (pour),Spirits,21,14,294
+3,Fri,Espresso Martini,Spirits,25,18,450
+3,Fri,House Red (glass),Wine,12,15,180
+3,Fri,House White (glass),Wine,19,14,266
+3,Fri,Lager,Beer,15,9,135
+3,Fri,Mango Lassi,Zero-proof,11,9,99
+3,Sat,House Old Fashioned,Spirits,36,17,612
+3,Sat,Mango Chili Margarita,Spirits,36,16,576
+3,Sat,Cardamom Gin & Tonic,Spirits,34,16,544
+3,Sat,Whiskey (pour),Spirits,26,15,390
+3,Sat,Tequila (pour),Spirits,17,14,238
+3,Sat,Espresso Martini,Spirits,23,18,414
+3,Sat,House Red (glass),Wine,22,15,330
+3,Sat,House White (glass),Wine,27,14,378
+3,Sat,Lager,Beer,16,9,144
+3,Sat,Mango Lassi,Zero-proof,13,9,117
+3,Sun,House Old Fashioned,Spirits,36,17,612
+3,Sun,Mango Chili Margarita,Spirits,29,16,464
+3,Sun,Cardamom Gin & Tonic,Spirits,17,16,272
+3,Sun,Whiskey (pour),Spirits,21,15,315
+3,Sun,Tequila (pour),Spirits,10,14,140
+3,Sun,Espresso Martini,Spirits,20,18,360
+3,Sun,House Red (glass),Wine,18,15,270
+3,Sun,House White (glass),Wine,13,14,182
+3,Sun,Lager,Beer,14,9,126
+3,Sun,Mango Lassi,Zero-proof,9,9,81
+4,Mon,House Old Fashioned,Spirits,12,17,204
+4,Mon,Mango Chili Margarita,Spirits,22,16,352
+4,Mon,Cardamom Gin & Tonic,Spirits,20,16,320
+4,Mon,Whiskey (pour),Spirits,14,15,210
+4,Mon,Tequila (pour),Spirits,7,14,98
+4,Mon,Espresso Martini,Spirits,9,18,162
+4,Mon,House Red (glass),Wine,11,15,165
+4,Mon,House White (glass),Wine,11,14,154
+4,Mon,Lager,Beer,15,9,135
+4,Mon,Mango Lassi,Zero-proof,5,9,45
+4,Tue,House Old Fashioned,Spirits,21,17,357
+4,Tue,Mango Chili Margarita,Spirits,20,16,320
+4,Tue,Cardamom Gin & Tonic,Spirits,10,16,160
+4,Tue,Whiskey (pour),Spirits,8,15,120
+4,Tue,Tequila (pour),Spirits,9,14,126
+4,Tue,Espresso Martini,Spirits,10,18,180
+4,Tue,House Red (glass),Wine,16,15,240
+4,Tue,House White (glass),Wine,10,14,140
+4,Tue,Lager,Beer,17,9,153
+4,Tue,Mango Lassi,Zero-proof,8,9,72
+4,Wed,House Old Fashioned,Spirits,21,17,357
+4,Wed,Mango Chili Margarita,Spirits,25,16,400
+4,Wed,Cardamom Gin & Tonic,Spirits,10,16,160
+4,Wed,Whiskey (pour),Spirits,22,15,330
+4,Wed,Tequila (pour),Spirits,18,14,252
+4,Wed,Espresso Martini,Spirits,10,18,180
+4,Wed,House Red (glass),Wine,18,15,270
+4,Wed,House White (glass),Wine,13,14,182
+4,Wed,Lager,Beer,11,9,99
+4,Wed,Mango Lassi,Zero-proof,12,9,108
+4,Thu,House Old Fashioned,Spirits,36,17,612
+4,Thu,Mango Chili Margarita,Spirits,30,16,480
+4,Thu,Cardamom Gin & Tonic,Spirits,21,16,336
+4,Thu,Whiskey (pour),Spirits,21,15,315
+4,Thu,Tequila (pour),Spirits,18,14,252
+4,Thu,Espresso Martini,Spirits,28,18,504
+4,Thu,House Red (glass),Wine,18,15,270
+4,Thu,House White (glass),Wine,26,14,364
+4,Thu,Lager,Beer,15,9,135
+4,Thu,Mango Lassi,Zero-proof,14,9,126
+4,Fri,House Old Fashioned,Spirits,41,17,697
+4,Fri,Mango Chili Margarita,Spirits,40,16,640
+4,Fri,Cardamom Gin & Tonic,Spirits,28,16,448
+4,Fri,Whiskey (pour),Spirits,27,15,405
+4,Fri,Tequila (pour),Spirits,18,14,252
+4,Fri,Espresso Martini,Spirits,23,18,414
+4,Fri,House Red (glass),Wine,26,15,390
+4,Fri,House White (glass),Wine,28,14,392
+4,Fri,Lager,Beer,23,9,207
+4,Fri,Mango Lassi,Zero-proof,13,9,117
+4,Sat,House Old Fashioned,Spirits,50,17,850
+4,Sat,Mango Chili Margarita,Spirits,61,16,976
+4,Sat,Cardamom Gin & Tonic,Spirits,34,16,544
+4,Sat,Whiskey (pour),Spirits,28,15,420
+4,Sat,Tequila (pour),Spirits,18,14,252
+4,Sat,Espresso Martini,Spirits,20,18,360
+4,Sat,House Red (glass),Wine,30,15,450
+4,Sat,House White (glass),Wine,24,14,336
+4,Sat,Lager,Beer,29,9,261
+4,Sat,Mango Lassi,Zero-proof,16,9,144
+4,Sun,House Old Fashioned,Spirits,26,17,442
+4,Sun,Mango Chili Margarita,Spirits,25,16,400
+4,Sun,Cardamom Gin & Tonic,Spirits,25,16,400
+4,Sun,Whiskey (pour),Spirits,29,15,435
+4,Sun,Tequila (pour),Spirits,10,14,140
+4,Sun,Espresso Martini,Spirits,21,18,378
+4,Sun,House Red (glass),Wine,25,15,375
+4,Sun,House White (glass),Wine,17,14,238
+4,Sun,Lager,Beer,21,9,189
+4,Sun,Mango Lassi,Zero-proof,13,9,117
+5,Mon,House Old Fashioned,Spirits,22,17,374
+5,Mon,Mango Chili Margarita,Spirits,17,16,272
+5,Mon,Cardamom Gin & Tonic,Spirits,20,16,320
+5,Mon,Whiskey (pour),Spirits,16,15,240
+5,Mon,Tequila (pour),Spirits,13,14,182
+5,Mon,Espresso Martini,Spirits,9,18,162
+5,Mon,House Red (glass),Wine,12,15,180
+5,Mon,House White (glass),Wine,7,14,98
+5,Mon,Lager,Beer,11,9,99
+5,Mon,Mango Lassi,Zero-proof,13,9,117
+5,Tue,House Old Fashioned,Spirits,22,17,374
+5,Tue,Mango Chili Margarita,Spirits,25,16,400
+5,Tue,Cardamom Gin & Tonic,Spirits,12,16,192
+5,Tue,Whiskey (pour),Spirits,13,15,195
+5,Tue,Tequila (pour),Spirits,6,14,84
+5,Tue,Espresso Martini,Spirits,14,18,252
+5,Tue,House Red (glass),Wine,13,15,195
+5,Tue,House White (glass),Wine,13,14,182
+5,Tue,Lager,Beer,5,9,45
+5,Tue,Mango Lassi,Zero-proof,9,9,81
+5,Wed,House Old Fashioned,Spirits,23,17,391
+5,Wed,Mango Chili Margarita,Spirits,18,16,288
+5,Wed,Cardamom Gin & Tonic,Spirits,16,16,256
+5,Wed,Whiskey (pour),Spirits,10,15,150
+5,Wed,Tequila (pour),Spirits,8,14,112
+5,Wed,Espresso Martini,Spirits,8,18,144
+5,Wed,House Red (glass),Wine,15,15,225
+5,Wed,House White (glass),Wine,10,14,140
+5,Wed,Lager,Beer,15,9,135
+5,Wed,Mango Lassi,Zero-proof,8,9,72
+5,Thu,House Old Fashioned,Spirits,36,17,612
+5,Thu,Mango Chili Margarita,Spirits,40,16,640
+5,Thu,Cardamom Gin & Tonic,Spirits,24,16,384
+5,Thu,Whiskey (pour),Spirits,18,15,270
+5,Thu,Tequila (pour),Spirits,10,14,140
+5,Thu,Espresso Martini,Spirits,13,18,234
+5,Thu,House Red (glass),Wine,26,15,390
+5,Thu,House White (glass),Wine,22,14,308
+5,Thu,Lager,Beer,19,9,171
+5,Thu,Mango Lassi,Zero-proof,13,9,117
+5,Fri,House Old Fashioned,Spirits,35,17,595
+5,Fri,Mango Chili Margarita,Spirits,36,16,576
+5,Fri,Cardamom Gin & Tonic,Spirits,37,16,592
+5,Fri,Whiskey (pour),Spirits,26,15,390
+5,Fri,Tequila (pour),Spirits,16,14,224
+5,Fri,Espresso Martini,Spirits,29,18,522
+5,Fri,House Red (glass),Wine,31,15,465
+5,Fri,House White (glass),Wine,18,14,252
+5,Fri,Lager,Beer,27,9,243
+5,Fri,Mango Lassi,Zero-proof,17,9,153
+5,Sat,House Old Fashioned,Spirits,33,17,561
+5,Sat,Mango Chili Margarita,Spirits,52,16,832
+5,Sat,Cardamom Gin & Tonic,Spirits,38,16,608
+5,Sat,Whiskey (pour),Spirits,19,15,285
+5,Sat,Tequila (pour),Spirits,26,14,364
+5,Sat,Espresso Martini,Spirits,33,18,594
+5,Sat,House Red (glass),Wine,31,15,465
+5,Sat,House White (glass),Wine,31,14,434
+5,Sat,Lager,Beer,24,9,216
+5,Sat,Mango Lassi,Zero-proof,17,9,153
+5,Sun,House Old Fashioned,Spirits,27,17,459
+5,Sun,Mango Chili Margarita,Spirits,41,16,656
+5,Sun,Cardamom Gin & Tonic,Spirits,27,16,432
+5,Sun,Whiskey (pour),Spirits,23,15,345
+5,Sun,Tequila (pour),Spirits,16,14,224
+5,Sun,Espresso Martini,Spirits,19,18,342
+5,Sun,House Red (glass),Wine,25,15,375
+5,Sun,House White (glass),Wine,19,14,266
+5,Sun,Lager,Beer,21,9,189
+5,Sun,Mango Lassi,Zero-proof,12,9,108
+6,Mon,House Old Fashioned,Spirits,23,17,391
+6,Mon,Mango Chili Margarita,Spirits,22,16,352
+6,Mon,Cardamom Gin & Tonic,Spirits,20,16,320
+6,Mon,Whiskey (pour),Spirits,12,15,180
+6,Mon,Tequila (pour),Spirits,14,14,196
+6,Mon,Espresso Martini,Spirits,22,18,396
+6,Mon,House Red (glass),Wine,14,16,224
+6,Mon,House White (glass),Wine,7,15,105
+6,Mon,Lager,Beer,13,10,130
+6,Mon,Mango Lassi,Zero-proof,13,10,130
+6,Tue,House Old Fashioned,Spirits,17,17,289
+6,Tue,Mango Chili Margarita,Spirits,19,16,304
+6,Tue,Cardamom Gin & Tonic,Spirits,15,16,240
+6,Tue,Whiskey (pour),Spirits,9,15,135
+6,Tue,Tequila (pour),Spirits,13,14,182
+6,Tue,Espresso Martini,Spirits,13,18,234
+6,Tue,House Red (glass),Wine,6,16,96
+6,Tue,House White (glass),Wine,18,15,270
+6,Tue,Lager,Beer,15,10,150
+6,Tue,Mango Lassi,Zero-proof,9,10,90
+6,Wed,House Old Fashioned,Spirits,22,17,374
+6,Wed,Mango Chili Margarita,Spirits,25,16,400
+6,Wed,Cardamom Gin & Tonic,Spirits,15,16,240
+6,Wed,Whiskey (pour),Spirits,7,15,105
+6,Wed,Tequila (pour),Spirits,18,14,252
+6,Wed,Espresso Martini,Spirits,13,18,234
+6,Wed,House Red (glass),Wine,12,16,192
+6,Wed,House White (glass),Wine,16,15,240
+6,Wed,Lager,Beer,17,10,170
+6,Wed,Mango Lassi,Zero-proof,9,10,90
+6,Thu,House Old Fashioned,Spirits,24,17,408
+6,Thu,Mango Chili Margarita,Spirits,23,16,368
+6,Thu,Cardamom Gin & Tonic,Spirits,17,16,272
+6,Thu,Whiskey (pour),Spirits,27,15,405
+6,Thu,Tequila (pour),Spirits,17,14,238
+6,Thu,Espresso Martini,Spirits,12,18,216
+6,Thu,House Red (glass),Wine,23,16,368
+6,Thu,House White (glass),Wine,12,15,180
+6,Thu,Lager,Beer,15,10,150
+6,Thu,Mango Lassi,Zero-proof,5,10,50
+6,Fri,House Old Fashioned,Spirits,29,17,493
+6,Fri,Mango Chili Margarita,Spirits,45,16,720
+6,Fri,Cardamom Gin & Tonic,Spirits,30,16,480
+6,Fri,Whiskey (pour),Spirits,26,15,390
+6,Fri,Tequila (pour),Spirits,11,14,154
+6,Fri,Espresso Martini,Spirits,21,18,378
+6,Fri,House Red (glass),Wine,30,16,480
+6,Fri,House White (glass),Wine,20,15,300
+6,Fri,Lager,Beer,25,10,250
+6,Fri,Mango Lassi,Zero-proof,14,10,140
+6,Sat,House Old Fashioned,Spirits,42,17,714
+6,Sat,Mango Chili Margarita,Spirits,54,16,864
+6,Sat,Cardamom Gin & Tonic,Spirits,44,16,704
+6,Sat,Whiskey (pour),Spirits,29,15,435
+6,Sat,Tequila (pour),Spirits,23,14,322
+6,Sat,Espresso Martini,Spirits,32,18,576
+6,Sat,House Red (glass),Wine,26,16,416
+6,Sat,House White (glass),Wine,31,15,465
+6,Sat,Lager,Beer,36,10,360
+6,Sat,Mango Lassi,Zero-proof,17,10,170
+6,Sun,House Old Fashioned,Spirits,29,17,493
+6,Sun,Mango Chili Margarita,Spirits,32,16,512
+6,Sun,Cardamom Gin & Tonic,Spirits,20,16,320
+6,Sun,Whiskey (pour),Spirits,20,15,300
+6,Sun,Tequila (pour),Spirits,19,14,266
+6,Sun,Espresso Martini,Spirits,14,18,252
+6,Sun,House Red (glass),Wine,15,16,240
+6,Sun,House White (glass),Wine,22,15,330
+6,Sun,Lager,Beer,11,10,110
+6,Sun,Mango Lassi,Zero-proof,9,10,90
+7,Mon,House Old Fashioned,Spirits,22,17,374
+7,Mon,Mango Chili Margarita,Spirits,25,16,400
+7,Mon,Cardamom Gin & Tonic,Spirits,11,16,176
+7,Mon,Whiskey (pour),Spirits,11,15,165
+7,Mon,Tequila (pour),Spirits,16,14,224
+7,Mon,Espresso Martini,Spirits,14,18,252
+7,Mon,House Red (glass),Wine,9,16,144
+7,Mon,House White (glass),Wine,12,15,180
+7,Mon,Lager,Beer,10,10,100
+7,Mon,Mango Lassi,Zero-proof,11,10,110
+7,Tue,House Old Fashioned,Spirits,21,17,357
+7,Tue,Mango Chili Margarita,Spirits,20,16,320
+7,Tue,Cardamom Gin & Tonic,Spirits,14,16,224
+7,Tue,Whiskey (pour),Spirits,9,15,135
+7,Tue,Tequila (pour),Spirits,7,14,98
+7,Tue,Espresso Martini,Spirits,15,18,270
+7,Tue,House Red (glass),Wine,13,16,208
+7,Tue,House White (glass),Wine,16,15,240
+7,Tue,Lager,Beer,15,10,150
+7,Tue,Mango Lassi,Zero-proof,11,10,110
+7,Wed,House Old Fashioned,Spirits,26,17,442
+7,Wed,Mango Chili Margarita,Spirits,25,16,400
+7,Wed,Cardamom Gin & Tonic,Spirits,13,16,208
+7,Wed,Whiskey (pour),Spirits,17,15,255
+7,Wed,Tequila (pour),Spirits,16,14,224
+7,Wed,Espresso Martini,Spirits,11,18,198
+7,Wed,House Red (glass),Wine,19,16,304
+7,Wed,House White (glass),Wine,14,15,210
+7,Wed,Lager,Beer,13,10,130
+7,Wed,Mango Lassi,Zero-proof,12,10,120
+7,Thu,House Old Fashioned,Spirits,27,17,459
+7,Thu,Mango Chili Margarita,Spirits,30,16,480
+7,Thu,Cardamom Gin & Tonic,Spirits,20,16,320
+7,Thu,Whiskey (pour),Spirits,24,15,360
+7,Thu,Tequila (pour),Spirits,16,14,224
+7,Thu,Espresso Martini,Spirits,14,18,252
+7,Thu,House Red (glass),Wine,15,16,240
+7,Thu,House White (glass),Wine,19,15,285
+7,Thu,Lager,Beer,12,10,120
+7,Thu,Mango Lassi,Zero-proof,11,10,110
+7,Fri,House Old Fashioned,Spirits,46,17,782
+7,Fri,Mango Chili Margarita,Spirits,59,16,944
+7,Fri,Cardamom Gin & Tonic,Spirits,36,16,576
+7,Fri,Whiskey (pour),Spirits,27,15,405
+7,Fri,Tequila (pour),Spirits,25,14,350
+7,Fri,Espresso Martini,Spirits,24,18,432
+7,Fri,House Red (glass),Wine,26,16,416
+7,Fri,House White (glass),Wine,23,15,345
+7,Fri,Lager,Beer,21,10,210
+7,Fri,Mango Lassi,Zero-proof,21,10,210
+7,Sat,House Old Fashioned,Spirits,38,17,646
+7,Sat,Mango Chili Margarita,Spirits,44,16,704
+7,Sat,Cardamom Gin & Tonic,Spirits,31,16,496
+7,Sat,Whiskey (pour),Spirits,26,15,390
+7,Sat,Tequila (pour),Spirits,23,14,322
+7,Sat,Espresso Martini,Spirits,25,18,450
+7,Sat,House Red (glass),Wine,38,16,608
+7,Sat,House White (glass),Wine,29,15,435
+7,Sat,Lager,Beer,26,10,260
+7,Sat,Mango Lassi,Zero-proof,16,10,160
+7,Sun,House Old Fashioned,Spirits,33,17,561
+7,Sun,Mango Chili Margarita,Spirits,43,16,688
+7,Sun,Cardamom Gin & Tonic,Spirits,32,16,512
+7,Sun,Whiskey (pour),Spirits,30,15,450
+7,Sun,Tequila (pour),Spirits,10,14,140
+7,Sun,Espresso Martini,Spirits,23,18,414
+7,Sun,House Red (glass),Wine,22,16,352
+7,Sun,House White (glass),Wine,16,15,240
+7,Sun,Lager,Beer,16,10,160
+7,Sun,Mango Lassi,Zero-proof,18,10,180
+8,Mon,House Old Fashioned,Spirits,25,17,425
+8,Mon,Mango Chili Margarita,Spirits,35,16,560
+8,Mon,Cardamom Gin & Tonic,Spirits,17,16,272
+8,Mon,Whiskey (pour),Spirits,11,15,165
+8,Mon,Tequila (pour),Spirits,15,14,210
+8,Mon,Espresso Martini,Spirits,12,18,216
+8,Mon,House Red (glass),Wine,11,16,176
+8,Mon,House White (glass),Wine,13,15,195
+8,Mon,Lager,Beer,4,10,40
+8,Mon,Mango Lassi,Zero-proof,6,10,60
+8,Tue,House Old Fashioned,Spirits,23,17,391
+8,Tue,Mango Chili Margarita,Spirits,23,16,368
+8,Tue,Cardamom Gin & Tonic,Spirits,19,16,304
+8,Tue,Whiskey (pour),Spirits,16,15,240
+8,Tue,Tequila (pour),Spirits,11,14,154
+8,Tue,Espresso Martini,Spirits,13,18,234
+8,Tue,House Red (glass),Wine,16,16,256
+8,Tue,House White (glass),Wine,13,15,195
+8,Tue,Lager,Beer,11,10,110
+8,Tue,Mango Lassi,Zero-proof,6,10,60
+8,Wed,House Old Fashioned,Spirits,39,17,663
+8,Wed,Mango Chili Margarita,Spirits,25,16,400
+8,Wed,Cardamom Gin & Tonic,Spirits,22,16,352
+8,Wed,Whiskey (pour),Spirits,25,15,375
+8,Wed,Tequila (pour),Spirits,14,14,196
+8,Wed,Espresso Martini,Spirits,17,18,306
+8,Wed,House Red (glass),Wine,12,16,192
+8,Wed,House White (glass),Wine,14,15,210
+8,Wed,Lager,Beer,17,10,170
+8,Wed,Mango Lassi,Zero-proof,10,10,100
+8,Thu,House Old Fashioned,Spirits,25,17,425
+8,Thu,Mango Chili Margarita,Spirits,30,16,480
+8,Thu,Cardamom Gin & Tonic,Spirits,32,16,512
+8,Thu,Whiskey (pour),Spirits,21,15,315
+8,Thu,Tequila (pour),Spirits,19,14,266
+8,Thu,Espresso Martini,Spirits,19,18,342
+8,Thu,House Red (glass),Wine,22,16,352
+8,Thu,House White (glass),Wine,25,15,375
+8,Thu,Lager,Beer,17,10,170
+8,Thu,Mango Lassi,Zero-proof,9,10,90
+8,Fri,House Old Fashioned,Spirits,53,17,901
+8,Fri,Mango Chili Margarita,Spirits,57,16,912
+8,Fri,Cardamom Gin & Tonic,Spirits,34,16,544
+8,Fri,Whiskey (pour),Spirits,25,15,375
+8,Fri,Tequila (pour),Spirits,16,14,224
+8,Fri,Espresso Martini,Spirits,45,18,810
+8,Fri,House Red (glass),Wine,19,16,304
+8,Fri,House White (glass),Wine,37,15,555
+8,Fri,Lager,Beer,27,10,270
+8,Fri,Mango Lassi,Zero-proof,11,10,110
+8,Sat,House Old Fashioned,Spirits,47,17,799
+8,Sat,Mango Chili Margarita,Spirits,59,16,944
+8,Sat,Cardamom Gin & Tonic,Spirits,32,16,512
+8,Sat,Whiskey (pour),Spirits,34,15,510
+8,Sat,Tequila (pour),Spirits,19,14,266
+8,Sat,Espresso Martini,Spirits,27,18,486
+8,Sat,House Red (glass),Wine,32,16,512
+8,Sat,House White (glass),Wine,30,15,450
+8,Sat,Lager,Beer,25,10,250
+8,Sat,Mango Lassi,Zero-proof,15,10,150
+8,Sun,House Old Fashioned,Spirits,28,17,476
+8,Sun,Mango Chili Margarita,Spirits,47,16,752
+8,Sun,Cardamom Gin & Tonic,Spirits,30,16,480
+8,Sun,Whiskey (pour),Spirits,28,15,420
+8,Sun,Tequila (pour),Spirits,14,14,196
+8,Sun,Espresso Martini,Spirits,22,18,396
+8,Sun,House Red (glass),Wine,15,16,240
+8,Sun,House White (glass),Wine,23,15,345
+8,Sun,Lager,Beer,13,10,130
+8,Sun,Mango Lassi,Zero-proof,13,10,130
+9,Mon,House Old Fashioned,Spirits,21,17,357
+9,Mon,Mango Chili Margarita,Spirits,30,16,480
+9,Mon,Cardamom Gin & Tonic,Spirits,14,16,224
+9,Mon,Whiskey (pour),Spirits,25,15,375
+9,Mon,Tequila (pour),Spirits,11,14,154
+9,Mon,Espresso Martini,Spirits,13,18,234
+9,Mon,House Red (glass),Wine,13,16,208
+9,Mon,House White (glass),Wine,9,15,135
+9,Mon,Lager,Beer,12,10,120
+9,Mon,Mango Lassi,Zero-proof,11,10,110
+9,Tue,House Old Fashioned,Spirits,15,17,255
+9,Tue,Mango Chili Margarita,Spirits,19,16,304
+9,Tue,Cardamom Gin & Tonic,Spirits,18,16,288
+9,Tue,Whiskey (pour),Spirits,17,15,255
+9,Tue,Tequila (pour),Spirits,12,14,168
+9,Tue,Espresso Martini,Spirits,9,18,162
+9,Tue,House Red (glass),Wine,20,16,320
+9,Tue,House White (glass),Wine,16,15,240
+9,Tue,Lager,Beer,9,10,90
+9,Tue,Mango Lassi,Zero-proof,8,10,80
+9,Wed,House Old Fashioned,Spirits,21,17,357
+9,Wed,Mango Chili Margarita,Spirits,24,16,384
+9,Wed,Cardamom Gin & Tonic,Spirits,24,16,384
+9,Wed,Whiskey (pour),Spirits,15,15,225
+9,Wed,Tequila (pour),Spirits,14,14,196
+9,Wed,Espresso Martini,Spirits,14,18,252
+9,Wed,House Red (glass),Wine,25,16,400
+9,Wed,House White (glass),Wine,15,15,225
+9,Wed,Lager,Beer,17,10,170
+9,Wed,Mango Lassi,Zero-proof,8,10,80
+9,Thu,House Old Fashioned,Spirits,32,17,544
+9,Thu,Mango Chili Margarita,Spirits,43,16,688
+9,Thu,Cardamom Gin & Tonic,Spirits,16,16,256
+9,Thu,Whiskey (pour),Spirits,25,15,375
+9,Thu,Tequila (pour),Spirits,14,14,196
+9,Thu,Espresso Martini,Spirits,23,18,414
+9,Thu,House Red (glass),Wine,26,16,416
+9,Thu,House White (glass),Wine,15,15,225
+9,Thu,Lager,Beer,9,10,90
+9,Thu,Mango Lassi,Zero-proof,11,10,110
+9,Fri,House Old Fashioned,Spirits,32,17,544
+9,Fri,Mango Chili Margarita,Spirits,54,16,864
+9,Fri,Cardamom Gin & Tonic,Spirits,34,16,544
+9,Fri,Whiskey (pour),Spirits,29,15,435
+9,Fri,Tequila (pour),Spirits,17,14,238
+9,Fri,Espresso Martini,Spirits,15,18,270
+9,Fri,House Red (glass),Wine,32,16,512
+9,Fri,House White (glass),Wine,19,15,285
+9,Fri,Lager,Beer,24,10,240
+9,Fri,Mango Lassi,Zero-proof,13,10,130
+9,Sat,House Old Fashioned,Spirits,49,17,833
+9,Sat,Mango Chili Margarita,Spirits,54,16,864
+9,Sat,Cardamom Gin & Tonic,Spirits,45,16,720
+9,Sat,Whiskey (pour),Spirits,39,15,585
+9,Sat,Tequila (pour),Spirits,27,14,378
+9,Sat,Espresso Martini,Spirits,26,18,468
+9,Sat,House Red (glass),Wine,32,16,512
+9,Sat,House White (glass),Wine,32,15,480
+9,Sat,Lager,Beer,31,10,310
+9,Sat,Mango Lassi,Zero-proof,22,10,220
+9,Sun,House Old Fashioned,Spirits,23,17,391
+9,Sun,Mango Chili Margarita,Spirits,29,16,464
+9,Sun,Cardamom Gin & Tonic,Spirits,29,16,464
+9,Sun,Whiskey (pour),Spirits,18,15,270
+9,Sun,Tequila (pour),Spirits,13,14,182
+9,Sun,Espresso Martini,Spirits,18,18,324
+9,Sun,House Red (glass),Wine,23,16,368
+9,Sun,House White (glass),Wine,23,15,345
+9,Sun,Lager,Beer,15,10,150
+9,Sun,Mango Lassi,Zero-proof,11,10,110
+10,Mon,House Old Fashioned,Spirits,18,17,306
+10,Mon,Mango Chili Margarita,Spirits,17,16,272
+10,Mon,Cardamom Gin & Tonic,Spirits,23,16,368
+10,Mon,Whiskey (pour),Spirits,20,15,300
+10,Mon,Tequila (pour),Spirits,12,14,168
+10,Mon,Espresso Martini,Spirits,10,18,180
+10,Mon,House Red (glass),Wine,12,16,192
+10,Mon,House White (glass),Wine,12,15,180
+10,Mon,Lager,Beer,10,10,100
+10,Mon,Mango Lassi,Zero-proof,4,10,40
+10,Tue,House Old Fashioned,Spirits,24,17,408
+10,Tue,Mango Chili Margarita,Spirits,33,16,528
+10,Tue,Cardamom Gin & Tonic,Spirits,20,16,320
+10,Tue,Whiskey (pour),Spirits,15,15,225
+10,Tue,Tequila (pour),Spirits,15,14,210
+10,Tue,Espresso Martini,Spirits,14,18,252
+10,Tue,House Red (glass),Wine,18,16,288
+10,Tue,House White (glass),Wine,16,15,240
+10,Tue,Lager,Beer,13,10,130
+10,Tue,Mango Lassi,Zero-proof,10,10,100
+10,Wed,House Old Fashioned,Spirits,32,17,544
+10,Wed,Mango Chili Margarita,Spirits,51,16,816
+10,Wed,Cardamom Gin & Tonic,Spirits,33,16,528
+10,Wed,Whiskey (pour),Spirits,17,15,255
+10,Wed,Tequila (pour),Spirits,16,14,224
+10,Wed,Espresso Martini,Spirits,14,18,252
+10,Wed,House Red (glass),Wine,20,16,320
+10,Wed,House White (glass),Wine,19,15,285
+10,Wed,Lager,Beer,19,10,190
+10,Wed,Mango Lassi,Zero-proof,14,10,140
+10,Thu,House Old Fashioned,Spirits,28,17,476
+10,Thu,Mango Chili Margarita,Spirits,48,16,768
+10,Thu,Cardamom Gin & Tonic,Spirits,39,16,624
+10,Thu,Whiskey (pour),Spirits,13,15,195
+10,Thu,Tequila (pour),Spirits,23,14,322
+10,Thu,Espresso Martini,Spirits,24,18,432
+10,Thu,House Red (glass),Wine,23,16,368
+10,Thu,House White (glass),Wine,21,15,315
+10,Thu,Lager,Beer,16,10,160
+10,Thu,Mango Lassi,Zero-proof,13,10,130
+10,Fri,House Old Fashioned,Spirits,42,17,714
+10,Fri,Mango Chili Margarita,Spirits,50,16,800
+10,Fri,Cardamom Gin & Tonic,Spirits,42,16,672
+10,Fri,Whiskey (pour),Spirits,21,15,315
+10,Fri,Tequila (pour),Spirits,25,14,350
+10,Fri,Espresso Martini,Spirits,30,18,540
+10,Fri,House Red (glass),Wine,43,16,688
+10,Fri,House White (glass),Wine,24,15,360
+10,Fri,Lager,Beer,30,10,300
+10,Fri,Mango Lassi,Zero-proof,7,10,70
+10,Sat,House Old Fashioned,Spirits,42,17,714
+10,Sat,Mango Chili Margarita,Spirits,39,16,624
+10,Sat,Cardamom Gin & Tonic,Spirits,37,16,592
+10,Sat,Whiskey (pour),Spirits,39,15,585
+10,Sat,Tequila (pour),Spirits,29,14,406
+10,Sat,Espresso Martini,Spirits,30,18,540
+10,Sat,House Red (glass),Wine,34,16,544
+10,Sat,House White (glass),Wine,23,15,345
+10,Sat,Lager,Beer,29,10,290
+10,Sat,Mango Lassi,Zero-proof,14,10,140
+10,Sun,House Old Fashioned,Spirits,28,17,476
+10,Sun,Mango Chili Margarita,Spirits,47,16,752
+10,Sun,Cardamom Gin & Tonic,Spirits,26,16,416
+10,Sun,Whiskey (pour),Spirits,20,15,300
+10,Sun,Tequila (pour),Spirits,13,14,182
+10,Sun,Espresso Martini,Spirits,18,18,324
+10,Sun,House Red (glass),Wine,23,16,368
+10,Sun,House White (glass),Wine,23,15,345
+10,Sun,Lager,Beer,15,10,150
+10,Sun,Mango Lassi,Zero-proof,9,10,90
+11,Mon,House Old Fashioned,Spirits,27,19,513
+11,Mon,Mango Chili Margarita,Spirits,16,18,288
+11,Mon,Cardamom Gin & Tonic,Spirits,18,17,306
+11,Mon,Whiskey (pour),Spirits,12,16,192
+11,Mon,Tequila (pour),Spirits,16,15,240
+11,Mon,Espresso Martini,Spirits,14,20,280
+11,Mon,House Red (glass),Wine,18,16,288
+11,Mon,House White (glass),Wine,13,15,195
+11,Mon,Lager,Beer,13,10,130
+11,Mon,Mango Lassi,Zero-proof,3,10,30
+11,Tue,House Old Fashioned,Spirits,22,19,418
+11,Tue,Mango Chili Margarita,Spirits,23,18,414
+11,Tue,Cardamom Gin & Tonic,Spirits,32,17,544
+11,Tue,Whiskey (pour),Spirits,19,16,304
+11,Tue,Tequila (pour),Spirits,14,15,210
+11,Tue,Espresso Martini,Spirits,11,20,220
+11,Tue,House Red (glass),Wine,17,16,272
+11,Tue,House White (glass),Wine,19,15,285
+11,Tue,Lager,Beer,21,10,210
+11,Tue,Mango Lassi,Zero-proof,5,10,50
+11,Wed,House Old Fashioned,Spirits,25,19,475
+11,Wed,Mango Chili Margarita,Spirits,24,18,432
+11,Wed,Cardamom Gin & Tonic,Spirits,28,17,476
+11,Wed,Whiskey (pour),Spirits,22,16,352
+11,Wed,Tequila (pour),Spirits,13,15,195
+11,Wed,Espresso Martini,Spirits,21,20,420
+11,Wed,House Red (glass),Wine,25,16,400
+11,Wed,House White (glass),Wine,14,15,210
+11,Wed,Lager,Beer,15,10,150
+11,Wed,Mango Lassi,Zero-proof,8,10,80
+11,Thu,House Old Fashioned,Spirits,37,19,703
+11,Thu,Mango Chili Margarita,Spirits,34,18,612
+11,Thu,Cardamom Gin & Tonic,Spirits,28,17,476
+11,Thu,Whiskey (pour),Spirits,28,16,448
+11,Thu,Tequila (pour),Spirits,13,15,195
+11,Thu,Espresso Martini,Spirits,22,20,440
+11,Thu,House Red (glass),Wine,21,16,336
+11,Thu,House White (glass),Wine,30,15,450
+11,Thu,Lager,Beer,17,10,170
+11,Thu,Mango Lassi,Zero-proof,6,10,60
+11,Fri,House Old Fashioned,Spirits,45,19,855
+11,Fri,Mango Chili Margarita,Spirits,39,18,702
+11,Fri,Cardamom Gin & Tonic,Spirits,28,17,476
+11,Fri,Whiskey (pour),Spirits,36,16,576
+11,Fri,Tequila (pour),Spirits,17,15,255
+11,Fri,Espresso Martini,Spirits,20,20,400
+11,Fri,House Red (glass),Wine,29,16,464
+11,Fri,House White (glass),Wine,33,15,495
+11,Fri,Lager,Beer,26,10,260
+11,Fri,Mango Lassi,Zero-proof,14,10,140
+11,Sat,House Old Fashioned,Spirits,51,19,969
+11,Sat,Mango Chili Margarita,Spirits,46,18,828
+11,Sat,Cardamom Gin & Tonic,Spirits,36,17,612
+11,Sat,Whiskey (pour),Spirits,34,16,544
+11,Sat,Tequila (pour),Spirits,34,15,510
+11,Sat,Espresso Martini,Spirits,31,20,620
+11,Sat,House Red (glass),Wine,38,16,608
+11,Sat,House White (glass),Wine,34,15,510
+11,Sat,Lager,Beer,29,10,290
+11,Sat,Mango Lassi,Zero-proof,16,10,160
+11,Sun,House Old Fashioned,Spirits,25,19,475
+11,Sun,Mango Chili Margarita,Spirits,40,18,720
+11,Sun,Cardamom Gin & Tonic,Spirits,29,17,493
+11,Sun,Whiskey (pour),Spirits,23,16,368
+11,Sun,Tequila (pour),Spirits,20,15,300
+11,Sun,Espresso Martini,Spirits,20,20,400
+11,Sun,House Red (glass),Wine,24,16,384
+11,Sun,House White (glass),Wine,18,15,270
+11,Sun,Lager,Beer,18,10,180
+11,Sun,Mango Lassi,Zero-proof,11,10,110
+12,Mon,House Old Fashioned,Spirits,19,19,361
+12,Mon,Mango Chili Margarita,Spirits,29,18,522
+12,Mon,Cardamom Gin & Tonic,Spirits,28,17,476
+12,Mon,Whiskey (pour),Spirits,28,16,448
+12,Mon,Tequila (pour),Spirits,13,15,195
+12,Mon,Espresso Martini,Spirits,20,20,400
+12,Mon,House Red (glass),Wine,13,16,208
+12,Mon,House White (glass),Wine,8,15,120
+12,Mon,Lager,Beer,13,10,130
+12,Mon,Mango Lassi,Zero-proof,7,10,70
+12,Tue,House Old Fashioned,Spirits,34,19,646
+12,Tue,Mango Chili Margarita,Spirits,29,18,522
+12,Tue,Cardamom Gin & Tonic,Spirits,24,17,408
+12,Tue,Whiskey (pour),Spirits,20,16,320
+12,Tue,Tequila (pour),Spirits,16,15,240
+12,Tue,Espresso Martini,Spirits,21,20,420
+12,Tue,House Red (glass),Wine,13,16,208
+12,Tue,House White (glass),Wine,13,15,195
+12,Tue,Lager,Beer,17,10,170
+12,Tue,Mango Lassi,Zero-proof,10,10,100
+12,Wed,House Old Fashioned,Spirits,24,19,456
+12,Wed,Mango Chili Margarita,Spirits,25,18,450
+12,Wed,Cardamom Gin & Tonic,Spirits,21,17,357
+12,Wed,Whiskey (pour),Spirits,14,16,224
+12,Wed,Tequila (pour),Spirits,9,15,135
+12,Wed,Espresso Martini,Spirits,16,20,320
+12,Wed,House Red (glass),Wine,14,16,224
+12,Wed,House White (glass),Wine,10,15,150
+12,Wed,Lager,Beer,17,10,170
+12,Wed,Mango Lassi,Zero-proof,7,10,70
+12,Thu,House Old Fashioned,Spirits,28,19,532
+12,Thu,Mango Chili Margarita,Spirits,33,18,594
+12,Thu,Cardamom Gin & Tonic,Spirits,33,17,561
+12,Thu,Whiskey (pour),Spirits,20,16,320
+12,Thu,Tequila (pour),Spirits,14,15,210
+12,Thu,Espresso Martini,Spirits,25,20,500
+12,Thu,House Red (glass),Wine,36,16,576
+12,Thu,House White (glass),Wine,22,15,330
+12,Thu,Lager,Beer,13,10,130
+12,Thu,Mango Lassi,Zero-proof,18,10,180
+12,Fri,House Old Fashioned,Spirits,56,19,1064
+12,Fri,Mango Chili Margarita,Spirits,48,18,864
+12,Fri,Cardamom Gin & Tonic,Spirits,46,17,782
+12,Fri,Whiskey (pour),Spirits,45,16,720
+12,Fri,Tequila (pour),Spirits,19,15,285
+12,Fri,Espresso Martini,Spirits,23,20,460
+12,Fri,House Red (glass),Wine,34,16,544
+12,Fri,House White (glass),Wine,22,15,330
+12,Fri,Lager,Beer,24,10,240
+12,Fri,Mango Lassi,Zero-proof,14,10,140
+12,Sat,House Old Fashioned,Spirits,59,19,1121
+12,Sat,Mango Chili Margarita,Spirits,56,18,1008
+12,Sat,Cardamom Gin & Tonic,Spirits,40,17,680
+12,Sat,Whiskey (pour),Spirits,27,16,432
+12,Sat,Tequila (pour),Spirits,25,15,375
+12,Sat,Espresso Martini,Spirits,40,20,800
+12,Sat,House Red (glass),Wine,36,16,576
+12,Sat,House White (glass),Wine,40,15,600
+12,Sat,Lager,Beer,26,10,260
+12,Sat,Mango Lassi,Zero-proof,23,10,230
+12,Sun,House Old Fashioned,Spirits,25,19,475
+12,Sun,Mango Chili Margarita,Spirits,36,18,648
+12,Sun,Cardamom Gin & Tonic,Spirits,33,17,561
+12,Sun,Whiskey (pour),Spirits,24,16,384
+12,Sun,Tequila (pour),Spirits,17,15,255
+12,Sun,Espresso Martini,Spirits,16,20,320
+12,Sun,House Red (glass),Wine,23,16,368
+12,Sun,House White (glass),Wine,13,15,195
+12,Sun,Lager,Beer,16,10,160
+12,Sun,Mango Lassi,Zero-proof,14,10,140
+13,Mon,House Old Fashioned,Spirits,20,19,380
+13,Mon,Mango Chili Margarita,Spirits,27,18,486
+13,Mon,Cardamom Gin & Tonic,Spirits,18,17,306
+13,Mon,Whiskey (pour),Spirits,15,16,240
+13,Mon,Tequila (pour),Spirits,16,15,240
+13,Mon,Espresso Martini,Spirits,11,20,220
+13,Mon,House Red (glass),Wine,18,16,288
+13,Mon,House White (glass),Wine,15,15,225
+13,Mon,Lager,Beer,12,10,120
+13,Mon,Mango Lassi,Zero-proof,15,10,150
+13,Tue,House Old Fashioned,Spirits,25,19,475
+13,Tue,Mango Chili Margarita,Spirits,39,18,702
+13,Tue,Cardamom Gin & Tonic,Spirits,13,17,221
+13,Tue,Whiskey (pour),Spirits,20,16,320
+13,Tue,Tequila (pour),Spirits,12,15,180
+13,Tue,Espresso Martini,Spirits,8,20,160
+13,Tue,House Red (glass),Wine,13,16,208
+13,Tue,House White (glass),Wine,9,15,135
+13,Tue,Lager,Beer,8,10,80
+13,Tue,Mango Lassi,Zero-proof,7,10,70
+13,Wed,House Old Fashioned,Spirits,23,19,437
+13,Wed,Mango Chili Margarita,Spirits,31,18,558
+13,Wed,Cardamom Gin & Tonic,Spirits,21,17,357
+13,Wed,Whiskey (pour),Spirits,18,16,288
+13,Wed,Tequila (pour),Spirits,12,15,180
+13,Wed,Espresso Martini,Spirits,14,20,280
+13,Wed,House Red (glass),Wine,18,16,288
+13,Wed,House White (glass),Wine,19,15,285
+13,Wed,Lager,Beer,16,10,160
+13,Wed,Mango Lassi,Zero-proof,12,10,120
+13,Thu,House Old Fashioned,Spirits,28,19,532
+13,Thu,Mango Chili Margarita,Spirits,34,18,612
+13,Thu,Cardamom Gin & Tonic,Spirits,25,17,425
+13,Thu,Whiskey (pour),Spirits,29,16,464
+13,Thu,Tequila (pour),Spirits,18,15,270
+13,Thu,Espresso Martini,Spirits,19,20,380
+13,Thu,House Red (glass),Wine,26,16,416
+13,Thu,House White (glass),Wine,13,15,195
+13,Thu,Lager,Beer,13,10,130
+13,Thu,Mango Lassi,Zero-proof,8,10,80
+13,Fri,House Old Fashioned,Spirits,45,19,855
+13,Fri,Mango Chili Margarita,Spirits,49,18,882
+13,Fri,Cardamom Gin & Tonic,Spirits,43,17,731
+13,Fri,Whiskey (pour),Spirits,43,16,688
+13,Fri,Tequila (pour),Spirits,13,15,195
+13,Fri,Espresso Martini,Spirits,38,20,760
+13,Fri,House Red (glass),Wine,40,16,640
+13,Fri,House White (glass),Wine,21,15,315
+13,Fri,Lager,Beer,24,10,240
+13,Fri,Mango Lassi,Zero-proof,20,10,200
+13,Sat,House Old Fashioned,Spirits,61,19,1159
+13,Sat,Mango Chili Margarita,Spirits,53,18,954
+13,Sat,Cardamom Gin & Tonic,Spirits,37,17,629
+13,Sat,Whiskey (pour),Spirits,33,16,528
+13,Sat,Tequila (pour),Spirits,19,15,285
+13,Sat,Espresso Martini,Spirits,38,20,760
+13,Sat,House Red (glass),Wine,33,16,528
+13,Sat,House White (glass),Wine,40,15,600
+13,Sat,Lager,Beer,30,10,300
+13,Sat,Mango Lassi,Zero-proof,14,10,140
+13,Sun,House Old Fashioned,Spirits,37,19,703
+13,Sun,Mango Chili Margarita,Spirits,33,18,594
+13,Sun,Cardamom Gin & Tonic,Spirits,32,17,544
+13,Sun,Whiskey (pour),Spirits,22,16,352
+13,Sun,Tequila (pour),Spirits,15,15,225
+13,Sun,Espresso Martini,Spirits,25,20,500
+13,Sun,House Red (glass),Wine,36,16,576
+13,Sun,House White (glass),Wine,25,15,375
+13,Sun,Lager,Beer,27,10,270
+13,Sun,Mango Lassi,Zero-proof,13,10,130
+14,Mon,House Old Fashioned,Spirits,12,19,228
+14,Mon,Mango Chili Margarita,Spirits,24,18,432
+14,Mon,Cardamom Gin & Tonic,Spirits,21,17,357
+14,Mon,Whiskey (pour),Spirits,19,16,304
+14,Mon,Tequila (pour),Spirits,8,15,120
+14,Mon,Espresso Martini,Spirits,18,20,360
+14,Mon,House Red (glass),Wine,8,16,128
+14,Mon,House White (glass),Wine,10,15,150
+14,Mon,Lager,Beer,11,10,110
+14,Mon,Mango Lassi,Zero-proof,8,10,80
+14,Tue,House Old Fashioned,Spirits,18,19,342
+14,Tue,Mango Chili Margarita,Spirits,19,18,342
+14,Tue,Cardamom Gin & Tonic,Spirits,15,17,255
+14,Tue,Whiskey (pour),Spirits,19,16,304
+14,Tue,Tequila (pour),Spirits,11,15,165
+14,Tue,Espresso Martini,Spirits,22,20,440
+14,Tue,House Red (glass),Wine,7,16,112
+14,Tue,House White (glass),Wine,20,15,300
+14,Tue,Lager,Beer,13,10,130
+14,Tue,Mango Lassi,Zero-proof,6,10,60
+14,Wed,House Old Fashioned,Spirits,23,19,437
+14,Wed,Mango Chili Margarita,Spirits,26,18,468
+14,Wed,Cardamom Gin & Tonic,Spirits,25,17,425
+14,Wed,Whiskey (pour),Spirits,25,16,400
+14,Wed,Tequila (pour),Spirits,15,15,225
+14,Wed,Espresso Martini,Spirits,24,20,480
+14,Wed,House Red (glass),Wine,12,16,192
+14,Wed,House White (glass),Wine,12,15,180
+14,Wed,Lager,Beer,19,10,190
+14,Wed,Mango Lassi,Zero-proof,11,10,110
+14,Thu,House Old Fashioned,Spirits,27,19,513
+14,Thu,Mango Chili Margarita,Spirits,25,18,450
+14,Thu,Cardamom Gin & Tonic,Spirits,27,17,459
+14,Thu,Whiskey (pour),Spirits,23,16,368
+14,Thu,Tequila (pour),Spirits,17,15,255
+14,Thu,Espresso Martini,Spirits,17,20,340
+14,Thu,House Red (glass),Wine,22,16,352
+14,Thu,House White (glass),Wine,11,15,165
+14,Thu,Lager,Beer,9,10,90
+14,Thu,Mango Lassi,Zero-proof,7,10,70
+14,Fri,House Old Fashioned,Spirits,49,19,931
+14,Fri,Mango Chili Margarita,Spirits,61,18,1098
+14,Fri,Cardamom Gin & Tonic,Spirits,40,17,680
+14,Fri,Whiskey (pour),Spirits,30,16,480
+14,Fri,Tequila (pour),Spirits,19,15,285
+14,Fri,Espresso Martini,Spirits,23,20,460
+14,Fri,House Red (glass),Wine,27,16,432
+14,Fri,House White (glass),Wine,31,15,465
+14,Fri,Lager,Beer,22,10,220
+14,Fri,Mango Lassi,Zero-proof,18,10,180
+14,Sat,House Old Fashioned,Spirits,56,19,1064
+14,Sat,Mango Chili Margarita,Spirits,48,18,864
+14,Sat,Cardamom Gin & Tonic,Spirits,33,17,561
+14,Sat,Whiskey (pour),Spirits,44,16,704
+14,Sat,Tequila (pour),Spirits,21,15,315
+14,Sat,Espresso Martini,Spirits,20,20,400
+14,Sat,House Red (glass),Wine,29,16,464
+14,Sat,House White (glass),Wine,34,15,510
+14,Sat,Lager,Beer,21,10,210
+14,Sat,Mango Lassi,Zero-proof,20,10,200
+14,Sun,House Old Fashioned,Spirits,34,19,646
+14,Sun,Mango Chili Margarita,Spirits,43,18,774
+14,Sun,Cardamom Gin & Tonic,Spirits,40,17,680
+14,Sun,Whiskey (pour),Spirits,16,16,256
+14,Sun,Tequila (pour),Spirits,15,15,225
+14,Sun,Espresso Martini,Spirits,18,20,360
+14,Sun,House Red (glass),Wine,18,16,288
+14,Sun,House White (glass),Wine,18,15,270
+14,Sun,Lager,Beer,14,10,140
+14,Sun,Mango Lassi,Zero-proof,14,10,140
+15,Mon,House Old Fashioned,Spirits,18,19,342
+15,Mon,Mango Chili Margarita,Spirits,18,18,324
+15,Mon,Cardamom Gin & Tonic,Spirits,19,17,323
+15,Mon,Whiskey (pour),Spirits,13,16,208
+15,Mon,Tequila (pour),Spirits,9,15,135
+15,Mon,Espresso Martini,Spirits,10,20,200
+15,Mon,House Red (glass),Wine,9,16,144
+15,Mon,House White (glass),Wine,15,15,225
+15,Mon,Lager,Beer,12,10,120
+15,Mon,Mango Lassi,Zero-proof,5,10,50
+15,Tue,House Old Fashioned,Spirits,28,19,532
+15,Tue,Mango Chili Margarita,Spirits,24,18,432
+15,Tue,Cardamom Gin & Tonic,Spirits,18,17,306
+15,Tue,Whiskey (pour),Spirits,17,16,272
+15,Tue,Tequila (pour),Spirits,12,15,180
+15,Tue,Espresso Martini,Spirits,16,20,320
+15,Tue,House Red (glass),Wine,11,16,176
+15,Tue,House White (glass),Wine,18,15,270
+15,Tue,Lager,Beer,10,10,100
+15,Tue,Mango Lassi,Zero-proof,6,10,60
+15,Wed,House Old Fashioned,Spirits,25,19,475
+15,Wed,Mango Chili Margarita,Spirits,26,18,468
+15,Wed,Cardamom Gin & Tonic,Spirits,18,17,306
+15,Wed,Whiskey (pour),Spirits,17,16,272
+15,Wed,Tequila (pour),Spirits,16,15,240
+15,Wed,Espresso Martini,Spirits,13,20,260
+15,Wed,House Red (glass),Wine,14,16,224
+15,Wed,House White (glass),Wine,11,15,165
+15,Wed,Lager,Beer,16,10,160
+15,Wed,Mango Lassi,Zero-proof,5,10,50
+15,Thu,House Old Fashioned,Spirits,28,19,532
+15,Thu,Mango Chili Margarita,Spirits,40,18,720
+15,Thu,Cardamom Gin & Tonic,Spirits,27,17,459
+15,Thu,Whiskey (pour),Spirits,19,16,304
+15,Thu,Tequila (pour),Spirits,22,15,330
+15,Thu,Espresso Martini,Spirits,14,20,280
+15,Thu,House Red (glass),Wine,22,16,352
+15,Thu,House White (glass),Wine,17,15,255
+15,Thu,Lager,Beer,22,10,220
+15,Thu,Mango Lassi,Zero-proof,9,10,90
+15,Fri,House Old Fashioned,Spirits,39,19,741
+15,Fri,Mango Chili Margarita,Spirits,41,18,738
+15,Fri,Cardamom Gin & Tonic,Spirits,37,17,629
+15,Fri,Whiskey (pour),Spirits,35,16,560
+15,Fri,Tequila (pour),Spirits,22,15,330
+15,Fri,Espresso Martini,Spirits,16,20,320
+15,Fri,House Red (glass),Wine,29,16,464
+15,Fri,House White (glass),Wine,28,15,420
+15,Fri,Lager,Beer,27,10,270
+15,Fri,Mango Lassi,Zero-proof,10,10,100
+15,Sat,House Old Fashioned,Spirits,47,19,893
+15,Sat,Mango Chili Margarita,Spirits,63,18,1134
+15,Sat,Cardamom Gin & Tonic,Spirits,47,17,799
+15,Sat,Whiskey (pour),Spirits,36,16,576
+15,Sat,Tequila (pour),Spirits,35,15,525
+15,Sat,Espresso Martini,Spirits,30,20,600
+15,Sat,House Red (glass),Wine,31,16,496
+15,Sat,House White (glass),Wine,33,15,495
+15,Sat,Lager,Beer,19,10,190
+15,Sat,Mango Lassi,Zero-proof,20,10,200
+15,Sun,House Old Fashioned,Spirits,27,19,513
+15,Sun,Mango Chili Margarita,Spirits,38,18,684
+15,Sun,Cardamom Gin & Tonic,Spirits,33,17,561
+15,Sun,Whiskey (pour),Spirits,19,16,304
+15,Sun,Tequila (pour),Spirits,12,15,180
+15,Sun,Espresso Martini,Spirits,15,20,300
+15,Sun,House Red (glass),Wine,18,16,288
+15,Sun,House White (glass),Wine,22,15,330
+15,Sun,Lager,Beer,8,10,80
+15,Sun,Mango Lassi,Zero-proof,7,10,70
+16,Mon,House Old Fashioned,Spirits,17,19,323
+16,Mon,Mango Chili Margarita,Spirits,19,18,342
+16,Mon,Cardamom Gin & Tonic,Spirits,24,17,408
+16,Mon,Whiskey (pour),Spirits,16,16,256
+16,Mon,Tequila (pour),Spirits,5,15,75
+16,Mon,Espresso Martini,Spirits,18,20,360
+16,Mon,House Red (glass),Wine,18,16,288
+16,Mon,House White (glass),Wine,18,15,270
+16,Mon,Lager,Beer,12,10,120
+16,Mon,Mango Lassi,Zero-proof,5,10,50
+16,Tue,House Old Fashioned,Spirits,20,19,380
+16,Tue,Mango Chili Margarita,Spirits,26,18,468
+16,Tue,Cardamom Gin & Tonic,Spirits,16,17,272
+16,Tue,Whiskey (pour),Spirits,13,16,208
+16,Tue,Tequila (pour),Spirits,4,15,60
+16,Tue,Espresso Martini,Spirits,9,20,180
+16,Tue,House Red (glass),Wine,21,16,336
+16,Tue,House White (glass),Wine,18,15,270
+16,Tue,Lager,Beer,15,10,150
+16,Tue,Mango Lassi,Zero-proof,7,10,70
+16,Wed,House Old Fashioned,Spirits,19,19,361
+16,Wed,Mango Chili Margarita,Spirits,32,18,576
+16,Wed,Cardamom Gin & Tonic,Spirits,25,17,425
+16,Wed,Whiskey (pour),Spirits,21,16,336
+16,Wed,Tequila (pour),Spirits,14,15,210
+16,Wed,Espresso Martini,Spirits,25,20,500
+16,Wed,House Red (glass),Wine,17,16,272
+16,Wed,House White (glass),Wine,19,15,285
+16,Wed,Lager,Beer,23,10,230
+16,Wed,Mango Lassi,Zero-proof,8,10,80
+16,Thu,House Old Fashioned,Spirits,32,19,608
+16,Thu,Mango Chili Margarita,Spirits,32,18,576
+16,Thu,Cardamom Gin & Tonic,Spirits,32,17,544
+16,Thu,Whiskey (pour),Spirits,20,16,320
+16,Thu,Tequila (pour),Spirits,15,15,225
+16,Thu,Espresso Martini,Spirits,17,20,340
+16,Thu,House Red (glass),Wine,20,16,320
+16,Thu,House White (glass),Wine,15,15,225
+16,Thu,Lager,Beer,17,10,170
+16,Thu,Mango Lassi,Zero-proof,8,10,80
+16,Fri,House Old Fashioned,Spirits,46,19,874
+16,Fri,Mango Chili Margarita,Spirits,49,18,882
+16,Fri,Cardamom Gin & Tonic,Spirits,29,17,493
+16,Fri,Whiskey (pour),Spirits,25,16,400
+16,Fri,Tequila (pour),Spirits,21,15,315
+16,Fri,Espresso Martini,Spirits,31,20,620
+16,Fri,House Red (glass),Wine,30,16,480
+16,Fri,House White (glass),Wine,33,15,495
+16,Fri,Lager,Beer,24,10,240
+16,Fri,Mango Lassi,Zero-proof,20,10,200
+16,Sat,House Old Fashioned,Spirits,53,19,1007
+16,Sat,Mango Chili Margarita,Spirits,56,18,1008
+16,Sat,Cardamom Gin & Tonic,Spirits,47,17,799
+16,Sat,Whiskey (pour),Spirits,37,16,592
+16,Sat,Tequila (pour),Spirits,26,15,390
+16,Sat,Espresso Martini,Spirits,27,20,540
+16,Sat,House Red (glass),Wine,31,16,496
+16,Sat,House White (glass),Wine,35,15,525
+16,Sat,Lager,Beer,27,10,270
+16,Sat,Mango Lassi,Zero-proof,17,10,170
+16,Sun,House Old Fashioned,Spirits,29,19,551
+16,Sun,Mango Chili Margarita,Spirits,29,18,522
+16,Sun,Cardamom Gin & Tonic,Spirits,30,17,510
+16,Sun,Whiskey (pour),Spirits,23,16,368
+16,Sun,Tequila (pour),Spirits,10,15,150
+16,Sun,Espresso Martini,Spirits,26,20,520
+16,Sun,House Red (glass),Wine,22,16,352
+16,Sun,House White (glass),Wine,29,15,435
+16,Sun,Lager,Beer,16,10,160
+16,Sun,Mango Lassi,Zero-proof,16,10,160

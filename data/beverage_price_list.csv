@@ -1,0 +1,21 @@
+item,category,price,effective_from_week,effective_to_week
+House Old Fashioned,Spirits,17,1,5
+Mango Chili Margarita,Spirits,16,1,5
+Cardamom Gin & Tonic,Spirits,16,1,5
+Whiskey (pour),Spirits,15,1,5
+Tequila (pour),Spirits,14,1,5
+Espresso Martini,Spirits,18,1,5
+House Red (glass),Wine,15,1,5
+House White (glass),Wine,14,1,5
+Lager,Beer,9,1,5
+Mango Lassi,Zero-proof,9,1,5
+House Old Fashioned,Spirits,19,6,99
+Mango Chili Margarita,Spirits,18,6,99
+Cardamom Gin & Tonic,Spirits,17,6,99
+Whiskey (pour),Spirits,16,6,99
+Tequila (pour),Spirits,15,6,99
+Espresso Martini,Spirits,20,6,99
+House Red (glass),Wine,16,6,99
+House White (glass),Wine,15,6,99
+Lager,Beer,10,6,99
+Mango Lassi,Zero-proof,10,6,99
