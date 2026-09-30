@@ -8,7 +8,7 @@ This project rebuilds both analyses in SQL on simulated data I can share publicl
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-4479A1?style=flat)
 ![Python](https://img.shields.io/badge/Python-pandas-3776AB?style=flat)
-![Tableau][![Tableau](https://img.shields.io/badge/Tableau-dashboard-E97627?style=flat)](https://public.tableau.com/app/profile/deepanshi.behal5790/viz/RestaurantGuestAnalytics/GuestAnalytics)
+![Tableau]   [![Tableau](https://img.shields.io/badge/Tableau-dashboard-E97627?style=flat)](https://public.tableau.com/app/profile/deepanshi.behal5790/viz/RestaurantGuestAnalytics/GuestAnalytics)
 
 ---
 
