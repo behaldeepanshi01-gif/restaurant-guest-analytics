@@ -8,7 +8,7 @@ This project rebuilds both analyses in SQL on simulated data I can share publicl
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-4479A1?style=flat)
 ![Python](https://img.shields.io/badge/Python-pandas-3776AB?style=flat)
-![Tableau](https://img.shields.io/badge/Tableau-dashboard-E97627?style=flat)](https://public.tableau.com/app/profile/deepanshi.behal5790/viz/RestaurantGuestAnalytics/GuestAnalytics)
+[![Tableau](https://img.shields.io/badge/Tableau-dashboard-E97627?style=flat)](https://public.tableau.com/app/profile/deepanshi.behal5790/viz/RestaurantGuestAnalytics/GuestAnalytics)
 
 ---
 
@@ -37,7 +37,7 @@ An upscale 90-seat dinner restaurant with a bar in NYC, over 16 weeks:
 | Covers per server | Avg ticket time | Avg rating |
 |---|---|---|
 | Up to 26 | 14.6 min | 4.51 |
-| 26 to 30 | 15.1 min | 4.50 |
+| 26 to 30 | 15.1 min | 4.48 |
 | 30 to 34 | 19.0 min | 4.21 |
 | Over 34 | 25.2 min | **3.35** |
 
