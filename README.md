@@ -43,7 +43,7 @@ An upscale 90-seat dinner restaurant with a bar in NYC, over 16 weeks:
 
 Food wasn't the problem. Service speed at peak was.
 
-**3. Unhappy guests were talking about waiting (Q3).** Before the fix, 53% of 1 to 3 star reviews were about wait time or service speed.After, it was about 12%.
+**3. Unhappy guests were talking about waiting (Q3).** Before the fix, 53% of 1 to 3 star reviews were about wait time or service speed. After, it was about 12%.
 
 **4. The fix lifted satisfaction 22% (Q4).**
 
